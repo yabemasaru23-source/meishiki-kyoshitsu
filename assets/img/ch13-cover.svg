@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="夜空のような背景に、4本の柱が並んでいる。左から時柱（晩年）、日柱（自分）、月柱（仕事）、年柱（ルーツ）。それぞれの柱の上に星が1つずつ光り、月柱の星がいちばん大きく輝いている。上に「同じ星でも、柱で変わる」と書かれている">
+<rect width="800" height="320" fill="#2a2438"/>
+<g fill="#f3d68d"><circle cx="60" cy="60" r="2.5"/><circle cx="740" cy="80" r="2.5"/><circle cx="90" cy="250" r="2.5"/><circle cx="720" cy="240" r="2.5"/><circle cx="120" cy="150" r="2"/><circle cx="690" cy="160" r="2"/></g>
+<text x="400" y="46" font-size="24" font-weight="700" fill="#f3d68d" text-anchor="middle" font-family="Zen Maru Gothic, sans-serif">同じ星でも、柱で変わる</text>
+<rect x="160" y="262" width="480" height="8" rx="4" fill="#a99acb"/>
+<rect x="184" y="104" width="72" height="158" rx="8" fill="#3a3350" stroke="#a99acb" stroke-width="2"/>
+<rect x="176" y="96" width="88" height="12" rx="4" fill="#a99acb"/>
+<polygon points="220.0,62.0 223.2,69.6 231.4,70.3 225.1,75.7 227.1,83.7 220.0,79.4 212.9,83.7 214.9,75.7 208.6,70.3 216.8,69.6" fill="#d9c88f"/>
+<text x="220" y="190" font-size="16" fill="#f1ebe0" text-anchor="middle" font-family="Zen Maru Gothic, sans-serif">晩年</text>
+<text x="220" y="298" font-size="18" font-weight="900" fill="#f1ebe0" text-anchor="middle" font-family="Zen Old Mincho, serif">時柱</text>
+<rect x="304" y="104" width="72" height="158" rx="8" fill="#3a3350" stroke="#a99acb" stroke-width="2"/>
+<rect x="296" y="96" width="88" height="12" rx="4" fill="#a99acb"/>
+<polygon points="340.0,62.0 343.2,69.6 351.4,70.3 345.1,75.7 347.1,83.7 340.0,79.4 332.9,83.7 334.9,75.7 328.6,70.3 336.8,69.6" fill="#d9c88f"/>
+<text x="340" y="190" font-size="16" fill="#f1ebe0" text-anchor="middle" font-family="Zen Maru Gothic, sans-serif">自分</text>
+<text x="340" y="298" font-size="18" font-weight="900" fill="#f1ebe0" text-anchor="middle" font-family="Zen Old Mincho, serif">日柱</text>
+<rect x="424" y="104" width="72" height="158" rx="8" fill="#3a3350" stroke="#d9a441" stroke-width="3"/>
+<rect x="416" y="96" width="88" height="12" rx="4" fill="#d9a441"/>
+<polygon points="460.0,56.0 464.8,67.4 477.1,68.4 467.7,76.5 470.6,88.6 460.0,82.1 449.4,88.6 452.3,76.5 442.9,68.4 455.2,67.4" fill="#f3d68d"/>
+<text x="460" y="190" font-size="16" fill="#f1ebe0" text-anchor="middle" font-family="Zen Maru Gothic, sans-serif">仕事</text>
+<text x="460" y="298" font-size="18" font-weight="900" fill="#f3d68d" text-anchor="middle" font-family="Zen Old Mincho, serif">月柱</text>
+<rect x="544" y="104" width="72" height="158" rx="8" fill="#3a3350" stroke="#a99acb" stroke-width="2"/>
+<rect x="536" y="96" width="88" height="12" rx="4" fill="#a99acb"/>
+<polygon points="580.0,62.0 583.2,69.6 591.4,70.3 585.1,75.7 587.1,83.7 580.0,79.4 572.9,83.7 574.9,75.7 568.6,70.3 576.8,69.6" fill="#d9c88f"/>
+<text x="580" y="190" font-size="16" fill="#f1ebe0" text-anchor="middle" font-family="Zen Maru Gothic, sans-serif">ルーツ</text>
+<text x="580" y="298" font-size="18" font-weight="900" fill="#f1ebe0" text-anchor="middle" font-family="Zen Old Mincho, serif">年柱</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="3枚のカードが横に並んでいる。左から「1人目・いっしょに」そうたさん（日干 丁、火の色）、「2人目・ヒントつき」ふみえさん（日干 癸、水の色）、「3人目・ひとりで」れんさん（日干 癸、水の色）。まわりに桜の花びらが舞っている">
+<rect width="800" height="320" fill="var(--sun-soft, #f6ead0)"/>
+<g fill="#f2c4cf">
+  <path d="M60 60 q10 -14 20 0 q-10 14 -20 0z"/>
+  <path d="M740 48 q10 -14 20 0 q-10 14 -20 0z"/>
+  <path d="M40 250 q8 -12 16 0 q-8 12 -16 0z"/>
+  <path d="M752 236 q8 -12 16 0 q-8 12 -16 0z"/>
+  <path d="M290 34 q8 -12 16 0 q-8 12 -16 0z"/>
+  <path d="M500 30 q8 -12 16 0 q-8 12 -16 0z"/>
+  <path d="M396 296 q8 -12 16 0 q-8 12 -16 0z"/>
+</g>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <!-- 1人目 -->
+  <rect x="100" y="70" width="180" height="200" rx="16" fill="var(--surface, #fffdf8)" stroke="var(--ka, #c03430)" stroke-width="4"/>
+  <text x="190" y="104" font-size="15" fill="var(--ink-soft, #6a6157)">1人目・いっしょに</text>
+  <text x="190" y="200" font-size="80" font-weight="900" fill="var(--ka, #c03430)" font-family="Zen Old Mincho, serif">丁</text>
+  <text x="190" y="248" font-size="20" font-weight="700" fill="var(--ink, #26221d)">そうたさん</text>
+  <!-- 2人目 -->
+  <rect x="310" y="70" width="180" height="200" rx="16" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="4"/>
+  <text x="400" y="104" font-size="15" fill="var(--ink-soft, #6a6157)">2人目・ヒントつき</text>
+  <text x="400" y="200" font-size="80" font-weight="900" fill="var(--sui, #2854a0)" font-family="Zen Old Mincho, serif">癸</text>
+  <text x="400" y="248" font-size="20" font-weight="700" fill="var(--ink, #26221d)">ふみえさん</text>
+  <!-- 3人目 -->
+  <rect x="520" y="70" width="180" height="200" rx="16" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="4"/>
+  <text x="610" y="104" font-size="15" fill="var(--ink-soft, #6a6157)">3人目・ひとりで</text>
+  <text x="610" y="200" font-size="80" font-weight="900" fill="var(--sui, #2854a0)" font-family="Zen Old Mincho, serif">癸</text>
+  <text x="610" y="248" font-size="20" font-weight="700" fill="var(--ink, #26221d)">れんさん</text>
+</g>
+</svg>

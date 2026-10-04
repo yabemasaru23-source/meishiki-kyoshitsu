@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-label="1本の木の1年。春は芽が伸びる（木）、夏は花が咲く（火）、季節の変わり目は土が支える（土）、秋は実がなる（金）、冬は根に力をためる（水）。冬のあとは、また春にもどる">
+<rect width="800" height="400" rx="18" fill="var(--surface, #fffdf8)"/>
+<g stroke-linecap="round" stroke-linejoin="round" font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <!-- 地面 -->
+  <path d="M20 250 H780" stroke="var(--line, #ddd4c4)" stroke-width="3"/>
+  <!-- 1 春・木 -->
+  <g transform="translate(88 0)">
+    <path d="M0 250 V200" stroke="#8a6446" stroke-width="5"/>
+    <path d="M0 214 Q-22 206 -26 186 Q-6 186 0 206 M0 204 Q18 192 24 172 Q4 172 0 196" fill="#cfe9d6" stroke="var(--moku, #2d7a4a)" stroke-width="3"/>
+    <path d="M-6 250 q6 14 0 26 M6 250 q-2 10 4 18" fill="none" stroke="#b9a58c" stroke-width="2.5"/>
+    <text y="60" font-size="15" fill="var(--ink-soft, #6a6157)">春</text>
+    <text y="104" font-size="44" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--moku, #2d7a4a)">木</text>
+    <text y="318" font-size="15" font-weight="700" fill="var(--ink, #26221d)">伸びる</text>
+    <text y="342" font-size="12" fill="var(--ink-soft, #6a6157)">芽が出て枝が伸びる</text>
+  </g>
+  <!-- 2 夏・火 -->
+  <g transform="translate(244 0)">
+    <path d="M0 250 V170 M0 196 L-24 174 M0 186 L22 162" stroke="#8a6446" stroke-width="5"/>
+    <circle cx="0" cy="150" r="34" fill="#cfe9d6"/><circle cx="-30" cy="170" r="22" fill="#cfe9d6"/><circle cx="28" cy="158" r="24" fill="#cfe9d6"/>
+    <g fill="#f3a6a0" stroke="var(--ka, #c03430)" stroke-width="2"><circle cx="-10" cy="140" r="7"/><circle cx="16" cy="152" r="7"/><circle cx="-30" cy="168" r="6"/><circle cx="34" cy="164" r="6"/><circle cx="4" cy="166" r="6"/></g>
+    <circle cx="44" cy="128" r="12" fill="#f6d68b" stroke="var(--sun, #d9a441)" stroke-width="2.5"/>
+    <text y="60" font-size="15" fill="var(--ink-soft, #6a6157)">夏</text>
+    <text y="104" font-size="44" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--ka, #c03430)">火</text>
+    <text y="318" font-size="15" font-weight="700" fill="var(--ink, #26221d)">燃える・広がる</text>
+    <text y="342" font-size="12" fill="var(--ink-soft, #6a6157)">花が咲き、照らす</text>
+  </g>
+  <!-- 3 土用・土 -->
+  <g transform="translate(400 0)">
+    <path d="M0 250 V170 M0 196 L-24 174 M0 186 L22 162" stroke="#8a6446" stroke-width="5"/>
+    <circle cx="0" cy="150" r="34" fill="#dfe8c8"/><circle cx="-30" cy="170" r="22" fill="#dfe8c8"/><circle cx="28" cy="158" r="24" fill="#dfe8c8"/>
+    <path d="M-70 250 Q0 214 70 250 Z" fill="#ecd9b0" stroke="var(--do, #a87018)" stroke-width="3"/>
+    <path d="M0 250 q-14 16 -30 22 M0 250 q12 18 28 22 M0 250 v28" fill="none" stroke="#8a6446" stroke-width="3"/>
+    <text y="60" font-size="15" fill="var(--ink-soft, #6a6157)">季節の変わり目</text>
+    <text y="104" font-size="44" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--do, #a87018)">土</text>
+    <text y="318" font-size="15" font-weight="700" fill="var(--ink, #26221d)">受けとめる・育てる</text>
+    <text y="342" font-size="12" fill="var(--ink-soft, #6a6157)">土が根を支える</text>
+  </g>
+  <!-- 4 秋・金 -->
+  <g transform="translate(556 0)">
+    <path d="M0 250 V170 M0 196 L-24 174 M0 186 L22 162" stroke="#8a6446" stroke-width="5"/>
+    <circle cx="0" cy="150" r="34" fill="#f1dcae"/><circle cx="-30" cy="170" r="22" fill="#f1dcae"/><circle cx="28" cy="158" r="24" fill="#f1dcae"/>
+    <g fill="#e07a5a" stroke="#9a3b25" stroke-width="2"><circle cx="-12" cy="146" r="8"/><circle cx="18" cy="160" r="8"/><circle cx="-28" cy="174" r="7"/></g>
+    <path d="M40 210 q6 8 0 14 M-46 222 q6 6 2 12" fill="none" stroke="var(--do, #a87018)" stroke-width="3"/>
+    <text y="60" font-size="15" fill="var(--ink-soft, #6a6157)">秋</text>
+    <text y="104" font-size="44" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--kin, #6b7584)">金</text>
+    <text y="318" font-size="15" font-weight="700" fill="var(--ink, #26221d)">かためる・決める</text>
+    <text y="342" font-size="12" fill="var(--ink-soft, #6a6157)">実を結び形が決まる</text>
+  </g>
+  <!-- 5 冬・水 -->
+  <g transform="translate(712 0)">
+    <path d="M0 250 V170 M0 196 L-24 174 M0 186 L22 162 M-12 184 L-20 160 M10 176 L14 152" stroke="#8a6446" stroke-width="5"/>
+    <path d="M0 250 q-18 18 -36 26 M0 250 q16 20 34 26 M0 250 v32" fill="none" stroke="var(--sui, #2854a0)" stroke-width="4"/>
+    <circle cx="0" cy="270" r="20" fill="var(--sui, #2854a0)" opacity=".14"/>
+    <g fill="var(--sui, #2854a0)" opacity=".55"><circle cx="-30" cy="140" r="3"/><circle cx="24" cy="128" r="3"/><circle cx="-6" cy="118" r="3"/><circle cx="34" cy="168" r="3"/></g>
+    <text y="60" font-size="15" fill="var(--ink-soft, #6a6157)">冬</text>
+    <text y="104" font-size="44" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--sui, #2854a0)">水</text>
+    <text y="318" font-size="15" font-weight="700" fill="var(--ink, #26221d)">ためる・しみこむ</text>
+    <text y="342" font-size="12" fill="var(--ink-soft, #6a6157)">根に力をためる</text>
+  </g>
+  <!-- 矢印 -->
+  <g fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5">
+    <path d="M140 92 H186 M180 86 l7 6 -7 6"/>
+    <path d="M296 92 H342 M336 86 l7 6 -7 6"/>
+    <path d="M452 92 H498 M492 86 l7 6 -7 6"/>
+    <path d="M608 92 H654 M648 86 l7 6 -7 6"/>
+    <path d="M712 362 Q712 384 690 384 H110 Q88 384 88 362 M82 370 l6 -8 6 8" stroke-dasharray="6 6"/>
+  </g>
+  <text x="400" y="378" font-size="13" fill="var(--ink-soft, #6a6157)">冬にためた力で、また春に芽が出る（ぐるぐる回る）</text>
+</g>
+</svg>

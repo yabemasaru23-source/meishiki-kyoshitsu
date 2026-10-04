@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="左に4本の柱と5つの段でできた命式の表。表のマスに1から7までの番号の丸がついていて、点線でつながっている。点線は右の大きな紙に向かい、紙には人の横顔のシルエットと文章の行が描かれている。命式を7つの手順で読み、1枚の人物像にまとめるイメージ">
+<rect width="800" height="320" fill="var(--sunk, #efe8dc)"/>
+<path d="M0 270 Q200 248 400 266 T800 256 V320 H0Z" fill="var(--sun-soft, #f6ead0)"/>
+<g font-family="Zen Old Mincho, serif" font-weight="900" text-anchor="middle" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 命式の表 4列×5段 -->
+  <rect x="60" y="50" width="280" height="220" rx="10" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+  <g stroke="var(--ink-soft, #6a6157)" stroke-width="1.5" opacity=".55">
+    <path d="M130 50 V270 M200 50 V270 M270 50 V270"/>
+    <path d="M60 94 H340 M60 138 H340 M60 182 H340 M60 226 H340"/>
+  </g>
+  <!-- 日柱の列をうすく強調 -->
+  <rect x="131" y="51" width="68" height="218" fill="var(--sun, #d9a441)" opacity=".16"/>
+  <!-- 番号の丸と順路（段：干支72・蔵干116・通変星160・蔵干通変星204・十二運星248） -->
+  <path d="M165 72 L305 72 L235 160 L305 160 L235 204 L165 248 L378 248 L452 190" fill="none" stroke="var(--warm, #c03430)" stroke-width="2" stroke-dasharray="3 6"/>
+  <g font-family="Zen Maru Gothic, sans-serif" font-size="16" font-weight="700">
+    <circle cx="165" cy="72" r="15" fill="var(--sun, #d9a441)"/><text x="165" y="78" fill="#fffdf8">1</text>
+    <circle cx="305" cy="72" r="15" fill="var(--sun, #d9a441)"/><text x="305" y="78" fill="#fffdf8">2</text>
+    <circle cx="235" cy="160" r="15" fill="var(--moku, #2d7a4a)"/><text x="235" y="166" fill="#fffdf8">3</text>
+    <circle cx="305" cy="160" r="15" fill="var(--moku, #2d7a4a)"/><text x="305" y="166" fill="#fffdf8">4</text>
+    <circle cx="235" cy="204" r="15" fill="var(--moku, #2d7a4a)"/><text x="235" y="210" fill="#fffdf8">5</text>
+    <circle cx="165" cy="248" r="15" fill="var(--sui, #2854a0)"/><text x="165" y="254" fill="#fffdf8">6</text>
+    <circle cx="378" cy="248" r="15" fill="var(--ka, #c03430)"/><text x="378" y="254" fill="#fffdf8">7</text>
+  </g>
+  <!-- 人物像の紙 -->
+  <g transform="rotate(-3 590 160)">
+    <rect x="450" y="40" width="290" height="240" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="4"/>
+    <circle cx="530" cy="108" r="30" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="3"/>
+    <path d="M488 176 Q490 140 530 140 Q570 140 572 176 Z" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="3"/>
+    <g stroke="var(--ink-soft, #6a6157)" stroke-width="5" opacity=".5">
+      <path d="M594 88 H714 M594 112 H700 M594 136 H714 M594 160 H680"/>
+      <path d="M484 204 H714 M484 228 H700 M484 252 H650"/>
+    </g>
+  </g>
+</g>
+</svg>

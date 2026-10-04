@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 410" role="img" aria-label="ひよりさんの命式の8文字を、表と同じ並び（左から時柱・日柱・月柱・年柱）で、上の段に天干、下の段に地支として並べた図。日柱の上の字の辛（日干＝わたし）が金色で目立っている。日干から、上の段の乙・丁・戊へ矢印がのびていて、それぞれ偏財・偏官・印綬という通変星の名前がついている。日干から下の段の未・酉・巳・寅へも矢印がのびていて、それぞれの十二運星（衰・建禄・死・胎）とエネルギーが書いてある。命式の星は、ぜんぶ日干から見て決まる">
+<defs>
+  <marker id="c8a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink, #26221d)"/></marker>
+</defs>
+<rect width="800" height="410" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <text x="24" y="32" font-size="14" text-anchor="start" fill="var(--ink-soft, #6a6157)">ひよりさんの命式</text>
+  <!-- 段の名前 -->
+  <text x="52" y="116" font-size="15" font-weight="700" fill="var(--ink-soft, #6a6157)">天干</text>
+  <text x="52" y="296" font-size="15" font-weight="700" fill="var(--ink-soft, #6a6157)">地支</text>
+
+  <!-- 矢印：上の段（通変星） -->
+  <g fill="none" stroke="var(--ink, #26221d)" stroke-width="2.5">
+    <path d="M278 118 H216" marker-end="url(#c8a)"/>
+    <path d="M382 118 H444" marker-end="url(#c8a)"/>
+    <path d="M354 68 Q512 4 668 64" marker-end="url(#c8a)"/>
+  </g>
+  <g font-size="15" font-weight="700" fill="var(--warm, #c03430)">
+    <text x="245" y="104">偏財</text>
+    <text x="414" y="104">偏官</text>
+    <text x="512" y="26">印綬</text>
+  </g>
+  <!-- 矢印：下の段（十二運星） -->
+  <g fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="2" stroke-dasharray="6 5">
+    <path d="M308 162 L186 244" marker-end="url(#c8a)"/>
+    <path d="M330 162 V242" marker-end="url(#c8a)"/>
+    <path d="M352 162 L474 244" marker-end="url(#c8a)"/>
+    <path d="M372 158 L642 246" marker-end="url(#c8a)"/>
+  </g>
+
+  <!-- 上の段の箱 -->
+  <g>
+    <rect x="110" y="70" width="100" height="90" rx="10" fill="var(--sunk, #efe8dc)"/>
+    <text x="160" y="92" font-size="13" fill="var(--ink-soft, #6a6157)">時干</text>
+    <text x="160" y="140" font-size="36" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--moku, #2d7a4a)">乙</text>
+
+    <rect x="450" y="70" width="100" height="90" rx="10" fill="var(--sunk, #efe8dc)"/>
+    <text x="500" y="92" font-size="13" fill="var(--ink-soft, #6a6157)">月干</text>
+    <text x="500" y="140" font-size="36" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ka, #c03430)">丁</text>
+
+    <rect x="620" y="70" width="100" height="90" rx="10" fill="var(--sunk, #efe8dc)"/>
+    <text x="670" y="92" font-size="13" fill="var(--ink-soft, #6a6157)">年干</text>
+    <text x="670" y="140" font-size="36" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--do, #a87018)">戊</text>
+  </g>
+  <!-- 日干 -->
+  <rect x="274" y="64" width="112" height="100" rx="12" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="4"/>
+  <text x="330" y="88" font-size="13" font-weight="700" fill="var(--do, #a87018)">日干＝わたし</text>
+  <text x="330" y="142" font-size="42" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--kin, #6b7584)">辛</text>
+
+  <!-- 下の段の箱 -->
+  <g>
+    <rect x="110" y="250" width="100" height="80" rx="10" fill="var(--sunk, #efe8dc)"/>
+    <text x="160" y="270" font-size="13" fill="var(--ink-soft, #6a6157)">時支</text>
+    <text x="160" y="314" font-size="32" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--do, #a87018)">未</text>
+
+    <rect x="280" y="250" width="100" height="80" rx="10" fill="var(--sunk, #efe8dc)"/>
+    <text x="330" y="270" font-size="13" fill="var(--ink-soft, #6a6157)">日支</text>
+    <text x="330" y="314" font-size="32" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--kin, #6b7584)">酉</text>
+
+    <rect x="450" y="250" width="100" height="80" rx="10" fill="var(--sunk, #efe8dc)"/>
+    <text x="500" y="270" font-size="13" fill="var(--ink-soft, #6a6157)">月支</text>
+    <text x="500" y="314" font-size="32" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ka, #c03430)">巳</text>
+
+    <rect x="620" y="250" width="100" height="80" rx="10" fill="var(--sunk, #efe8dc)"/>
+    <text x="670" y="270" font-size="13" fill="var(--ink-soft, #6a6157)">年支</text>
+    <text x="670" y="314" font-size="32" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--moku, #2d7a4a)">寅</text>
+  </g>
+  <g font-size="14" fill="var(--ink, #26221d)">
+    <text x="160" y="352">衰（8）</text>
+    <text x="330" y="352">建禄（11）</text>
+    <text x="500" y="352">死（2）</text>
+    <text x="670" y="352">胎（3）</text>
+  </g>
+
+  <!-- 凡例 -->
+  <g font-size="13" fill="var(--ink-soft, #6a6157)">
+    <path d="M96 386 H136" stroke="var(--ink, #26221d)" stroke-width="2.5"/>
+    <text x="270" y="390">通変星（天干を日干から見る）</text>
+    <path d="M436 386 H476" stroke="var(--ink-soft, #6a6157)" stroke-width="2" stroke-dasharray="6 5"/>
+    <text x="612" y="390">十二運星（日干が地支の上で出す力）</text>
+  </g>
+</g>
+</svg>

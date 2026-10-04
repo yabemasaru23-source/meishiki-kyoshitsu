@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="10の星のキャラクター一覧。横に5つのグループが並ぶ。仲間の星は比肩（わが道ランナー）と劫財（勝負キャプテン）、表現の星は食神（ごきげん料理人）と傷官（するどい芸術家）、財の星は偏財（顔の広い旅人）と正財（コツコツ管理人）、官の星は偏官（かけつけ隊長）と正官（信頼の委員長）、印の星は偏印（ひらめき発明家）と印綬（学び好きの学者）。上の段は陰陽が同じでかたよる星（一点集中・型やぶり）、下の段は陰陽がちがってととのう星（安定・型どおり）">
+<rect width="800" height="500" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+<rect x="124" y="24" width="128" height="44" rx="10" fill="var(--sunk, #efe8dc)"/>
+<text x="188" y="52" font-size="17" font-weight="700" fill="var(--ink, #26221d)">👫 仲間</text>
+<rect x="258" y="24" width="128" height="44" rx="10" fill="var(--sunk, #efe8dc)"/>
+<text x="322" y="52" font-size="17" font-weight="700" fill="var(--ink, #26221d)">🎨 表現</text>
+<rect x="392" y="24" width="128" height="44" rx="10" fill="var(--sunk, #efe8dc)"/>
+<text x="456" y="52" font-size="17" font-weight="700" fill="var(--ink, #26221d)">💰 財</text>
+<rect x="526" y="24" width="128" height="44" rx="10" fill="var(--sunk, #efe8dc)"/>
+<text x="590" y="52" font-size="17" font-weight="700" fill="var(--ink, #26221d)">👔 官</text>
+<rect x="660" y="24" width="128" height="44" rx="10" fill="var(--sunk, #efe8dc)"/>
+<text x="724" y="52" font-size="17" font-weight="700" fill="var(--ink, #26221d)">📚 印</text>
+<rect x="12" y="84" width="104" height="150" rx="12" fill="var(--sun-soft, #f6ead0)"/>
+<text x="64" y="140" font-size="15" fill="var(--ink-soft, #6a6157)">陰陽が</text>
+<text x="64" y="162" font-size="15" fill="var(--ink-soft, #6a6157)">同じ</text>
+<text x="64" y="192" font-size="14" font-weight="700" fill="var(--ink, #26221d)">＝かたよる</text>
+<rect x="124" y="84" width="128" height="150" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/>
+<text x="188" y="136" font-size="30" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">比肩</text>
+<text x="188" y="160" font-size="13" fill="var(--ink-soft, #6a6157)">（ひけん）</text>
+<text x="188" y="188" font-size="14" font-weight="700" fill="var(--ink, #26221d)">わが道ランナー</text>
+<text x="188" y="220" font-size="20">🏃</text>
+<rect x="258" y="84" width="128" height="150" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/>
+<text x="322" y="136" font-size="30" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">食神</text>
+<text x="322" y="160" font-size="13" fill="var(--ink-soft, #6a6157)">（しょくじん）</text>
+<text x="322" y="188" font-size="14" font-weight="700" fill="var(--ink, #26221d)">ごきげん料理人</text>
+<text x="322" y="220" font-size="20">🍳</text>
+<rect x="392" y="84" width="128" height="150" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/>
+<text x="456" y="136" font-size="30" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">偏財</text>
+<text x="456" y="160" font-size="13" fill="var(--ink-soft, #6a6157)">（へんざい）</text>
+<text x="456" y="188" font-size="14" font-weight="700" fill="var(--ink, #26221d)">顔の広い旅人</text>
+<text x="456" y="220" font-size="20">🧳</text>
+<rect x="526" y="84" width="128" height="150" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/>
+<text x="590" y="136" font-size="30" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">偏官</text>
+<text x="590" y="160" font-size="13" fill="var(--ink-soft, #6a6157)">（へんかん）</text>
+<text x="590" y="188" font-size="14" font-weight="700" fill="var(--ink, #26221d)">かけつけ隊長</text>
+<text x="590" y="220" font-size="20">🚒</text>
+<rect x="660" y="84" width="128" height="150" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/>
+<text x="724" y="136" font-size="30" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">偏印</text>
+<text x="724" y="160" font-size="13" fill="var(--ink-soft, #6a6157)">（へんいん）</text>
+<text x="724" y="188" font-size="14" font-weight="700" fill="var(--ink, #26221d)">ひらめき発明家</text>
+<text x="724" y="220" font-size="20">💡</text>
+<rect x="12" y="250" width="104" height="150" rx="12" fill="var(--sunk, #efe8dc)"/>
+<text x="64" y="306" font-size="15" fill="var(--ink-soft, #6a6157)">陰陽が</text>
+<text x="64" y="328" font-size="15" fill="var(--ink-soft, #6a6157)">ちがう</text>
+<text x="64" y="358" font-size="14" font-weight="700" fill="var(--ink, #26221d)">＝ととのう</text>
+<rect x="124" y="250" width="128" height="150" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="188" y="302" font-size="30" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">劫財</text>
+<text x="188" y="326" font-size="13" fill="var(--ink-soft, #6a6157)">（ごうざい）</text>
+<text x="188" y="354" font-size="14" font-weight="700" fill="var(--ink, #26221d)">勝負キャプテン</text>
+<text x="188" y="386" font-size="20">🏆</text>
+<rect x="258" y="250" width="128" height="150" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="322" y="302" font-size="30" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">傷官</text>
+<text x="322" y="326" font-size="13" fill="var(--ink-soft, #6a6157)">（しょうかん）</text>
+<text x="322" y="354" font-size="14" font-weight="700" fill="var(--ink, #26221d)">するどい芸術家</text>
+<text x="322" y="386" font-size="20">🎨</text>
+<rect x="392" y="250" width="128" height="150" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="456" y="302" font-size="30" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">正財</text>
+<text x="456" y="326" font-size="13" fill="var(--ink-soft, #6a6157)">（せいざい）</text>
+<text x="456" y="354" font-size="14" font-weight="700" fill="var(--ink, #26221d)">コツコツ管理人</text>
+<text x="456" y="386" font-size="20">🌱</text>
+<rect x="526" y="250" width="128" height="150" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="590" y="302" font-size="30" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">正官</text>
+<text x="590" y="326" font-size="13" fill="var(--ink-soft, #6a6157)">（せいかん）</text>
+<text x="590" y="354" font-size="14" font-weight="700" fill="var(--ink, #26221d)">信頼の委員長</text>
+<text x="590" y="386" font-size="20">📋</text>
+<rect x="660" y="250" width="128" height="150" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="724" y="302" font-size="30" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">印綬</text>
+<text x="724" y="326" font-size="13" fill="var(--ink-soft, #6a6157)">（いんじゅ）</text>
+<text x="724" y="354" font-size="14" font-weight="700" fill="var(--ink, #26221d)">学び好きの学者</text>
+<text x="724" y="386" font-size="20">📖</text>
+<g font-size="14" text-anchor="start" fill="var(--ink, #26221d)">
+<rect x="12" y="418" width="776" height="68" rx="12" fill="var(--sunk, #efe8dc)"/>
+<text x="32" y="446"><tspan font-weight="700">上の段</tspan>　力がひとつの方向にかたよる → 一点集中・型やぶり・波がある</text>
+<text x="32" y="472"><tspan font-weight="700">下の段</tspan>　陰と陽がつりあってととのう → 安定・型どおり・長つづきする</text>
+</g></g></svg>

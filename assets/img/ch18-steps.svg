@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 768" role="img" aria-label="命式を読む7ステップの流れ図。上から順に、1 日干で本質を知る（日柱の上の段）、2 五行バランスで得意と伸びしろを見る（五行タブ）、3 月柱の星で仕事・社会の顔を見る、4 ほかの柱の星と、多い星・ない星を見る、5 蔵干通変星で内側の本音を見る、6 十二運星とエネルギーで力の出かたを見る、7 天中殺と時の流れでひとこと添える。7番目は選択章の内容なので点線の枠。7つをつないで、最後に1つの人物像の文章にまとめる">
+<defs><marker id="s18a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink-soft, #6a6157)"/></marker></defs>
+<rect width="800" height="768" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif">
+<text x="400" y="42" text-anchor="middle" font-size="22" font-weight="700" fill="var(--ink, #26221d)">7ステップで、命式を1つの人物像に</text>
+<rect x="40" y="70" width="720" height="60" rx="12" fill="var(--sunk, #efe8dc)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/>
+<circle cx="74" cy="100" r="20" fill="var(--sun, #d9a441)"/>
+<text x="74" y="107" text-anchor="middle" font-size="20" font-weight="700" fill="#fffdf8">1</text>
+<text x="110" y="96" font-size="18" font-weight="700" fill="var(--ink, #26221d)">日干 ― 本質</text>
+<text x="110" y="119" font-size="14" fill="var(--ink-soft, #6a6157)">「わたしは、どんな素材？」</text>
+<text x="744" y="107" text-anchor="end" font-size="14" fill="var(--ink-soft, #6a6157)">日柱の上の段（第4・8章）</text>
+<path d="M400 133 V149" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5" marker-end="url(#s18a)"/>
+<rect x="40" y="152" width="720" height="60" rx="12" fill="var(--sunk, #efe8dc)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/>
+<circle cx="74" cy="182" r="20" fill="var(--sun, #d9a441)"/>
+<text x="74" y="189" text-anchor="middle" font-size="20" font-weight="700" fill="#fffdf8">2</text>
+<text x="110" y="178" font-size="18" font-weight="700" fill="var(--ink, #26221d)">五行バランス ― 得意と伸びしろ</text>
+<text x="110" y="201" font-size="14" fill="var(--ink-soft, #6a6157)">「多い気・ない気は？」</text>
+<text x="744" y="189" text-anchor="end" font-size="14" fill="var(--ink-soft, #6a6157)">五行タブ（第2・3・15章）</text>
+<path d="M400 215 V231" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5" marker-end="url(#s18a)"/>
+<rect x="40" y="234" width="720" height="60" rx="12" fill="var(--sunk, #efe8dc)" stroke="var(--moku, #2d7a4a)" stroke-width="2.5"/>
+<circle cx="74" cy="264" r="20" fill="var(--moku, #2d7a4a)"/>
+<text x="74" y="271" text-anchor="middle" font-size="20" font-weight="700" fill="#fffdf8">3</text>
+<text x="110" y="260" font-size="18" font-weight="700" fill="var(--ink, #26221d)">月柱の星 ― 仕事・社会の顔</text>
+<text x="110" y="283" font-size="14" fill="var(--ink-soft, #6a6157)">「外では、どう動く？」</text>
+<text x="744" y="271" text-anchor="end" font-size="14" fill="var(--ink-soft, #6a6157)">月柱の通変星（第9・12章）</text>
+<path d="M400 297 V313" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5" marker-end="url(#s18a)"/>
+<rect x="40" y="316" width="720" height="60" rx="12" fill="var(--sunk, #efe8dc)" stroke="var(--moku, #2d7a4a)" stroke-width="2.5"/>
+<circle cx="74" cy="346" r="20" fill="var(--moku, #2d7a4a)"/>
+<text x="74" y="353" text-anchor="middle" font-size="20" font-weight="700" fill="#fffdf8">4</text>
+<text x="110" y="342" font-size="18" font-weight="700" fill="var(--ink, #26221d)">ほかの柱の星 ― 多い星・ない星</text>
+<text x="110" y="365" font-size="14" fill="var(--ink-soft, #6a6157)">「部屋ごとの顔と、星の数は？」</text>
+<text x="744" y="353" text-anchor="end" font-size="14" fill="var(--ink-soft, #6a6157)">年柱・時柱の通変星（第13章）</text>
+<path d="M400 379 V395" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5" marker-end="url(#s18a)"/>
+<rect x="40" y="398" width="720" height="60" rx="12" fill="var(--sunk, #efe8dc)" stroke="var(--moku, #2d7a4a)" stroke-width="2.5"/>
+<circle cx="74" cy="428" r="20" fill="var(--moku, #2d7a4a)"/>
+<text x="74" y="435" text-anchor="middle" font-size="20" font-weight="700" fill="#fffdf8">5</text>
+<text x="110" y="424" font-size="18" font-weight="700" fill="var(--ink, #26221d)">蔵干通変星 ― 内側の本音</text>
+<text x="110" y="447" font-size="14" fill="var(--ink-soft, #6a6157)">「心の奥では、どう思う？」</text>
+<text x="744" y="435" text-anchor="end" font-size="14" fill="var(--ink-soft, #6a6157)">蔵干通変星の段（第10・13章）</text>
+<path d="M400 461 V477" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5" marker-end="url(#s18a)"/>
+<rect x="40" y="480" width="720" height="60" rx="12" fill="var(--sunk, #efe8dc)" stroke="var(--sui, #2854a0)" stroke-width="2.5"/>
+<circle cx="74" cy="510" r="20" fill="var(--sui, #2854a0)"/>
+<text x="74" y="517" text-anchor="middle" font-size="20" font-weight="700" fill="#fffdf8">6</text>
+<text x="110" y="506" font-size="18" font-weight="700" fill="var(--ink, #26221d)">十二運星 ― 力の出かた</text>
+<text x="110" y="529" font-size="14" fill="var(--ink-soft, #6a6157)">「どこで力が強く出る？」</text>
+<text x="744" y="517" text-anchor="end" font-size="14" fill="var(--ink-soft, #6a6157)">十二運星とエネルギー（第14章）</text>
+<path d="M400 543 V559" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5" marker-end="url(#s18a)"/>
+<rect x="40" y="562" width="720" height="60" rx="12" fill="var(--sunk, #efe8dc)" stroke="var(--ka, #c03430)" stroke-width="2.5" stroke-dasharray="8 6"/>
+<circle cx="74" cy="592" r="20" fill="var(--ka, #c03430)"/>
+<text x="74" y="599" text-anchor="middle" font-size="20" font-weight="700" fill="#fffdf8">7</text>
+<text x="110" y="588" font-size="18" font-weight="700" fill="var(--ink, #26221d)">天中殺・時の流れ ― ひとこと</text>
+<text x="110" y="611" font-size="14" fill="var(--ink-soft, #6a6157)">「いまは、どんな季節？」</text>
+<text x="744" y="599" text-anchor="end" font-size="14" fill="var(--ink-soft, #6a6157)">天中殺・大運・年運（第16・17章）</text>
+<path d="M400 625 V641" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5" marker-end="url(#s18a)"/>
+<rect x="120" y="644" width="560" height="68" rx="34" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="3"/>
+<text x="400" y="674" text-anchor="middle" font-size="20" font-weight="700" fill="var(--ink, #26221d)">まとめ：1つの人物像（400字）</text>
+<text x="400" y="698" text-anchor="middle" font-size="14" fill="var(--ink-soft, #6a6157)">2か所以上から言えることを太く、くせは使い方とセットで</text>
+<text x="400" y="744" text-anchor="middle" font-size="13" fill="var(--ink-soft, #6a6157)">点線の7番は選択章（第16・17章）の内容。学んでいない人は空けてよい</text>
+</g>
+</svg>

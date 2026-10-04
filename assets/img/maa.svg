@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="案内役のまあ先生（陰陽の白黒もようのネコ）">
+  <defs>
+    <clipPath id="maa-head"><ellipse cx="60" cy="64" rx="42" ry="38"/></clipPath>
+  </defs>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <!-- 耳 -->
+    <path d="M22 46 L26 10 L52 32 Z" fill="#fbf8f2" stroke="#26221d" stroke-width="3"/>
+    <path d="M30 38 L31 20 L45 32 Z" fill="#f2b7b0"/>
+    <path d="M98 46 L94 10 L68 32 Z" fill="#26221d" stroke="#26221d" stroke-width="3"/>
+    <path d="M90 38 L89 20 L75 32 Z" fill="#6a5a6e"/>
+    <!-- 顔：左が白（陽）、右が黒（陰）。境目は陰陽のS字 -->
+    <ellipse cx="60" cy="64" rx="42" ry="38" fill="#fbf8f2"/>
+    <g clip-path="url(#maa-head)">
+      <path d="M60 20 C78 34 42 50 60 64 C78 78 42 94 60 108 L110 108 L110 20 Z" fill="#26221d"/>
+    </g>
+    <ellipse cx="60" cy="64" rx="42" ry="38" fill="none" stroke="#26221d" stroke-width="3"/>
+    <!-- 目 -->
+    <ellipse cx="42" cy="60" rx="7" ry="8" fill="#26221d"/>
+    <circle cx="44.5" cy="57" r="2.4" fill="#fff"/>
+    <ellipse cx="78" cy="60" rx="7" ry="8" fill="#f3d68d"/>
+    <ellipse cx="78" cy="60.5" rx="2.6" ry="6" fill="#26221d"/>
+    <circle cx="80" cy="57" r="1.8" fill="#fff"/>
+    <!-- 鼻と口 -->
+    <path d="M56 72 L64 72 L60 77 Z" fill="#e58a8a"/>
+    <path d="M60 77 q-5 6 -10 2 M60 77 q5 6 10 2" fill="none" stroke="#8a7f74" stroke-width="2.2"/>
+    <!-- ひげ -->
+    <path d="M30 74 L12 70 M30 79 L13 82" stroke="#8a7f74" stroke-width="1.8"/>
+    <path d="M90 74 L108 70 M90 79 L107 82" stroke="#d6cfc4" stroke-width="1.8"/>
+    <!-- ほっぺ -->
+    <ellipse cx="34" cy="70" rx="5" ry="3.2" fill="#f2b7b0" opacity=".8"/>
+    <!-- おでこの小さな陰陽マーク -->
+    <g transform="translate(60 40)">
+      <circle r="6.5" fill="#fbf8f2" stroke="#d9a441" stroke-width="1.6"/>
+      <path d="M0 -6.5 A6.5 6.5 0 0 1 0 6.5 A3.25 3.25 0 0 1 0 0 A3.25 3.25 0 0 0 0 -6.5 Z" fill="#26221d"/>
+      <circle cy="-3.25" r="1.1" fill="#26221d"/>
+      <circle cy="3.25" r="1.1" fill="#fbf8f2"/>
+    </g>
+    <!-- 首もとの朱色の鈴 -->
+    <path d="M36 98 q24 10 48 0" fill="none" stroke="#c03430" stroke-width="4"/>
+    <circle cx="60" cy="106" r="5.5" fill="#d9a441" stroke="#26221d" stroke-width="1.6"/>
+    <path d="M57 107 h6" stroke="#26221d" stroke-width="1.4"/>
+  </g>
+</svg>

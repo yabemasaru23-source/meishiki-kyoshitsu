@@ -1,0 +1,182 @@
+{
+  "stages": [
+    {
+      "key": "1",
+      "name": "陰陽五行のきほん",
+      "lead": "命式を読むための土台"
+    },
+    {
+      "key": "2",
+      "name": "命式の読み方",
+      "lead": "このコースの中心"
+    },
+    {
+      "key": "3",
+      "name": "鑑定の実践",
+      "lead": "読んで、伝える"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "00",
+      "stage": "1",
+      "title": "ようこそ、命式の教室へ",
+      "required": true,
+      "file": "00_ようこそ.md"
+    },
+    {
+      "id": "01",
+      "stage": "1",
+      "title": "陰と陽",
+      "required": true,
+      "file": "01_陰と陽.md"
+    },
+    {
+      "id": "02",
+      "stage": "1",
+      "title": "五行 ― 木・火・土・金・水",
+      "required": true,
+      "file": "02_五行.md"
+    },
+    {
+      "id": "03",
+      "stage": "1",
+      "title": "相生と相剋",
+      "required": true,
+      "file": "03_相生と相剋.md"
+    },
+    {
+      "id": "04",
+      "stage": "1",
+      "title": "十干 ― 10人の主人公",
+      "required": true,
+      "file": "04_十干.md"
+    },
+    {
+      "id": "05",
+      "stage": "1",
+      "title": "十二支 ― 時と季節のものさし",
+      "required": false,
+      "file": null
+    },
+    {
+      "id": "06",
+      "stage": "1",
+      "title": "干支とこよみ ― 1年は立春から",
+      "required": false,
+      "file": null
+    },
+    {
+      "id": "07",
+      "stage": "2",
+      "title": "命式の地図 ― 表のどこに何がある？",
+      "required": true,
+      "file": "07_命式の地図.md"
+    },
+    {
+      "id": "08",
+      "stage": "2",
+      "title": "日干 ― 命式の主役はあなた",
+      "required": true,
+      "file": "08_日干.md"
+    },
+    {
+      "id": "09",
+      "stage": "2",
+      "title": "4本の柱が語ること",
+      "required": true,
+      "file": "09_4本の柱.md"
+    },
+    {
+      "id": "10",
+      "stage": "2",
+      "title": "蔵干 ― 地支にかくれた本音",
+      "required": false,
+      "file": null
+    },
+    {
+      "id": "11",
+      "stage": "2",
+      "title": "通変星① しくみ ― 日干から見た10の関係",
+      "required": true,
+      "file": "11_通変星のしくみ.md"
+    },
+    {
+      "id": "12",
+      "stage": "2",
+      "title": "通変星② 10の星の持ち味",
+      "required": true,
+      "file": "12_10の星の持ち味.md"
+    },
+    {
+      "id": "13",
+      "stage": "2",
+      "title": "通変星③ どの柱にあるかで意味が変わる",
+      "required": true,
+      "file": "13_通変星と柱.md"
+    },
+    {
+      "id": "14",
+      "stage": "2",
+      "title": "十二運星とエネルギー",
+      "required": true,
+      "file": "14_十二運星.md"
+    },
+    {
+      "id": "15",
+      "stage": "2",
+      "title": "五行バランス ― 多い・少ない・ない",
+      "required": true,
+      "file": "15_五行バランス.md"
+    },
+    {
+      "id": "16",
+      "stage": "2",
+      "title": "天中殺 ― 6つのグループと充電期間",
+      "required": false,
+      "file": null
+    },
+    {
+      "id": "17",
+      "stage": "2",
+      "title": "時の流れ ― 大運と年運",
+      "required": false,
+      "file": null
+    },
+    {
+      "id": "18",
+      "stage": "2",
+      "title": "命式を1枚で読む ― 7ステップ読解シート",
+      "required": true,
+      "file": "18_読解シート.md"
+    },
+    {
+      "id": "19",
+      "stage": "3",
+      "title": "アプリの鑑定文を「自分の言葉」にする",
+      "required": true,
+      "file": "19_鑑定文を自分の言葉に.md"
+    },
+    {
+      "id": "20",
+      "stage": "3",
+      "title": "相性の読み方",
+      "required": false,
+      "file": null
+    },
+    {
+      "id": "21",
+      "stage": "3",
+      "title": "鑑定の流れと伝え方の約束",
+      "required": true,
+      "file": "21_鑑定の流れと約束.md"
+    },
+    {
+      "id": "22",
+      "stage": "3",
+      "title": "卒業鑑定 ― 3人を鑑定してみよう",
+      "required": true,
+      "file": "22_卒業鑑定.md"
+    }
+  ]
+}

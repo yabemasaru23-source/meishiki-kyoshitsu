@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="十二運星のエネルギーを、人の一生の順に並べた山の形のグラフ。胎3（宿る）、養6（育つ）、長生9（生まれる）、沐浴7（思春期）、冠帯10（成人）、建禄11（一人立ち）、帝旺12（働き盛り）で頂上。衰8（ベテラン）、病4（心が澄む）、死2（たましい）、墓5（しまう）、絶1（次の命へ）と下がる。胎から長生は芽ばえの時期、沐浴から帝旺は外で活躍する時期、衰から絶は内側で深まる時期。ひよりさんの十二運星、胎・建禄・衰・死に金色の丸がついている。絶のあとは、また胎にもどる">
+<rect width="800" height="450" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <path d="M80 350 H780" stroke="var(--sunk, #efe8dc)" stroke-width="2.5"/>
+  <text x="66" y="354" font-size="12" text-anchor="end" fill="var(--ink-soft, #6a6157)">0</text>
+  <path d="M80 290 H780" stroke="var(--sunk, #efe8dc)" stroke-width="1.5"/>
+  <text x="66" y="294" font-size="12" text-anchor="end" fill="var(--ink-soft, #6a6157)">3</text>
+  <path d="M80 230 H780" stroke="var(--sunk, #efe8dc)" stroke-width="1.5"/>
+  <text x="66" y="234" font-size="12" text-anchor="end" fill="var(--ink-soft, #6a6157)">6</text>
+  <path d="M80 170 H780" stroke="var(--sunk, #efe8dc)" stroke-width="1.5"/>
+  <text x="66" y="174" font-size="12" text-anchor="end" fill="var(--ink-soft, #6a6157)">9</text>
+  <path d="M80 110 H780" stroke="var(--sunk, #efe8dc)" stroke-width="1.5"/>
+  <text x="66" y="114" font-size="12" text-anchor="end" fill="var(--ink-soft, #6a6157)">12</text>
+  <rect x="72" y="44" width="176" height="22" rx="11" fill="var(--sun-soft, #f6ead0)"/>
+  <text x="160" y="60" font-size="13" fill="var(--ink, #26221d)">芽ばえの時期</text>
+  <rect x="252" y="44" width="236" height="22" rx="11" fill="#fbe1dc"/>
+  <text x="370" y="60" font-size="13" fill="var(--ink, #26221d)">外で活躍する時期</text>
+  <rect x="492" y="44" width="296" height="22" rx="11" fill="#dde6f3"/>
+  <text x="640" y="60" font-size="13" fill="var(--ink, #26221d)">内側で深まる時期</text>
+  <path d="M100,350 L100,290 L160,230 L220,170 L280,210 L340,150 L400,130 L460,110 L520,190 L580,270 L640,310 L700,250 L760,330 L760,350 Z" fill="var(--sun-soft, #f6ead0)" opacity=".8"/>
+  <path d="M100,290 L160,230 L220,170 L280,210 L340,150 L400,130 L460,110 L520,190 L580,270 L640,310 L700,250 L760,330" fill="none" stroke="var(--sun, #d9a441)" stroke-width="3.5" stroke-linejoin="round"/>
+  <circle cx="100" cy="290" r="11" fill="none" stroke="var(--warm, #c03430)" stroke-width="2.5"/>
+  <circle cx="100" cy="290" r="6" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="1.5"/>
+  <text x="100" y="273" font-size="15" font-weight="700" fill="var(--ink, #26221d)">3</text>
+  <text x="100" y="376" font-size="16" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">胎</text>
+  <text x="100" y="398" font-size="12" fill="var(--ink-soft, #6a6157)">宿る</text>
+  <circle cx="160" cy="230" r="6" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="1.5"/>
+  <text x="160" y="213" font-size="15" font-weight="700" fill="var(--ink, #26221d)">6</text>
+  <text x="160" y="376" font-size="16" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">養</text>
+  <text x="160" y="398" font-size="12" fill="var(--ink-soft, #6a6157)">育つ</text>
+  <circle cx="220" cy="170" r="6" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="1.5"/>
+  <text x="220" y="153" font-size="15" font-weight="700" fill="var(--ink, #26221d)">9</text>
+  <text x="220" y="376" font-size="16" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">長生</text>
+  <text x="220" y="398" font-size="12" fill="var(--ink-soft, #6a6157)">生まれる</text>
+  <circle cx="280" cy="210" r="6" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="1.5"/>
+  <text x="280" y="193" font-size="15" font-weight="700" fill="var(--ink, #26221d)">7</text>
+  <text x="280" y="376" font-size="16" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">沐浴</text>
+  <text x="280" y="398" font-size="12" fill="var(--ink-soft, #6a6157)">思春期</text>
+  <circle cx="340" cy="150" r="6" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="1.5"/>
+  <text x="340" y="133" font-size="15" font-weight="700" fill="var(--ink, #26221d)">10</text>
+  <text x="340" y="376" font-size="16" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">冠帯</text>
+  <text x="340" y="398" font-size="12" fill="var(--ink-soft, #6a6157)">成人</text>
+  <circle cx="400" cy="130" r="11" fill="none" stroke="var(--warm, #c03430)" stroke-width="2.5"/>
+  <circle cx="400" cy="130" r="6" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="1.5"/>
+  <text x="400" y="113" font-size="15" font-weight="700" fill="var(--ink, #26221d)">11</text>
+  <text x="400" y="376" font-size="16" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">建禄</text>
+  <text x="400" y="398" font-size="12" fill="var(--ink-soft, #6a6157)">一人立ち</text>
+  <circle cx="460" cy="110" r="6" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="1.5"/>
+  <text x="460" y="93" font-size="15" font-weight="700" fill="var(--ink, #26221d)">12</text>
+  <text x="460" y="376" font-size="16" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">帝旺</text>
+  <text x="460" y="398" font-size="12" fill="var(--ink-soft, #6a6157)">働き盛り</text>
+  <circle cx="520" cy="190" r="11" fill="none" stroke="var(--warm, #c03430)" stroke-width="2.5"/>
+  <circle cx="520" cy="190" r="6" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="1.5"/>
+  <text x="520" y="173" font-size="15" font-weight="700" fill="var(--ink, #26221d)">8</text>
+  <text x="520" y="376" font-size="16" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">衰</text>
+  <text x="520" y="398" font-size="12" fill="var(--ink-soft, #6a6157)">ベテラン</text>
+  <circle cx="580" cy="270" r="6" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="1.5"/>
+  <text x="580" y="253" font-size="15" font-weight="700" fill="var(--ink, #26221d)">4</text>
+  <text x="580" y="376" font-size="16" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">病</text>
+  <text x="580" y="398" font-size="12" fill="var(--ink-soft, #6a6157)">心が澄む</text>
+  <circle cx="640" cy="310" r="11" fill="none" stroke="var(--warm, #c03430)" stroke-width="2.5"/>
+  <circle cx="640" cy="310" r="6" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="1.5"/>
+  <text x="640" y="293" font-size="15" font-weight="700" fill="var(--ink, #26221d)">2</text>
+  <text x="640" y="376" font-size="16" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">死</text>
+  <text x="640" y="398" font-size="12" fill="var(--ink-soft, #6a6157)">たましい</text>
+  <circle cx="700" cy="250" r="6" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="1.5"/>
+  <text x="700" y="233" font-size="15" font-weight="700" fill="var(--ink, #26221d)">5</text>
+  <text x="700" y="376" font-size="16" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">墓</text>
+  <text x="700" y="398" font-size="12" fill="var(--ink-soft, #6a6157)">しまう</text>
+  <circle cx="760" cy="330" r="6" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="1.5"/>
+  <text x="760" y="313" font-size="15" font-weight="700" fill="var(--ink, #26221d)">1</text>
+  <text x="760" y="376" font-size="16" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">絶</text>
+  <text x="760" y="398" font-size="12" fill="var(--ink-soft, #6a6157)">次の命へ</text>
+  <text x="24" y="210" font-size="12" fill="var(--ink-soft, #6a6157)" transform="rotate(-90 24 210)">エネルギー</text>
+  <circle cx="568" cy="24" r="9" fill="none" stroke="var(--warm, #c03430)" stroke-width="2.5"/>
+  <text x="584" y="29" font-size="13" text-anchor="start" fill="var(--ink, #26221d)">＝ひよりさんの十二運星</text>
+  <text x="400" y="432" font-size="13" fill="var(--ink-soft, #6a6157)">絶のあとは、また胎にもどって、ぐるりと回ります</text>
+</g>
+</svg>

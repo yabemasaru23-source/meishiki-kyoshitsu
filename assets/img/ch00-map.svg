@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img" aria-label="教室の地図。第0章から第22章までの23の丸が、左から右へ1本の道に並んでいる。第1部 陰陽五行のきほんは第0〜6章で必修5章、第2部 命式の読み方は第7〜18章で必修9章、第3部 鑑定の実践は第19〜22章で必修3章。金色の丸が必修（全部で17章）、点線の丸が選んで学ぶ章（6章）。第0章に「いまここ」、第18章に「読解シート」、第22章に「卒業鑑定」の目印がある。各章のわたしの命式ノートは第18章の読解シートに集まる">
+<rect width="800" height="300" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle" stroke-linecap="round">
+  <!-- 部の見出し -->
+  <text x="130" y="58" font-size="15" font-weight="700" fill="var(--ink, #26221d)">第1部 陰陽五行のきほん</text>
+  <text x="130" y="82" font-size="13" fill="var(--ink-soft, #6a6157)">第0〜6章 ／ ★5章</text>
+  <text x="445" y="58" font-size="15" font-weight="700" fill="var(--ink, #26221d)">第2部 命式の読み方</text>
+  <text x="445" y="82" font-size="13" fill="var(--ink-soft, #6a6157)">第7〜18章 ／ ★9章</text>
+  <text x="715" y="58" font-size="15" font-weight="700" fill="var(--ink, #26221d)">第3部 鑑定の実践</text>
+  <text x="715" y="82" font-size="13" fill="var(--ink-soft, #6a6157)">第19〜22章 ／ ★3章</text>
+  <g fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="2">
+    <path d="M30 112 V104 H230 V112"/>
+    <path d="M270 112 V104 H620 V112"/>
+    <path d="M660 112 V104 H770 V112"/>
+  </g>
+  <!-- 道 -->
+  <path d="M28 150 H772" stroke="var(--sunk, #efe8dc)" stroke-width="10"/>
+  <circle cx="40" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="40" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">0</text>
+  <circle cx="70" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="70" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">1</text>
+  <circle cx="100" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="100" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">2</text>
+  <circle cx="130" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="130" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">3</text>
+  <circle cx="160" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="160" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">4</text>
+  <circle cx="190" cy="150" r="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <text x="190" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">5</text>
+  <circle cx="220" cy="150" r="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <text x="220" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">6</text>
+  <circle cx="280" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="280" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">7</text>
+  <circle cx="310" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="310" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">8</text>
+  <circle cx="340" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="340" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">9</text>
+  <circle cx="370" cy="150" r="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <text x="370" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">10</text>
+  <circle cx="400" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="400" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">11</text>
+  <circle cx="430" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="430" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">12</text>
+  <circle cx="460" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="460" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">13</text>
+  <circle cx="490" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="490" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">14</text>
+  <circle cx="520" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="520" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">15</text>
+  <circle cx="550" cy="150" r="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <text x="550" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">16</text>
+  <circle cx="580" cy="150" r="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <text x="580" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">17</text>
+  <circle cx="610" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="610" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">18</text>
+  <circle cx="670" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="670" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">19</text>
+  <circle cx="700" cy="150" r="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <text x="700" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">20</text>
+  <circle cx="730" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="730" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">21</text>
+  <circle cx="760" cy="150" r="12" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="760" y="154.5" font-size="12" font-weight="700" fill="var(--ink, #26221d)">22</text>
+  <!-- 目印 -->
+  <path d="M40 166 V174" stroke="var(--warm, #c03430)" stroke-width="2"/>
+  <text x="40" y="192" font-size="13" font-weight="700" fill="var(--warm, #c03430)">いまここ</text>
+  <path d="M610 166 V174" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="610" y="192" font-size="13" font-weight="700" fill="var(--ink, #26221d)">第18章 読解シート</text>
+  <path d="M760 166 V174" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="760" y="192" font-size="13" font-weight="700" fill="var(--ink, #26221d)">卒業鑑定</text>
+  <!-- 凡例 -->
+  <circle cx="250" cy="231" r="9" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  <text x="266" y="236" font-size="14" text-anchor="start" fill="var(--ink, #26221d)">★必修（17章）</text>
+  <circle cx="430" cy="231" r="9" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <text x="446" y="236" font-size="14" text-anchor="start" fill="var(--ink, #26221d)">選んで学ぶ章（6章）</text>
+  <text x="400" y="274" font-size="14" fill="var(--ink-soft, #6a6157)">各章の「わたしの命式ノート」は、第18章の読解シートに集まります</text>
+</g>
+</svg>

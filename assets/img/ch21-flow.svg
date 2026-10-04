@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img" aria-label="鑑定の流れ5ステップ。1 準備：生年月日と出生時刻をたしかめる、2 聞く：相談ごとを命式より先に聞く、3 読む：7ステップで読み、相談にしぼる、4 伝える：持ち味から、くせは使い方とセットで、5 持ち帰り：行動をひとつ決めてもらう。左から右へ矢印でつながる。30分の鑑定の例では、準備は前日まで＋当日3分、聞く7分、読む5分、伝える10分、持ち帰り5分。下に、どのステップでも、こわがらせない・決めつけない・決めるのは相手、とある">
+<defs>
+  <marker id="f21a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink, #26221d)"/></marker>
+</defs>
+<rect width="800" height="300" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <text x="16" y="26" font-size="14" text-anchor="start" fill="var(--ink-soft, #6a6157)">30分の鑑定の例</text>
+  <!-- 矢印（箱と箱のすき間 148〜178 などに収める） -->
+  <g fill="none" stroke="var(--ink, #26221d)" stroke-width="3">
+    <path d="M152 120 H170" marker-end="url(#f21a)"/>
+    <path d="M314 120 H332" marker-end="url(#f21a)"/>
+    <path d="M476 120 H494" marker-end="url(#f21a)"/>
+    <path d="M638 120 H656" marker-end="url(#f21a)"/>
+  </g>
+  <!-- 1 準備 -->
+  <g transform="translate(82 0)">
+    <rect x="-66" y="40" width="132" height="160" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cy="70" r="18" fill="var(--sun, #d9a441)"/><text y="77" font-size="18" font-weight="700" fill="var(--ink, #26221d)">1</text>
+    <text y="118" font-size="20" font-weight="700" fill="var(--ink, #26221d)">準備</text>
+    <text y="148" font-size="14" fill="var(--ink-soft, #6a6157)">生年月日と</text>
+    <text y="168" font-size="14" fill="var(--ink-soft, #6a6157)">出生時刻を</text>
+    <text y="188" font-size="14" fill="var(--ink-soft, #6a6157)">たしかめる</text>
+    <rect x="-60" y="210" width="120" height="26" rx="13" fill="var(--sun-soft, #f6ead0)"/>
+    <text y="228" font-size="14" fill="var(--ink, #26221d)">前日まで＋3分</text>
+  </g>
+  <!-- 2 聞く -->
+  <g transform="translate(244 0)">
+    <rect x="-66" y="40" width="132" height="160" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cy="70" r="18" fill="var(--sun, #d9a441)"/><text y="77" font-size="18" font-weight="700" fill="var(--ink, #26221d)">2</text>
+    <text y="118" font-size="20" font-weight="700" fill="var(--ink, #26221d)">聞く</text>
+    <text y="148" font-size="14" fill="var(--ink-soft, #6a6157)">相談ごとを</text>
+    <text y="168" font-size="14" fill="var(--ink-soft, #6a6157)">命式より</text>
+    <text y="188" font-size="14" fill="var(--ink-soft, #6a6157)">先に聞く</text>
+    <rect x="-60" y="210" width="120" height="26" rx="13" fill="var(--sun-soft, #f6ead0)"/>
+    <text y="228" font-size="14" fill="var(--ink, #26221d)">7分</text>
+  </g>
+  <!-- 3 読む -->
+  <g transform="translate(406 0)">
+    <rect x="-66" y="40" width="132" height="160" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cy="70" r="18" fill="var(--sun, #d9a441)"/><text y="77" font-size="18" font-weight="700" fill="var(--ink, #26221d)">3</text>
+    <text y="118" font-size="20" font-weight="700" fill="var(--ink, #26221d)">読む</text>
+    <text y="148" font-size="14" fill="var(--ink-soft, #6a6157)">7ステップで</text>
+    <text y="168" font-size="14" fill="var(--ink-soft, #6a6157)">読み、相談に</text>
+    <text y="188" font-size="14" fill="var(--ink-soft, #6a6157)">しぼる</text>
+    <rect x="-60" y="210" width="120" height="26" rx="13" fill="var(--sun-soft, #f6ead0)"/>
+    <text y="228" font-size="14" fill="var(--ink, #26221d)">5分</text>
+  </g>
+  <!-- 4 伝える -->
+  <g transform="translate(568 0)">
+    <rect x="-66" y="40" width="132" height="160" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cy="70" r="18" fill="var(--sun, #d9a441)"/><text y="77" font-size="18" font-weight="700" fill="var(--ink, #26221d)">4</text>
+    <text y="118" font-size="20" font-weight="700" fill="var(--ink, #26221d)">伝える</text>
+    <text y="148" font-size="14" fill="var(--ink-soft, #6a6157)">持ち味から</text>
+    <text y="168" font-size="14" fill="var(--ink-soft, #6a6157)">くせは使い方</text>
+    <text y="188" font-size="14" fill="var(--ink-soft, #6a6157)">とセットで</text>
+    <rect x="-60" y="210" width="120" height="26" rx="13" fill="var(--sun-soft, #f6ead0)"/>
+    <text y="228" font-size="14" fill="var(--ink, #26221d)">10分</text>
+  </g>
+  <!-- 5 持ち帰り -->
+  <g transform="translate(730 0)">
+    <rect x="-66" y="40" width="132" height="160" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cy="70" r="18" fill="var(--sun, #d9a441)"/><text y="77" font-size="18" font-weight="700" fill="var(--ink, #26221d)">5</text>
+    <text y="118" font-size="20" font-weight="700" fill="var(--ink, #26221d)">持ち帰り</text>
+    <text y="148" font-size="14" fill="var(--ink-soft, #6a6157)">行動を</text>
+    <text y="168" font-size="14" fill="var(--ink-soft, #6a6157)">ひとつ</text>
+    <text y="188" font-size="14" fill="var(--ink-soft, #6a6157)">決めてもらう</text>
+    <rect x="-60" y="210" width="120" height="26" rx="13" fill="var(--sun-soft, #f6ead0)"/>
+    <text y="228" font-size="14" fill="var(--ink, #26221d)">5分</text>
+  </g>
+  <!-- 約束の帯 -->
+  <rect x="16" y="252" width="768" height="36" rx="18" fill="var(--warm, #c03430)" fill-opacity=".12"/>
+  <text x="400" y="276" font-size="15" font-weight="700" fill="var(--warm, #c03430)">どのステップでも ― こわがらせない・決めつけない・決めるのは相手</text>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="左にスマートフォン。画面には文章の行がぎっしり並んでいる。まんなかの虫めがねの中には「星」の字があり、文章のもとになった星をさがしている。右には、やわらかな形の吹き出しがあり、中に「あなたの言葉で」と書かれ、小さなハートがそえられている。アプリの文を、根拠をたどって自分の言葉にするイメージ">
+<rect width="800" height="320" fill="var(--sunk, #efe8dc)"/>
+<path d="M0 270 Q200 250 400 266 T800 254 V320 H0Z" fill="var(--sun-soft, #f6ead0)"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+  <!-- スマートフォン -->
+  <rect x="80" y="36" width="160" height="250" rx="22" fill="var(--ink, #26221d)"/>
+  <rect x="92" y="58" width="136" height="206" rx="8" fill="var(--surface, #fffdf8)"/>
+  <g stroke="var(--kin, #6b7584)" stroke-width="5" opacity=".6">
+    <path d="M106 80 H214 M106 100 H200 M106 120 H214 M106 140 H190 M106 168 H214 M106 188 H206 M106 208 H180 M106 236 H214"/>
+  </g>
+  <!-- 虫めがね -->
+  <circle cx="300" cy="150" r="44" fill="var(--surface, #fffdf8)" fill-opacity=".7" stroke="var(--moku, #2d7a4a)" stroke-width="7"/>
+  <path d="M332 182 L372 222" stroke="var(--moku, #2d7a4a)" stroke-width="12"/>
+  <g font-family="Zen Old Mincho, serif" font-weight="900" text-anchor="middle" font-size="30" fill="var(--moku, #2d7a4a)"><text x="300" y="161">星</text></g>
+  <!-- 矢印 -->
+  <path d="M398 150 H470" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="4" stroke-dasharray="4 8"/>
+  <path d="M466 140 L482 150 L466 160" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="4"/>
+  <!-- 吹き出し -->
+  <path d="M520 70 Q520 46 546 46 H726 Q752 46 752 70 V196 Q752 220 726 220 H600 L566 258 L572 220 H546 Q520 220 520 196 Z" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="4"/>
+  <text x="636" y="132" text-anchor="middle" font-family="Zen Maru Gothic, sans-serif" font-weight="700" font-size="28" fill="var(--ink, #26221d)">あなたの言葉で</text>
+  <path d="M636 184 C628 174 612 176 614 164 C616 154 630 154 636 162 C642 154 656 154 658 164 C660 176 644 174 636 184 Z" fill="var(--warm, #c03430)"/>
+</g>
+</svg>

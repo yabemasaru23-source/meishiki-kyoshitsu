@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="ひよりさんの日干の五行「金」を真ん中にした、わたしから見た5つの関係。上は同じ五行の金（比和）。右上は金が生む水。右下は金がおさえる木。左下は金をおさえる火。左上は金を生む土。実線の矢印は相生、点線の矢印は相剋">
+<defs>
+  <marker id="m3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink, #26221d)"/></marker>
+</defs>
+<rect width="800" height="520" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle" stroke-linecap="round" stroke-linejoin="round">
+  <g fill="none" stroke="var(--ink, #26221d)" stroke-width="3">
+    <path d="M462 234 L522 208" marker-end="url(#m3a)"/>
+    <path d="M448 310 L532 372" marker-end="url(#m3a)" stroke-dasharray="7 6"/>
+    <path d="M268 372 L350 310" marker-end="url(#m3a)" stroke-dasharray="7 6"/>
+    <path d="M276 208 L336 234" marker-end="url(#m3a)"/>
+  </g>
+  <path d="M400 116 V194" fill="none" stroke="var(--ink, #26221d)" stroke-width="3"/>
+  <circle cx="400" cy="262" r="66" fill="#e6e9ee" stroke="var(--kin, #6b7584)" stroke-width="4"/>
+  <text x="400" y="252" font-size="17" fill="var(--ink-soft, #6a6157)">わたし</text>
+  <text x="400" y="292" font-size="38" font-weight="900" font-family="Zen Old Mincho, serif" fill="var(--kin, #6b7584)">金</text>
+  <g transform="translate(400 66)">
+    <rect x="-130" y="-48" width="260" height="96" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cx="-82" cy="0" r="30" fill="#e6e9ee" stroke="var(--kin, #6b7584)" stroke-width="3"/>
+    <text x="-82" y="11" font-size="30" font-weight="900" font-family="Zen Old Mincho, serif" fill="var(--kin, #6b7584)">金</text>
+    <text x="30" y="-8" font-size="19" font-weight="700" fill="var(--ink, #26221d)">わたしと同じ</text>
+    <text x="30" y="22" font-size="14" fill="var(--ink-soft, #6a6157)">比和（なかま）</text>
+  </g>
+  <g transform="translate(660 160)">
+    <rect x="-130" y="-48" width="260" height="96" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cx="-82" cy="0" r="30" fill="#d8e2f3" stroke="var(--sui, #2854a0)" stroke-width="3"/>
+    <text x="-82" y="11" font-size="30" font-weight="900" font-family="Zen Old Mincho, serif" fill="var(--sui, #2854a0)">水</text>
+    <text x="30" y="-8" font-size="19" font-weight="700" fill="var(--ink, #26221d)">わたしが生む</text>
+    <text x="30" y="22" font-size="14" fill="var(--ink-soft, #6a6157)">金 → 水（相生）</text>
+  </g>
+  <g transform="translate(620 430)">
+    <rect x="-130" y="-48" width="260" height="96" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cx="-82" cy="0" r="30" fill="#dcefe2" stroke="var(--moku, #2d7a4a)" stroke-width="3"/>
+    <text x="-82" y="11" font-size="30" font-weight="900" font-family="Zen Old Mincho, serif" fill="var(--moku, #2d7a4a)">木</text>
+    <text x="30" y="-8" font-size="19" font-weight="700" fill="var(--ink, #26221d)">わたしがおさえる</text>
+    <text x="30" y="22" font-size="14" fill="var(--ink-soft, #6a6157)">金 → 木（相剋）</text>
+  </g>
+  <g transform="translate(180 430)">
+    <rect x="-130" y="-48" width="260" height="96" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cx="-82" cy="0" r="30" fill="#f8dcd6" stroke="var(--ka, #c03430)" stroke-width="3"/>
+    <text x="-82" y="11" font-size="30" font-weight="900" font-family="Zen Old Mincho, serif" fill="var(--ka, #c03430)">火</text>
+    <text x="30" y="-8" font-size="19" font-weight="700" fill="var(--ink, #26221d)">わたしをおさえる</text>
+    <text x="30" y="22" font-size="14" fill="var(--ink-soft, #6a6157)">火 → 金（相剋）</text>
+  </g>
+  <g transform="translate(140 160)">
+    <rect x="-130" y="-48" width="260" height="96" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cx="-82" cy="0" r="30" fill="#f1e2c2" stroke="var(--do, #a87018)" stroke-width="3"/>
+    <text x="-82" y="11" font-size="30" font-weight="900" font-family="Zen Old Mincho, serif" fill="var(--do, #a87018)">土</text>
+    <text x="30" y="-8" font-size="19" font-weight="700" fill="var(--ink, #26221d)">わたしを生む</text>
+    <text x="30" y="22" font-size="14" fill="var(--ink-soft, #6a6157)">土 → 金（相生）</text>
+  </g>
+  <g transform="translate(400 508)" font-size="13" fill="var(--ink-soft, #6a6157)">
+    <path d="M-150 -4 H-110" stroke="var(--ink, #26221d)" stroke-width="3"/>
+    <text x="-60" y="0">相生（生む）</text>
+    <path d="M20 -4 H60" stroke="var(--ink, #26221d)" stroke-width="3" stroke-dasharray="7 6"/>
+    <text x="120" y="0">相剋（おさえる）</text>
+  </g>
+  <text x="20" y="36" font-size="15" text-anchor="start" fill="var(--ink-soft, #6a6157)">ひよりさん（日干 辛）の場合</text>
+</g>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" role="img" aria-label="鑑定文を自分の言葉にする4つの流れ。1 アプリの文はたたき台として読む。2 その文がどの柱・どの段・どの星から出ているか、根拠にさかのぼる。3 相手に「こんなことはありますか？」と事実を聞いて確かめる。4 こわがらせない・決めつけない・行動につなげる、の3つを守って自分の言葉で伝える。3で合わなかったときは、2に戻って別の読み方をさがす">
+<defs><marker id="f19a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink-soft, #6a6157)"/></marker></defs>
+<rect width="800" height="330" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <text x="400" y="40" font-size="21" font-weight="700" fill="var(--ink, #26221d)">アプリの文を「自分の言葉」にする4つの流れ</text>
+  <!-- 1 -->
+  <rect x="20" y="66" width="160" height="170" rx="14" fill="var(--sunk, #efe8dc)" stroke="var(--kin, #6b7584)" stroke-width="2.5"/>
+  <circle cx="100" cy="94" r="17" fill="var(--kin, #6b7584)"/><text x="100" y="101" font-size="18" font-weight="700" fill="#fffdf8">1</text>
+  <text x="100" y="140" font-size="18" font-weight="700" fill="var(--ink, #26221d)">アプリの文</text>
+  <text x="100" y="170" font-size="14" fill="var(--ink-soft, #6a6157)">「たたき台」として</text>
+  <text x="100" y="192" font-size="14" fill="var(--ink-soft, #6a6157)">目を通す</text>
+  <text x="100" y="214" font-size="14" fill="var(--ink-soft, #6a6157)">読み上げない</text>
+  <!-- 2 -->
+  <rect x="220" y="66" width="160" height="170" rx="14" fill="var(--sunk, #efe8dc)" stroke="var(--moku, #2d7a4a)" stroke-width="2.5"/>
+  <circle cx="300" cy="94" r="17" fill="var(--moku, #2d7a4a)"/><text x="300" y="101" font-size="18" font-weight="700" fill="#fffdf8">2</text>
+  <text x="300" y="140" font-size="16" font-weight="700" fill="var(--ink, #26221d)">根拠にさかのぼる</text>
+  <text x="300" y="170" font-size="14" fill="var(--ink-soft, #6a6157)">どの柱の</text>
+  <text x="300" y="192" font-size="14" fill="var(--ink-soft, #6a6157)">どの段の</text>
+  <text x="300" y="214" font-size="14" fill="var(--ink-soft, #6a6157)">どの星から？</text>
+  <!-- 3 -->
+  <rect x="420" y="66" width="160" height="170" rx="14" fill="var(--sunk, #efe8dc)" stroke="var(--sui, #2854a0)" stroke-width="2.5"/>
+  <circle cx="500" cy="94" r="17" fill="var(--sui, #2854a0)"/><text x="500" y="101" font-size="18" font-weight="700" fill="#fffdf8">3</text>
+  <text x="500" y="140" font-size="18" font-weight="700" fill="var(--ink, #26221d)">事実を聞く</text>
+  <text x="500" y="170" font-size="14" fill="var(--ink-soft, #6a6157)">「こんなこと、</text>
+  <text x="500" y="192" font-size="14" fill="var(--ink-soft, #6a6157)">ありますか？」</text>
+  <text x="500" y="214" font-size="14" fill="var(--ink-soft, #6a6157)">相手の話で確かめる</text>
+  <!-- 4 -->
+  <rect x="620" y="66" width="160" height="170" rx="14" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="3"/>
+  <circle cx="700" cy="94" r="17" fill="var(--sun, #d9a441)"/><text x="700" y="101" font-size="18" font-weight="700" fill="#fffdf8">4</text>
+  <text x="700" y="140" font-size="18" font-weight="700" fill="var(--ink, #26221d)">自分の言葉</text>
+  <text x="700" y="170" font-size="14" fill="var(--ink-soft, #6a6157)">こわがらせない</text>
+  <text x="700" y="192" font-size="14" fill="var(--ink-soft, #6a6157)">決めつけない</text>
+  <text x="700" y="214" font-size="14" fill="var(--ink-soft, #6a6157)">行動につなげる</text>
+  <!-- 矢印 -->
+  <g stroke="var(--ink-soft, #6a6157)" stroke-width="2.5" fill="none">
+    <path d="M184 151 H214" marker-end="url(#f19a)"/>
+    <path d="M384 151 H414" marker-end="url(#f19a)"/>
+    <path d="M584 151 H614" marker-end="url(#f19a)"/>
+    <path d="M500 240 V262 Q500 274 488 274 H312 Q300 274 300 262 V246" stroke-dasharray="6 5" marker-end="url(#f19a)"/>
+  </g>
+  <text x="400" y="304" font-size="14" fill="var(--ink-soft, #6a6157)">合わなかったら、2に戻って「別の読み方」をさがす（相手の話のほうが正しい）</text>
+</g>
+</svg>

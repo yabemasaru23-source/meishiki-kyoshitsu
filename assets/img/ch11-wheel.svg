@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="真ん中に日干（わたし）。まわりに5つのグループ。同じ五行は仲間の星（比肩・劫財）、わたしが生むのは表現の星（食神・傷官）、わたしがおさえるのは財の星（偏財・正財）、わたしをおさえるのは官の星（偏官・正官）、わたしを生むのは印の星（偏印・印綬）。実線の矢印は相生、点線の矢印は相剋">
+<defs>
+  <marker id="w11a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink, #26221d)"/></marker>
+</defs>
+<rect width="800" height="520" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 矢印（中心 400,262） -->
+  <g fill="none" stroke="var(--ink, #26221d)" stroke-width="3">
+    <path d="M462 234 L522 208" marker-end="url(#w11a)"/>
+    <path d="M448 310 L532 372" marker-end="url(#w11a)" stroke-dasharray="7 6"/>
+    <path d="M268 372 L350 310" marker-end="url(#w11a)" stroke-dasharray="7 6"/>
+    <path d="M276 208 L336 234" marker-end="url(#w11a)"/>
+  </g>
+  <path d="M400 116 V194" fill="none" stroke="var(--ink, #26221d)" stroke-width="3"/>
+  <!-- 中心 -->
+  <circle cx="400" cy="262" r="66" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="4"/>
+  <text x="400" y="254" font-size="26" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">日干</text>
+  <text x="400" y="284" font-size="18" fill="var(--ink-soft, #6a6157)">＝ わたし</text>
+  <!-- 上：仲間 -->
+  <g transform="translate(400 66)">
+    <rect x="-130" y="-48" width="260" height="96" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <text y="-18" font-size="20" font-weight="700" fill="var(--ink, #26221d)">👫 仲間の星</text>
+    <text y="10" font-size="15" fill="var(--ink-soft, #6a6157)">わたしと同じ五行</text>
+    <text y="36" font-size="17" font-weight="700" fill="var(--ink, #26221d)">比肩 ・ 劫財</text>
+  </g>
+  <!-- 右上：表現 -->
+  <g transform="translate(660 160)">
+    <rect x="-130" y="-48" width="260" height="96" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <text y="-18" font-size="20" font-weight="700" fill="var(--ink, #26221d)">🎨 表現の星</text>
+    <text y="10" font-size="15" fill="var(--ink-soft, #6a6157)">わたしが生む</text>
+    <text y="36" font-size="17" font-weight="700" fill="var(--ink, #26221d)">食神 ・ 傷官</text>
+  </g>
+  <!-- 右下：財 -->
+  <g transform="translate(620 430)">
+    <rect x="-130" y="-48" width="260" height="96" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <text y="-18" font-size="20" font-weight="700" fill="var(--ink, #26221d)">💰 財の星</text>
+    <text y="10" font-size="15" fill="var(--ink-soft, #6a6157)">わたしがおさえる</text>
+    <text y="36" font-size="17" font-weight="700" fill="var(--ink, #26221d)">偏財 ・ 正財</text>
+  </g>
+  <!-- 左下：官 -->
+  <g transform="translate(180 430)">
+    <rect x="-130" y="-48" width="260" height="96" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <text y="-18" font-size="20" font-weight="700" fill="var(--ink, #26221d)">👔 官の星</text>
+    <text y="10" font-size="15" fill="var(--ink-soft, #6a6157)">わたしをおさえる</text>
+    <text y="36" font-size="17" font-weight="700" fill="var(--ink, #26221d)">偏官 ・ 正官</text>
+  </g>
+  <!-- 左上：印 -->
+  <g transform="translate(140 160)">
+    <rect x="-130" y="-48" width="260" height="96" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <text y="-18" font-size="20" font-weight="700" fill="var(--ink, #26221d)">📚 印の星</text>
+    <text y="10" font-size="15" fill="var(--ink-soft, #6a6157)">わたしを生む</text>
+    <text y="36" font-size="17" font-weight="700" fill="var(--ink, #26221d)">偏印 ・ 印綬</text>
+  </g>
+  <!-- 凡例 -->
+  <g transform="translate(400 508)" font-size="13" fill="var(--ink-soft, #6a6157)">
+    <path d="M-150 -4 H-110" stroke="var(--ink, #26221d)" stroke-width="3"/>
+    <text x="-60" y="0">相生（生む）</text>
+    <path d="M20 -4 H60" stroke="var(--ink, #26221d)" stroke-width="3" stroke-dasharray="7 6"/>
+    <text x="120" y="0">相剋（おさえる）</text>
+  </g>
+  <text x="20" y="36" font-size="15" text-anchor="start" fill="var(--ink-soft, #6a6157)">星の名前：左が陰陽「同じ」</text>
+  <text x="20" y="58" font-size="15" text-anchor="start" fill="var(--ink-soft, #6a6157)">　　　　　右が陰陽「ちがう」</text>
+</g>
+</svg>

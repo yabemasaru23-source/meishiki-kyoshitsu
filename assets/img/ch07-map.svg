@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" role="img" aria-label="ひよりさんの命式で見る、命式の表の各部の名前。たての列は4本の柱で、左から時柱・日柱・月柱・年柱。列の見出しには柱の名前と、その柱の時期・場面（時柱は80歳〜・晩年・子供、日柱は60〜79歳・自分・伴侶、月柱は30〜59歳・仕事、年柱は〜29歳・第一印象）。よこの行は5つの段で、上から干支・蔵干・通変星・蔵干通変星・十二運星。干支のマスには、上に天干の陰陽と五行、真ん中に大きな干支2文字、下に地支の陰陽と五行と十二支の読み、いちばん下にNo.（六十干支の番号）。十二運星のマスの下にはエネルギーの数字。表の下に、天中殺の札が2枚（日柱から子丑、年柱から申酉）と、中殺の知らせ（生日中殺あり）。日柱の列は主役の日干がある列として色がついている">
+<rect width="800" height="640" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <!-- 日柱の列のハイライト -->
+  <rect x="205" y="40" width="105" height="440" fill="var(--sun-soft, #f6ead0)"/>
+  <!-- 表のわく -->
+  <g fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5">
+    <rect x="20" y="40" width="500" height="440"/>
+    <path d="M100 40 V480 M205 40 V480 M310 40 V480 M415 40 V480"/>
+    <path d="M20 110 H520 M20 250 H520 M20 300 H520 M20 350 H520 M20 410 H520"/>
+  </g>
+  <!-- 段の名前 -->
+  <g font-size="15" font-weight="700" fill="var(--ink, #26221d)">
+    <text x="60" y="185">干支</text>
+    <text x="60" y="281">蔵干</text>
+    <text x="60" y="331">通変星</text>
+    <text x="60" y="376">蔵干</text>
+    <text x="60" y="395">通変星</text>
+    <text x="60" y="450">十二運星</text>
+  </g>
+  <!-- 列の見出し -->
+  <g fill="var(--ink, #26221d)">
+    <g font-size="17" font-weight="700">
+      <text x="152" y="66">時柱</text><text x="257" y="66">日柱</text><text x="362" y="66">月柱</text><text x="467" y="66">年柱</text>
+    </g>
+    <g font-size="12" fill="var(--ink-soft, #6a6157)">
+      <text x="152" y="84">80歳〜</text><text x="152" y="100">晩年・子供</text>
+      <text x="257" y="84">60〜79歳</text><text x="257" y="100">自分・伴侶</text>
+      <text x="362" y="84">30〜59歳</text><text x="362" y="100">仕事</text>
+      <text x="467" y="84">〜29歳</text><text x="467" y="100">第一印象</text>
+    </g>
+  </g>
+  <!-- 干支の段 -->
+  <g font-size="12" fill="var(--ink-soft, #6a6157)">
+    <text x="152" y="134">−木</text><text x="257" y="134">−金</text><text x="362" y="134">−火</text><text x="467" y="134">＋土</text>
+    <text x="152" y="206">−土・ひつじ</text><text x="257" y="206">−金・とり</text><text x="362" y="206">−火・み</text><text x="467" y="206">＋木・とら</text>
+    <text x="152" y="234">No.32</text><text x="257" y="234">No.58</text><text x="362" y="234">No.54</text><text x="467" y="234">No.15</text>
+  </g>
+  <g font-size="32" font-family="Zen Old Mincho, serif" font-weight="700" fill="var(--ink, #26221d)">
+    <text x="152" y="180">乙未</text><text x="257" y="180">辛酉</text><text x="362" y="180">丁巳</text><text x="467" y="180">戊寅</text>
+  </g>
+  <!-- 蔵干・通変星・蔵干通変星・十二運星 -->
+  <g font-size="18" font-family="Zen Old Mincho, serif" font-weight="700" fill="var(--ink, #26221d)">
+    <text x="152" y="282">丁</text><text x="257" y="282">庚</text><text x="362" y="282">庚</text><text x="467" y="282">丙</text>
+    <text x="152" y="332">偏財</text><text x="362" y="332">偏官</text><text x="467" y="332">印綬</text>
+    <text x="152" y="387">偏官</text><text x="257" y="387">劫財</text><text x="362" y="387">劫財</text><text x="467" y="387">正官</text>
+    <text x="152" y="440">衰</text><text x="257" y="440">建禄</text><text x="362" y="440">死</text><text x="467" y="440">胎</text>
+  </g>
+  <text x="257" y="332" font-size="18" fill="var(--ink-soft, #6a6157)">—</text>
+  <g font-size="12" fill="var(--ink-soft, #6a6157)">
+    <text x="152" y="464">エネルギー 8</text><text x="257" y="464">エネルギー 11</text><text x="362" y="464">エネルギー 2</text><text x="467" y="464">エネルギー 3</text>
+  </g>
+  <!-- 天中殺の札 -->
+  <g>
+    <rect x="20" y="500" width="245" height="62" rx="8" fill="var(--sunk, #efe8dc)"/>
+    <rect x="275" y="500" width="245" height="62" rx="8" fill="var(--sunk, #efe8dc)"/>
+    <text x="142" y="521" font-size="12" fill="var(--ink-soft, #6a6157)">日柱から</text>
+    <text x="397" y="521" font-size="12" fill="var(--ink-soft, #6a6157)">年柱から</text>
+    <text x="142" y="548" font-size="17" font-weight="700" fill="var(--ink, #26221d)">子丑（ねうし）天中殺</text>
+    <text x="397" y="548" font-size="17" font-weight="700" fill="var(--ink, #26221d)">申酉（さるとり）天中殺</text>
+  </g>
+  <!-- 中殺 -->
+  <rect x="20" y="574" width="500" height="46" rx="8" fill="var(--sun-soft, #f6ead0)"/>
+  <rect x="20" y="574" width="5" height="46" fill="var(--do, #a87018)"/>
+  <text x="270" y="603" font-size="15" fill="var(--ink, #26221d)"><tspan font-weight="700" fill="var(--do, #a87018)">生日中殺</tspan>があります。</text>
+</g>
+<!-- 右の説明（よこの線で、その位置を指す） -->
+<g font-family="Zen Maru Gothic, sans-serif" font-size="13" fill="var(--ink, #26221d)">
+  <g stroke="var(--warm, #c03430)" stroke-width="1.5" fill="none">
+    <path d="M526 76 H554 M526 130 H554 M526 168 H554 M526 202 H554 M526 230 H554 M526 276 H554 M526 326 H554 M526 381 H554 M526 434 H554 M526 460 H554 M526 531 H554 M526 597 H554"/>
+  </g>
+  <g fill="var(--warm, #c03430)">
+    <circle cx="526" cy="76" r="3"/><circle cx="526" cy="130" r="3"/><circle cx="526" cy="168" r="3"/><circle cx="526" cy="202" r="3"/><circle cx="526" cy="230" r="3"/><circle cx="526" cy="276" r="3"/><circle cx="526" cy="326" r="3"/><circle cx="526" cy="381" r="3"/><circle cx="526" cy="434" r="3"/><circle cx="526" cy="460" r="3"/><circle cx="526" cy="531" r="3"/><circle cx="526" cy="597" r="3"/>
+  </g>
+  <text x="560" y="80" font-weight="700">柱の名前と、時期・場面</text>
+  <text x="560" y="134">天干（上の字）の陰陽と五行</text>
+  <text x="560" y="172" font-weight="700">干支（上＝天干・下＝地支）</text>
+  <text x="560" y="206">地支（下の字）の陰陽・五行・読み</text>
+  <text x="560" y="234">No.＝六十干支の番号</text>
+  <text x="560" y="280" font-weight="700">蔵干（地支にかくれた干）</text>
+  <text x="560" y="330" font-weight="700">通変星（天干から出す星）</text>
+  <text x="560" y="385" font-weight="700">蔵干通変星（蔵干から出す星）</text>
+  <text x="560" y="438" font-weight="700">十二運星（12段階）</text>
+  <text x="560" y="464">エネルギーの数字</text>
+  <text x="560" y="535" font-weight="700">天中殺（日柱から・年柱から）</text>
+  <text x="560" y="601" font-weight="700">中殺（あるときだけ表示）</text>
+  <text x="257" y="30" font-size="13" text-anchor="middle" fill="var(--do, #a87018)" font-weight="700">▼ 日干（主役）の列</text>
+</g>
+</svg>

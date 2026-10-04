@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" role="img" aria-label="太極図の読み方。白いところが陽（明るい・動く・外へ）、黒いところが陰（暗い・静か・内へ）。白の中には黒い点があり、陽の中にも陰の種があることをあらわす。黒の中には白い点があり、陰の中にも陽の種があることをあらわす。白と黒の境目はまっすぐではなくS字で、白が細くなるところで黒が太くなり、少しずつ入れかわっていくことをあらわす">
+<rect width="800" height="440" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" stroke-linecap="round">
+  <!-- 太極図（中心 400,200 半径 140） -->
+  <g transform="translate(400 200)">
+    <circle r="140" fill="#fbf8f2"/>
+    <path d="M0 -140 A140 140 0 0 1 0 140 A70 70 0 0 1 0 0 A70 70 0 0 0 0 -140 Z" fill="#26221d"/>
+    <circle cy="-70" r="20" fill="#26221d"/>
+    <circle cy="70" r="20" fill="#fbf8f2"/>
+    <circle r="140" fill="none" stroke="#26221d" stroke-width="4"/>
+  </g>
+  <!-- 引き出し線 -->
+  <g fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="2">
+    <path d="M236 92 L320 170"/>
+    <path d="M564 92 L416 124"/>
+    <path d="M236 322 L386 272"/>
+    <path d="M564 322 L486 268"/>
+  </g>
+  <g fill="var(--warm, #c03430)">
+    <circle cx="320" cy="170" r="5"/><circle cx="416" cy="124" r="5"/><circle cx="386" cy="272" r="5"/>
+  </g>
+  <circle cx="486" cy="268" r="5" fill="var(--sun, #d9a441)"/>
+  <!-- 左上：陽 -->
+  <g text-anchor="start">
+    <text x="30" y="70" font-size="20" font-weight="700" fill="var(--ink, #26221d)">白いところ ＝ 陽</text>
+    <text x="30" y="96" font-size="14" fill="var(--ink-soft, #6a6157)">明るい・動く・外へ</text>
+  </g>
+  <!-- 右上：陽の中の陰 -->
+  <g text-anchor="start">
+    <text x="574" y="70" font-size="18" font-weight="700" fill="var(--ink, #26221d)">白の中の黒い点</text>
+    <text x="574" y="96" font-size="14" fill="var(--ink-soft, #6a6157)">陽の中にも、陰の種がある</text>
+  </g>
+  <!-- 左下：陰の中の陽 -->
+  <g text-anchor="start">
+    <text x="30" y="318" font-size="18" font-weight="700" fill="var(--ink, #26221d)">黒の中の白い点</text>
+    <text x="30" y="344" font-size="14" fill="var(--ink-soft, #6a6157)">陰の中にも、陽の種がある</text>
+  </g>
+  <!-- 右下：陰 -->
+  <g text-anchor="start">
+    <text x="574" y="318" font-size="20" font-weight="700" fill="var(--ink, #26221d)">黒いところ ＝ 陰</text>
+    <text x="574" y="344" font-size="14" fill="var(--ink-soft, #6a6157)">暗い・静か・内へ</text>
+  </g>
+  <!-- 下：S字 -->
+  <text x="400" y="390" font-size="17" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">境目は、まっすぐではなく S字</text>
+  <text x="400" y="416" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">白が細くなるところで黒が太くなる ＝ 少しずつ入れかわっていく</text>
+</g>
+</svg>

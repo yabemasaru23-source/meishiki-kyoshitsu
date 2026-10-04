@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="木・火・土・金・水の5つのメダルが、ぐるりと輪になって並んでいる。芽、炎、山、宝石、波の絵がそれぞれに描かれている">
+<rect width="800" height="320" fill="var(--sunk, #efe8dc)"/>
+<path d="M0 262 Q200 236 400 258 T800 248 V320 H0Z" fill="var(--sun-soft, #f6ead0)"/>
+<g stroke-linecap="round" stroke-linejoin="round" font-family="Zen Old Mincho, serif" font-weight="900" text-anchor="middle">
+  <!-- 輪をつなぐ点線 -->
+  <path d="M128 168 Q264 60 400 104 Q536 60 672 168" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="2" stroke-dasharray="2 8"/>
+  <path d="M128 168 Q400 300 672 168" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="2" stroke-dasharray="2 8"/>
+  <!-- 木 -->
+  <g transform="translate(128 168)">
+    <circle r="58" fill="var(--surface, #fffdf8)" stroke="var(--moku, #2d7a4a)" stroke-width="5"/>
+    <path d="M0 30 V-6 M0 6 Q-22 -2 -24 -22 Q-4 -20 0 2 M0 -6 Q18 -14 22 -32 Q4 -30 0 -10" fill="var(--leaf-soft, #dcefe2)" stroke="var(--moku, #2d7a4a)" stroke-width="3.5"/>
+    <text y="96" font-size="34" fill="var(--moku, #2d7a4a)">木</text>
+  </g>
+  <!-- 火 -->
+  <g transform="translate(264 112)">
+    <circle r="58" fill="var(--surface, #fffdf8)" stroke="var(--ka, #c03430)" stroke-width="5"/>
+    <path d="M0 32 C-24 32 -28 8 -16 -6 C-14 6 -6 8 -6 8 C-10 -10 0 -26 6 -34 C8 -18 26 -8 22 12 C20 26 12 32 0 32 Z" fill="#f6c9b8" stroke="var(--ka, #c03430)" stroke-width="3.5"/>
+    <path d="M0 30 C-10 28 -10 16 -2 8 C2 16 10 18 8 24 C6 28 4 30 0 30Z" fill="var(--sun, #d9a441)"/>
+    <text y="-70" font-size="34" fill="var(--ka, #c03430)">火</text>
+  </g>
+  <!-- 土 -->
+  <g transform="translate(400 156)">
+    <circle r="58" fill="var(--surface, #fffdf8)" stroke="var(--do, #a87018)" stroke-width="5"/>
+    <path d="M-34 24 L-10 -16 L4 2 L14 -10 L36 24 Z" fill="#ecd9b0" stroke="var(--do, #a87018)" stroke-width="3.5"/>
+    <path d="M-40 24 H40" stroke="var(--do, #a87018)" stroke-width="3.5"/>
+    <text y="96" font-size="34" fill="var(--do, #a87018)">土</text>
+  </g>
+  <!-- 金 -->
+  <g transform="translate(536 112)">
+    <circle r="58" fill="var(--surface, #fffdf8)" stroke="var(--kin, #6b7584)" stroke-width="5"/>
+    <path d="M-26 -8 L-14 -24 H14 L26 -8 L0 28 Z" fill="#e6e9ee" stroke="var(--kin, #6b7584)" stroke-width="3.5"/>
+    <path d="M-26 -8 H26 M-14 -24 L-6 -8 L0 28 L6 -8 L14 -24" fill="none" stroke="var(--kin, #6b7584)" stroke-width="2.5"/>
+    <text y="-70" font-size="34" fill="var(--kin, #6b7584)">金</text>
+  </g>
+  <!-- 水 -->
+  <g transform="translate(672 168)">
+    <circle r="58" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="5"/>
+    <path d="M-32 -8 q8 -10 16 0 t16 0 t16 0 t16 0 M-32 10 q8 -10 16 0 t16 0 t16 0 t16 0" fill="none" stroke="var(--sui, #2854a0)" stroke-width="4"/>
+    <path d="M0 -36 C-8 -24 -10 -18 -6 -14 C-2 -10 4 -12 6 -16 C8 -22 2 -30 0 -36Z" fill="#cfdcf2" stroke="var(--sui, #2854a0)" stroke-width="2.5"/>
+    <text y="96" font-size="34" fill="var(--sui, #2854a0)">水</text>
+  </g>
+</g>
+</svg>

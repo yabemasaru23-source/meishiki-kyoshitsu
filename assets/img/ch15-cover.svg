@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="木・火・土・金・水の5つの引き出しがついた、木のたんす。木の引き出しには光の玉が3つ、火と金には2つ、土には1つ入っていて、水の引き出しだけが手前に開いていて、まだからっぽ。からっぽの引き出しのまわりに、小さなきらめきがある">
+<rect width="800" height="320" fill="#f6ead0"/>
+<circle cx="120" cy="70" r="40" fill="#fffdf8" opacity=".6"/><circle cx="700" cy="60" r="28" fill="#fffdf8" opacity=".6"/>
+<path d="M0 286 H800 V320 H0 Z" fill="#e3d3b4"/>
+<g font-family="Zen Old Mincho, serif" font-weight="900" text-anchor="middle">
+  <rect x="110" y="96" width="580" height="170" rx="12" fill="#b98a5a" stroke="#7a5532" stroke-width="4"/>
+  <rect x="96" y="80" width="608" height="22" rx="8" fill="#9c6f43" stroke="#7a5532" stroke-width="3"/>
+  <rect x="130" y="266" width="20" height="20" fill="#7a5532"/><rect x="650" y="266" width="20" height="20" fill="#7a5532"/>
+  <rect x="126" y="114" width="100" height="136" rx="6" fill="#d9b88c" stroke="#7a5532" stroke-width="3"/>
+  <text x="176" y="176" font-size="40" fill="#2d7a4a">木</text>
+  <rect x="160" y="194" width="32" height="8" rx="4" fill="#7a5532"/>
+  <circle cx="148" cy="226" r="9" fill="#2d7a4a" opacity=".75"/>
+  <circle cx="176" cy="226" r="9" fill="#2d7a4a" opacity=".75"/>
+  <circle cx="204" cy="226" r="9" fill="#2d7a4a" opacity=".75"/>
+  <rect x="238" y="114" width="100" height="136" rx="6" fill="#d9b88c" stroke="#7a5532" stroke-width="3"/>
+  <text x="288" y="176" font-size="40" fill="#c03430">火</text>
+  <rect x="272" y="194" width="32" height="8" rx="4" fill="#7a5532"/>
+  <circle cx="274" cy="226" r="9" fill="#c03430" opacity=".75"/>
+  <circle cx="302" cy="226" r="9" fill="#c03430" opacity=".75"/>
+  <rect x="350" y="114" width="100" height="136" rx="6" fill="#d9b88c" stroke="#7a5532" stroke-width="3"/>
+  <text x="400" y="176" font-size="40" fill="#a87018">土</text>
+  <rect x="384" y="194" width="32" height="8" rx="4" fill="#7a5532"/>
+  <circle cx="400" cy="226" r="9" fill="#a87018" opacity=".75"/>
+  <rect x="462" y="114" width="100" height="136" rx="6" fill="#d9b88c" stroke="#7a5532" stroke-width="3"/>
+  <text x="512" y="176" font-size="40" fill="#6b7584">金</text>
+  <rect x="496" y="194" width="32" height="8" rx="4" fill="#7a5532"/>
+  <circle cx="498" cy="226" r="9" fill="#6b7584" opacity=".75"/>
+  <circle cx="526" cy="226" r="9" fill="#6b7584" opacity=".75"/>
+  <rect x="574" y="114" width="100" height="136" rx="6" fill="#5a3e24"/>
+  <path d="M564 196 L684 196 L692 262 L556 262 Z" fill="#d9b88c" stroke="#7a5532" stroke-width="3"/>
+  <path d="M570 202 L678 202 L682 226 L566 226 Z" fill="#c9a374" />
+  <text x="624" y="252" font-size="26" fill="#2854a0">水</text>
+  <g fill="#d9a441"><path d="M598 160 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/><path d="M648 146 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/><circle cx="624" cy="138" r="3"/></g>
+</g>
+</svg>

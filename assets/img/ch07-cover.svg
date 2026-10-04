@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="方眼の地図の上に、4つの部屋がならんだ平屋の家。部屋には右から年・月・日・時の札がかかり、どの部屋にも5段の棚がある。日の部屋の上には、金色の「現在地」のピンが立っている。右には方位じしん">
+<rect width="800" height="320" fill="var(--sunk, #efe8dc)"/>
+<!-- 方眼 -->
+<g stroke="var(--ink-soft, #6a6157)" stroke-width="1" opacity=".18">
+  <path d="M0 40 H800 M0 80 H800 M0 120 H800 M0 160 H800 M0 200 H800 M0 240 H800 M0 280 H800"/>
+  <path d="M40 0 V320 M80 0 V320 M120 0 V320 M160 0 V320 M200 0 V320 M240 0 V320 M280 0 V320 M320 0 V320 M360 0 V320 M400 0 V320 M440 0 V320 M480 0 V320 M520 0 V320 M560 0 V320 M600 0 V320 M640 0 V320 M680 0 V320 M720 0 V320 M760 0 V320"/>
+</g>
+<path d="M0 290 Q200 276 400 288 T800 284 V320 H0Z" fill="var(--sun-soft, #f6ead0)"/>
+<g stroke-linejoin="round" stroke-linecap="round">
+  <!-- 屋根 -->
+  <path d="M190 122 L400 46 L610 122 Z" fill="var(--warm, #c03430)" stroke="var(--ink, #26221d)" stroke-width="4"/>
+  <!-- 家 -->
+  <rect x="210" y="122" width="380" height="166" fill="var(--surface, #fffdf8)" stroke="var(--ink, #26221d)" stroke-width="4"/>
+  <path d="M305 122 V288 M400 122 V288 M495 122 V288" stroke="var(--ink, #26221d)" stroke-width="3"/>
+  <!-- 日の部屋（左から2つめ）を明るく -->
+  <rect x="307" y="124" width="91" height="162" fill="var(--sun-soft, #f6ead0)"/>
+  <!-- 棚（5段） -->
+  <g stroke="var(--ink-soft, #6a6157)" stroke-width="3">
+    <path d="M222 182 H293 M222 202 H293 M222 222 H293 M222 242 H293 M222 262 H293"/>
+    <path d="M317 182 H388 M317 202 H388 M317 222 H388 M317 242 H388 M317 262 H388"/>
+    <path d="M412 182 H483 M412 202 H483 M412 222 H483 M412 242 H483 M412 262 H483"/>
+    <path d="M507 182 H578 M507 202 H578 M507 222 H578 M507 242 H578 M507 262 H578"/>
+  </g>
+  <!-- 部屋の札 -->
+  <g font-family="Zen Old Mincho, serif" font-weight="900" font-size="28" text-anchor="middle" fill="var(--ink, #26221d)">
+    <text x="257" y="164">時</text>
+    <text x="352" y="164">日</text>
+    <text x="447" y="164">月</text>
+    <text x="542" y="164">年</text>
+  </g>
+  <!-- 現在地のピン -->
+  <g transform="translate(352 64)">
+    <path d="M0 40 C-6 26 -22 14 -22 -2 C-22 -14 -12 -24 0 -24 C12 -24 22 -14 22 -2 C22 14 6 26 0 40 Z" fill="var(--sun, #d9a441)" stroke="var(--ink, #26221d)" stroke-width="3"/>
+    <circle cy="-2" r="8" fill="var(--surface, #fffdf8)" stroke="var(--ink, #26221d)" stroke-width="2"/>
+  </g>
+  <!-- 方位じしん -->
+  <g transform="translate(696 150)">
+    <circle r="50" fill="var(--surface, #fffdf8)" stroke="var(--ink, #26221d)" stroke-width="3"/>
+    <path d="M0 -38 L9 0 L0 38 L-9 0 Z" fill="var(--ink-soft, #6a6157)"/>
+    <path d="M0 -38 L9 0 L-9 0 Z" fill="var(--warm, #c03430)"/>
+    <circle r="4" fill="var(--ink, #26221d)"/>
+  </g>
+  <!-- 左の小さな木 -->
+  <g transform="translate(110 236)">
+    <rect x="-5" y="10" width="10" height="44" fill="#8a6a4a"/>
+    <circle cy="0" r="30" fill="#dcefe2" stroke="var(--moku, #2d7a4a)" stroke-width="4"/>
+  </g>
+</g>
+</svg>

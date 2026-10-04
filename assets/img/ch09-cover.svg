@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="夕焼けから朝焼けへ続く空の下に、4本の柱が立っている。右から年・月・日・時の札がかかり、柱の上にはそれぞれ、芽（若いころ）、かばん（仕事）、ハート（自分とパートナー）、実のなる木（晩年と次の世代）の絵。足もとには、右から左へ続く小道">
+<defs>
+  <linearGradient id="c9sky" x1="1" y1="0" x2="0" y2="0">
+    <stop offset="0" stop-color="#f6ead0"/>
+    <stop offset="1" stop-color="#efd9c4"/>
+  </linearGradient>
+</defs>
+<rect width="800" height="320" fill="url(#c9sky)"/>
+<!-- 太陽（右）と夕日（左） -->
+<circle cx="740" cy="70" r="30" fill="var(--sun, #d9a441)" opacity=".85"/>
+<circle cx="60" cy="96" r="24" fill="var(--warm, #c03430)" opacity=".55"/>
+<!-- 小道 -->
+<path d="M800 286 Q600 262 400 280 T0 276 V320 H800 Z" fill="var(--sunk, #efe8dc)"/>
+<path d="M780 300 Q600 280 400 296 T20 292" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/>
+<g stroke="var(--ink, #26221d)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+  <!-- 柱 4本（左から 時・日・月・年） -->
+  <g fill="var(--surface, #fffdf8)">
+    <rect x="148" y="136" width="64" height="146"/><rect x="136" y="124" width="88" height="14"/><rect x="136" y="280" width="88" height="12"/>
+    <rect x="308" y="136" width="64" height="146"/><rect x="296" y="124" width="88" height="14"/><rect x="296" y="280" width="88" height="12"/>
+    <rect x="468" y="136" width="64" height="146"/><rect x="456" y="124" width="88" height="14"/><rect x="456" y="280" width="88" height="12"/>
+    <rect x="628" y="136" width="64" height="146"/><rect x="616" y="124" width="88" height="14"/><rect x="616" y="280" width="88" height="12"/>
+  </g>
+  <rect x="310" y="140" width="60" height="139" fill="var(--sun-soft, #f6ead0)" stroke="none"/>
+  <!-- 柱の上の絵 -->
+  <!-- 時：実のなる木 -->
+  <g transform="translate(180 78)">
+    <rect x="-4" y="14" width="8" height="30" fill="#8a6a4a" stroke-width="3"/>
+    <circle r="28" fill="#dcefe2" stroke="var(--moku, #2d7a4a)" stroke-width="4"/>
+    <circle cx="-10" cy="-4" r="5" fill="var(--warm, #c03430)" stroke="none"/><circle cx="10" cy="4" r="5" fill="var(--warm, #c03430)" stroke="none"/><circle cx="4" cy="-14" r="5" fill="var(--warm, #c03430)" stroke="none"/>
+  </g>
+  <!-- 日：ハート -->
+  <g transform="translate(340 86)">
+    <path d="M0 26 C-30 6 -30 -22 -12 -22 C-4 -22 0 -16 0 -10 C0 -16 4 -22 12 -22 C30 -22 30 6 0 26 Z" fill="#f2b7b0" stroke="var(--warm, #c03430)" stroke-width="4"/>
+  </g>
+  <!-- 月：かばん -->
+  <g transform="translate(500 90)">
+    <rect x="-28" y="-14" width="56" height="36" rx="5" fill="#ecd9b0" stroke="var(--do, #a87018)" stroke-width="4"/>
+    <path d="M-10 -14 V-22 H10 V-14" fill="none" stroke="var(--do, #a87018)" stroke-width="4"/>
+    <path d="M-28 2 H28" stroke="var(--do, #a87018)" stroke-width="3"/>
+  </g>
+  <!-- 年：芽 -->
+  <g transform="translate(660 92)">
+    <path d="M0 26 V0 M0 8 Q-22 2 -24 -18 Q-4 -16 0 6 M0 -2 Q18 -10 22 -28 Q4 -26 0 -6" fill="#dcefe2" stroke="var(--moku, #2d7a4a)" stroke-width="4"/>
+  </g>
+</g>
+<!-- 柱の札 -->
+<g font-family="Zen Old Mincho, serif" font-weight="900" font-size="34" text-anchor="middle" fill="var(--ink, #26221d)">
+  <text x="180" y="222">時</text>
+  <text x="340" y="222">日</text>
+  <text x="500" y="222">月</text>
+  <text x="660" y="222">年</text>
+</g>
+</svg>

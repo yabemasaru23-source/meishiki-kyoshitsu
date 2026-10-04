@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 540" role="img" aria-label="五行の相生・相剋図。木を一番上にして、時計回りに木・火・土・金・水の5つの円が並ぶ。外側をぐるりと回る実線の矢印が相生で、木は燃えて火を生み、火は灰になって土を生み、土の中から金が生まれ、金の表面に水がつき、水が木を育てる。内側の星の形の破線の矢印が相剋で、木は土を、土は水を、水は火を、火は金を、金は木をおさえる。相生は「となりへ」、相剋は「1つとばし」で進む。同じ五行どうしは比和">
+<defs>
+  <marker id="s3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink, #26221d)"/></marker>
+  <marker id="s3b" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ka, #c03430)"/></marker>
+</defs>
+<rect width="800" height="540" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" stroke-linecap="round" stroke-linejoin="round">
+  <g fill="none" stroke="var(--ink, #26221d)" stroke-width="3">
+    <path d="M455.3 121.3 A170 170 0 0 1 535.8 179.7" marker-end="url(#s3a)"/>
+    <path d="M570 285 A170 170 0 0 1 539.3 379.5" marker-end="url(#s3a)"/>
+    <path d="M449.7 444.6 A170 170 0 0 1 350.3 444.6" marker-end="url(#s3a)"/>
+    <path d="M260.7 379.5 A170 170 0 0 1 230 285" marker-end="url(#s3a)"/>
+    <path d="M264.2 179.7 A170 170 0 0 1 344.7 121.3" marker-end="url(#s3a)"/>
+  </g>
+  <g fill="none" stroke="var(--ka, #c03430)" stroke-width="2.5" stroke-dasharray="8 6">
+    <path d="M416.7 163.4 L482 364.4" marker-end="url(#s3b)"/>
+    <path d="M518 261.2 L347 385.4" marker-end="url(#s3b)"/>
+    <path d="M456.2 387.8 L285.2 263.6" marker-end="url(#s3b)"/>
+    <path d="M316.8 368.2 L382.1 167.2" marker-end="url(#s3b)"/>
+    <path d="M292.3 229.5 L503.7 229.5" marker-end="url(#s3b)"/>
+  </g>
+  <circle cx="400" cy="282" r="44" fill="var(--surface, #fffdf8)"/>
+  <text x="400" y="286" font-size="22" font-weight="700" text-anchor="middle" fill="var(--ka, #c03430)">相剋</text>
+  <text x="400" y="306" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">（おさえる）</text>
+  <circle cx="400" cy="112" r="46" fill="#dcefe2" stroke="var(--moku, #2d7a4a)" stroke-width="4"/>
+  <text x="400" y="125" font-size="38" font-weight="900" text-anchor="middle" font-family="Zen Old Mincho, serif" fill="var(--moku, #2d7a4a)">木</text>
+  <circle cx="561.7" cy="229.5" r="46" fill="#f8dcd6" stroke="var(--ka, #c03430)" stroke-width="4"/>
+  <text x="561.7" y="242.5" font-size="38" font-weight="900" text-anchor="middle" font-family="Zen Old Mincho, serif" fill="var(--ka, #c03430)">火</text>
+  <circle cx="499.9" cy="419.5" r="46" fill="#f1e2c2" stroke="var(--do, #a87018)" stroke-width="4"/>
+  <text x="499.9" y="432.5" font-size="38" font-weight="900" text-anchor="middle" font-family="Zen Old Mincho, serif" fill="var(--do, #a87018)">土</text>
+  <circle cx="300.1" cy="419.5" r="46" fill="#e6e9ee" stroke="var(--kin, #6b7584)" stroke-width="4"/>
+  <text x="300.1" y="432.5" font-size="38" font-weight="900" text-anchor="middle" font-family="Zen Old Mincho, serif" fill="var(--kin, #6b7584)">金</text>
+  <circle cx="238.3" cy="229.5" r="46" fill="#d8e2f3" stroke="var(--sui, #2854a0)" stroke-width="4"/>
+  <text x="238.3" y="242.5" font-size="38" font-weight="900" text-anchor="middle" font-family="Zen Old Mincho, serif" fill="var(--sui, #2854a0)">水</text>
+  <text x="478" y="104" font-size="15" font-weight="700" text-anchor="start" fill="var(--ink, #26221d)">木は燃えて火を生む</text>
+  <text x="590" y="351.9" font-size="15" font-weight="700" text-anchor="start" fill="var(--ink, #26221d)">火は灰になり土を生む</text>
+  <text x="400" y="500" font-size="15" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">土の中から金が生まれる</text>
+  <text x="210" y="351.9" font-size="15" font-weight="700" text-anchor="end" fill="var(--ink, #26221d)">金の表面に水がつく</text>
+  <text x="322" y="104" font-size="15" font-weight="700" text-anchor="end" fill="var(--ink, #26221d)">水が木を育てる</text>
+  <path d="M24 32 H72" fill="none" stroke="var(--ink, #26221d)" stroke-width="3" marker-end="url(#s3a)"/>
+  <text x="84" y="37" font-size="14" fill="var(--ink, #26221d)">外側の実線＝相生（生む・助ける）</text>
+  <path d="M24 60 H72" fill="none" stroke="var(--ka, #c03430)" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#s3b)"/>
+  <text x="84" y="65" font-size="14" fill="var(--ink, #26221d)">内側の破線＝相剋（おさえる）</text>
+  <text x="776" y="37" font-size="14" text-anchor="end" fill="var(--ink-soft, #6a6157)">同じ五行どうし＝比和（なかま）</text>
+  <text x="776" y="65" font-size="13" text-anchor="end" fill="var(--ink-soft, #6a6157)">相生はとなりへ、相剋は1つとばし</text>
+</g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="卒業証書のイラスト。いちばん上に「卒業証書」の題。その下に名前を書く線と「さん」。本文は「あなたは『はじめての命式』で学び、日干から命式を読み、根拠をもって、相手をこわがらせずに伝える鑑定ができるようになったことを、ここに証します」。中ほどに「読めた」「伝えた」「守れた」と書かれた3つの丸いはんこ。いちばん下の左に日付を書く欄、右に「陰陽五行の教室　まあ先生」の署名と朱色の丸い印">
+<rect width="800" height="500" rx="10" fill="var(--surface, #fffdf8)"/>
+<rect x="12" y="12" width="776" height="476" rx="8" fill="none" stroke="var(--sun, #d9a441)" stroke-width="6"/>
+<rect x="28" y="28" width="744" height="444" rx="4" fill="none" stroke="var(--sun, #d9a441)" stroke-width="2"/>
+<g fill="var(--sun, #d9a441)">
+  <circle cx="28" cy="28" r="7"/><circle cx="772" cy="28" r="7"/><circle cx="28" cy="472" r="7"/><circle cx="772" cy="472" r="7"/>
+</g>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle" fill="var(--ink, #26221d)">
+  <text x="400" y="96" font-size="44" font-weight="900" font-family="Zen Old Mincho, serif" letter-spacing="12">卒業証書</text>
+  <!-- 名前の欄 -->
+  <path d="M290 152 H500" stroke="var(--ink-soft, #6a6157)" stroke-width="2"/>
+  <text x="512" y="148" font-size="22" text-anchor="start">さん</text>
+  <!-- 本文 -->
+  <text x="400" y="200" font-size="19">あなたは「はじめての命式」で学び</text>
+  <text x="400" y="232" font-size="19">日干から命式を読み、根拠をもって</text>
+  <text x="400" y="264" font-size="19">相手をこわがらせずに伝える鑑定が</text>
+  <text x="400" y="296" font-size="19">できるようになったことを、ここに証します</text>
+  <!-- 3つのはんこ -->
+  <g font-size="17" font-weight="700">
+    <circle cx="280" cy="364" r="34" fill="none" stroke="var(--moku, #2d7a4a)" stroke-width="3"/>
+    <text x="280" y="370" fill="var(--moku, #2d7a4a)">読めた</text>
+    <circle cx="400" cy="364" r="34" fill="none" stroke="var(--sui, #2854a0)" stroke-width="3"/>
+    <text x="400" y="370" fill="var(--sui, #2854a0)">伝えた</text>
+    <circle cx="520" cy="364" r="34" fill="none" stroke="var(--ka, #c03430)" stroke-width="3"/>
+    <text x="520" y="370" fill="var(--ka, #c03430)">守れた</text>
+  </g>
+  <!-- 日付と署名 -->
+  <text x="80" y="440" font-size="18" text-anchor="start" fill="var(--ink-soft, #6a6157)">　　　年　　月　　日</text>
+  <text x="608" y="440" font-size="18" text-anchor="end">陰陽五行の教室　まあ先生</text>
+  <circle cx="660" cy="434" r="26" fill="var(--warm, #c03430)"/>
+  <text x="660" y="440" font-size="16" font-weight="700" fill="#fffdf8" font-family="Zen Old Mincho, serif">まあ</text>
+</g>
+</svg>

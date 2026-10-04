@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="木・火・土・金・水の5つのメダルが輪になり、外側を回る矢印と、内側の星の形の線でつながっている。左には、薪が燃えて炎になる絵（生む）。右には、土の堤防が波をせきとめる絵（おさえる）">
+<defs>
+  <marker id="c3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink-soft, #6a6157)"/></marker>
+</defs>
+<rect width="800" height="320" fill="var(--sun-soft, #f6ead0)"/>
+<path d="M0 270 Q200 248 400 266 T800 258 V320 H0Z" fill="var(--sunk, #efe8dc)"/>
+<g stroke-linecap="round" stroke-linejoin="round" text-anchor="middle">
+  <g fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5">
+    <path d="M439 71.6 A104 104 0 0 1 479.7 101.2" marker-end="url(#c3a)"/>
+    <path d="M503.7 175.3 A104 104 0 0 1 488.2 223.1" marker-end="url(#c3a)"/>
+    <path d="M425.2 268.9 A104 104 0 0 1 374.8 268.9" marker-end="url(#c3a)"/>
+    <path d="M311.8 223.1 A104 104 0 0 1 296.3 175.3" marker-end="url(#c3a)"/>
+    <path d="M320.3 101.2 A104 104 0 0 1 361 71.6" marker-end="url(#c3a)"/>
+  </g>
+  <g fill="none" stroke="var(--ka, #c03430)" stroke-width="2" stroke-dasharray="5 6" opacity=".7">
+    <path d="M411.1 98.2 L450 217.9"/>
+    <path d="M469.8 157 L368 231"/>
+    <path d="M432 231 L330.2 157"/>
+    <path d="M350 217.9 L388.9 98.2"/>
+    <path d="M337.1 135.9 L462.9 135.9"/>
+  </g>
+  <circle cx="400" cy="64" r="32" fill="var(--surface, #fffdf8)" stroke="var(--moku, #2d7a4a)" stroke-width="4"/>
+  <text x="400" y="75" font-size="30" font-weight="900" font-family="Zen Old Mincho, serif" fill="var(--moku, #2d7a4a)">木</text>
+  <circle cx="498.9" cy="135.9" r="32" fill="var(--surface, #fffdf8)" stroke="var(--ka, #c03430)" stroke-width="4"/>
+  <text x="498.9" y="146.9" font-size="30" font-weight="900" font-family="Zen Old Mincho, serif" fill="var(--ka, #c03430)">火</text>
+  <circle cx="461.1" cy="252.1" r="32" fill="var(--surface, #fffdf8)" stroke="var(--do, #a87018)" stroke-width="4"/>
+  <text x="461.1" y="263.1" font-size="30" font-weight="900" font-family="Zen Old Mincho, serif" fill="var(--do, #a87018)">土</text>
+  <circle cx="338.9" cy="252.1" r="32" fill="var(--surface, #fffdf8)" stroke="var(--kin, #6b7584)" stroke-width="4"/>
+  <text x="338.9" y="263.1" font-size="30" font-weight="900" font-family="Zen Old Mincho, serif" fill="var(--kin, #6b7584)">金</text>
+  <circle cx="301.1" cy="135.9" r="32" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="4"/>
+  <text x="301.1" y="146.9" font-size="30" font-weight="900" font-family="Zen Old Mincho, serif" fill="var(--sui, #2854a0)">水</text>
+  <g transform="translate(130 160)">
+    <path d="M-44 40 L36 16 M-36 16 L44 40" stroke="#8a6446" stroke-width="10"/>
+    <path d="M0 26 C-30 26 -34 -4 -18 -22 C-16 -8 -8 -6 -8 -6 C-12 -28 0 -48 8 -58 C10 -36 32 -24 28 2 C26 18 16 26 0 26 Z" fill="#f6c9b8" stroke="var(--ka, #c03430)" stroke-width="3.5"/>
+    <path d="M0 22 C-12 20 -12 6 -2 -4 C2 6 12 8 10 14 C8 20 4 22 0 22Z" fill="var(--sun, #d9a441)"/>
+    <text y="88" font-size="22" font-weight="700" font-family="Zen Maru Gothic, sans-serif" fill="var(--ink, #26221d)">生む</text>
+  </g>
+  <g transform="translate(670 160)">
+    <path d="M-64 -6 q8 -10 16 0 t16 0 t16 0 M-64 12 q8 -10 16 0 t16 0 t16 0 M-64 30 q8 -10 16 0 t16 0 t16 0" fill="none" stroke="var(--sui, #2854a0)" stroke-width="4"/>
+    <path d="M-10 40 L4 -30 H24 L44 40 Z" fill="#ecd9b0" stroke="var(--do, #a87018)" stroke-width="3.5"/>
+    <path d="M8 -12 h18 M6 6 h26 M2 24 h34" stroke="var(--do, #a87018)" stroke-width="2" opacity=".6"/>
+    <text x="-4" y="88" font-size="22" font-weight="700" font-family="Zen Maru Gothic, sans-serif" fill="var(--ink, #26221d)">おさえる</text>
+  </g>
+</g>
+</svg>

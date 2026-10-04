@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="夜の舞台。上からのスポットライトが、真ん中の金色の円「あなた」を照らしている。そのまわりを、甲・乙・丙・丁・戊・己・庚・辛・壬・癸の十干が、それぞれの五行の色で、うすく輪になってとりかこんでいる">
+<rect width="800" height="320" fill="#2a2438"/>
+<!-- スポットライト -->
+<path d="M372 0 H428 L520 262 H280 Z" fill="#f3d68d" opacity=".16"/>
+<ellipse cx="400" cy="262" rx="120" ry="20" fill="#f3d68d" opacity=".22"/>
+<g font-family="Zen Old Mincho, serif" font-weight="900" text-anchor="middle" font-size="28" opacity=".8">
+  <!-- 十干を時計まわりに -->
+  <text x="262" y="54" fill="#7fc49a">甲</text>
+  <text x="538" y="54" fill="#7fc49a">乙</text>
+  <text x="624" y="96" fill="#ef8f86">丙</text>
+  <text x="688" y="176" fill="#ef8f86">丁</text>
+  <text x="624" y="262" fill="#e3b867">戊</text>
+  <text x="538" y="300" fill="#e3b867">己</text>
+  <text x="262" y="300" fill="#c6ccd6">庚</text>
+  <text x="176" y="262" fill="#c6ccd6">辛</text>
+  <text x="112" y="176" fill="#8fb0e6">壬</text>
+  <text x="176" y="96" fill="#8fb0e6">癸</text>
+</g>
+<circle cx="400" cy="168" r="62" fill="#d9a441"/>
+<circle cx="400" cy="168" r="62" fill="none" stroke="#f3d68d" stroke-width="4"/>
+<text x="400" y="180" font-family="Zen Old Mincho, serif" font-weight="900" font-size="32" text-anchor="middle" fill="#26221d">あなた</text>
+<g fill="#f3d68d">
+  <path d="M84 40 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+  <path d="M732 270 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+  <circle cx="740" cy="44" r="2.5"/><circle cx="44" cy="290" r="2.5"/><circle cx="350" cy="300" r="2"/>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="夜空のような背景に、10個の星の名前が入った円が上下2段に並んでいる。上の段は比肩・食神・偏財・偏官・偏印、下の段は劫財・傷官・正財・正官・印綬。まん中に「10人の星のキャラクター」と書かれている">
+<rect width="800" height="320" fill="#2a2438"/>
+<g fill="#f3d68d">
+<path d="M60 60 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"/>
+<path d="M740 70 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+<path d="M735 250 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"/>
+<path d="M64 246 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+<circle cx="100" cy="160" r="2.5"/><circle cx="700" cy="160" r="2.5"/><circle cx="220" cy="20" r="2.5"/><circle cx="580" cy="22" r="2.5"/><circle cx="340" cy="300" r="2.5"/><circle cx="460" cy="302" r="2.5"/>
+</g>
+<g font-family="Zen Old Mincho, serif" font-weight="900" text-anchor="middle">
+<line x1="160" y1="130" x2="160" y2="192" stroke="#a99acb" stroke-width="2" stroke-dasharray="3 7" stroke-linecap="round"/>
+<circle cx="160" cy="96" r="34" fill="#d9a441" stroke="#f3d68d" stroke-width="3"/><text x="160" y="103" font-size="20" fill="#26221d">比肩</text>
+<circle cx="160" cy="226" r="34" fill="#3a3350" stroke="#a99acb" stroke-width="2"/><text x="160" y="233" font-size="20" fill="#f1ebe0">劫財</text>
+<line x1="280" y1="130" x2="280" y2="192" stroke="#a99acb" stroke-width="2" stroke-dasharray="3 7" stroke-linecap="round"/>
+<circle cx="280" cy="96" r="34" fill="#d9a441" stroke="#f3d68d" stroke-width="3"/><text x="280" y="103" font-size="20" fill="#26221d">食神</text>
+<circle cx="280" cy="226" r="34" fill="#3a3350" stroke="#a99acb" stroke-width="2"/><text x="280" y="233" font-size="20" fill="#f1ebe0">傷官</text>
+<line x1="400" y1="130" x2="400" y2="192" stroke="#a99acb" stroke-width="2" stroke-dasharray="3 7" stroke-linecap="round"/>
+<circle cx="400" cy="96" r="34" fill="#d9a441" stroke="#f3d68d" stroke-width="3"/><text x="400" y="103" font-size="20" fill="#26221d">偏財</text>
+<circle cx="400" cy="226" r="34" fill="#3a3350" stroke="#a99acb" stroke-width="2"/><text x="400" y="233" font-size="20" fill="#f1ebe0">正財</text>
+<line x1="520" y1="130" x2="520" y2="192" stroke="#a99acb" stroke-width="2" stroke-dasharray="3 7" stroke-linecap="round"/>
+<circle cx="520" cy="96" r="34" fill="#d9a441" stroke="#f3d68d" stroke-width="3"/><text x="520" y="103" font-size="20" fill="#26221d">偏官</text>
+<circle cx="520" cy="226" r="34" fill="#3a3350" stroke="#a99acb" stroke-width="2"/><text x="520" y="233" font-size="20" fill="#f1ebe0">正官</text>
+<line x1="640" y1="130" x2="640" y2="192" stroke="#a99acb" stroke-width="2" stroke-dasharray="3 7" stroke-linecap="round"/>
+<circle cx="640" cy="96" r="34" fill="#d9a441" stroke="#f3d68d" stroke-width="3"/><text x="640" y="103" font-size="20" fill="#26221d">偏印</text>
+<circle cx="640" cy="226" r="34" fill="#3a3350" stroke="#a99acb" stroke-width="2"/><text x="640" y="233" font-size="20" fill="#f1ebe0">印綬</text>
+<rect x="262" y="142" width="276" height="38" rx="19" fill="#2a2438"/>
+<text x="400" y="169" font-size="22" fill="#f3d68d" font-family="Zen Maru Gothic, sans-serif" font-weight="700">10人の星のキャラクター</text>
+</g></svg>

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-label="星×柱のマトリクス図。横に4本の柱が左から時柱・日柱・月柱・年柱の順に並ぶ。時柱は80歳から・晩年・子ども、日柱は60〜79歳・自分・伴侶・家庭、月柱は30〜59歳・仕事・社会の顔でいちばん大事、年柱は29歳まで・第一印象・ルーツ。縦は3段。1段目の表の顔（通変星）は、その時期・場面で外に見える持ち味。日柱は日干がわたし自身なので通変星は「—」。2段目の内側・本音（蔵干通変星）は、心の奥の気持ちで、日柱はいちばん奥の本当の自分・伴侶に見せる顔。3段目は偏財の例で、年柱なら子どものころから友だちが多い、月柱なら仕事で人と人をつなぐ役、日柱なら家族にもサービス精神、時柱なら年を重ねても人にかこまれてにぎやか">
+<rect width="800" height="480" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+<text x="400" y="34" font-size="20" font-weight="700" fill="var(--ink, #26221d)">星 × 柱 ＝ いつ・どこで出る持ち味か</text>
+<rect x="172" y="52" width="150" height="84" rx="12" fill="var(--sunk, #efe8dc)"/>
+<text x="247.0" y="80" font-size="20" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">時柱</text>
+<text x="247.0" y="104" font-size="13" fill="var(--ink-soft, #6a6157)">80歳〜</text>
+<text x="247.0" y="124" font-size="13" font-weight="700" fill="var(--ink, #26221d)">晩年・子ども</text>
+<rect x="328" y="52" width="150" height="84" rx="12" fill="var(--sunk, #efe8dc)"/>
+<text x="403.0" y="80" font-size="20" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">日柱</text>
+<text x="403.0" y="104" font-size="13" fill="var(--ink-soft, #6a6157)">60〜79歳</text>
+<text x="403.0" y="124" font-size="13" font-weight="700" fill="var(--ink, #26221d)">自分・伴侶・家庭</text>
+<rect x="484" y="52" width="150" height="84" rx="12" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="3"/>
+<text x="559.0" y="80" font-size="20" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">月柱 ★</text>
+<text x="559.0" y="104" font-size="13" fill="var(--ink-soft, #6a6157)">30〜59歳</text>
+<text x="559.0" y="124" font-size="13" font-weight="700" fill="var(--ink, #26221d)">仕事・社会の顔</text>
+<rect x="640" y="52" width="150" height="84" rx="12" fill="var(--sunk, #efe8dc)"/>
+<text x="715.0" y="80" font-size="20" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">年柱</text>
+<text x="715.0" y="104" font-size="13" fill="var(--ink-soft, #6a6157)">〜29歳</text>
+<text x="715.0" y="124" font-size="13" font-weight="700" fill="var(--ink, #26221d)">第一印象・ルーツ</text>
+<rect x="12" y="144" width="152" height="104" rx="12" fill="var(--sun-soft, #f6ead0)"/>
+<text x="88" y="192" font-size="17" font-weight="700" fill="var(--ink, #26221d)">表の顔</text>
+<text x="88" y="216" font-size="13" fill="var(--ink-soft, #6a6157)">通変星</text>
+<rect x="172" y="144" width="150" height="104" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="247.0" y="176" font-size="14" fill="var(--ink, #26221d)">人生の後半や</text>
+<text x="247.0" y="200" font-size="14" fill="var(--ink, #26221d)">次の世代との間で</text>
+<text x="247.0" y="224" font-size="14" fill="var(--ink, #26221d)">見える持ち味</text>
+<rect x="328" y="144" width="150" height="104" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="403.0" y="176" font-size="14" fill="var(--ink, #26221d)">—</text>
+<text x="403.0" y="200" font-size="14" fill="var(--ink, #26221d)">（日干＝</text>
+<text x="403.0" y="224" font-size="14" fill="var(--ink, #26221d)">わたし自身）</text>
+<rect x="484" y="144" width="150" height="104" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/>
+<text x="559.0" y="176" font-size="14" fill="var(--ink, #26221d)">仕事・社会で</text>
+<text x="559.0" y="200" font-size="14" fill="var(--ink, #26221d)">いちばん目立つ</text>
+<text x="559.0" y="224" font-size="14" fill="var(--ink, #26221d)">持ち味</text>
+<rect x="640" y="144" width="150" height="104" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="715.0" y="176" font-size="14" fill="var(--ink, #26221d)">若いころや</text>
+<text x="715.0" y="200" font-size="14" fill="var(--ink, #26221d)">初対面の人に</text>
+<text x="715.0" y="224" font-size="14" fill="var(--ink, #26221d)">見える持ち味</text>
+<rect x="12" y="256" width="152" height="104" rx="12" fill="var(--sun-soft, #f6ead0)"/>
+<text x="88" y="304" font-size="17" font-weight="700" fill="var(--ink, #26221d)">内側・本音</text>
+<text x="88" y="328" font-size="13" fill="var(--ink-soft, #6a6157)">蔵干通変星</text>
+<rect x="172" y="256" width="150" height="104" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="247.0" y="288" font-size="14" fill="var(--ink, #26221d)">年を重ねて</text>
+<text x="247.0" y="312" font-size="14" fill="var(--ink, #26221d)">あらわれる</text>
+<text x="247.0" y="336" font-size="14" fill="var(--ink, #26221d)">本音・願い</text>
+<rect x="328" y="256" width="150" height="104" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="403.0" y="288" font-size="14" fill="var(--ink, #26221d)">いちばん奥の</text>
+<text x="403.0" y="312" font-size="14" fill="var(--ink, #26221d)">本当の自分・</text>
+<text x="403.0" y="336" font-size="14" fill="var(--ink, #26221d)">伴侶に見せる顔</text>
+<rect x="484" y="256" width="150" height="104" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/>
+<text x="559.0" y="288" font-size="14" fill="var(--ink, #26221d)">仕事を</text>
+<text x="559.0" y="312" font-size="14" fill="var(--ink, #26221d)">内側から支える</text>
+<text x="559.0" y="336" font-size="14" fill="var(--ink, #26221d)">気持ち</text>
+<rect x="640" y="256" width="150" height="104" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="715.0" y="288" font-size="14" fill="var(--ink, #26221d)">育った家から</text>
+<text x="715.0" y="312" font-size="14" fill="var(--ink, #26221d)">受けついだ</text>
+<text x="715.0" y="336" font-size="14" fill="var(--ink, #26221d)">心のくせ</text>
+<rect x="12" y="368" width="152" height="104" rx="12" fill="var(--sunk, #efe8dc)"/>
+<text x="88" y="416" font-size="17" font-weight="700" fill="var(--ink, #26221d)">例：偏財なら</text>
+<text x="88" y="440" font-size="13" fill="var(--ink-soft, #6a6157)">顔の広い旅人</text>
+<rect x="172" y="368" width="150" height="104" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="247.0" y="400" font-size="14" fill="var(--ink, #26221d)">年を重ねても</text>
+<text x="247.0" y="424" font-size="14" fill="var(--ink, #26221d)">人にかこまれて</text>
+<text x="247.0" y="448" font-size="14" fill="var(--ink, #26221d)">にぎやか</text>
+<rect x="328" y="368" width="150" height="104" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="403.0" y="400" font-size="14" fill="var(--ink, #26221d)">（内に偏財）</text>
+<text x="403.0" y="424" font-size="14" fill="var(--ink, #26221d)">家族にも</text>
+<text x="403.0" y="448" font-size="14" fill="var(--ink, #26221d)">サービス精神</text>
+<rect x="484" y="368" width="150" height="104" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/>
+<text x="559.0" y="400" font-size="14" fill="var(--ink, #26221d)">仕事で</text>
+<text x="559.0" y="424" font-size="14" fill="var(--ink, #26221d)">人と人を</text>
+<text x="559.0" y="448" font-size="14" fill="var(--ink, #26221d)">つなぐ役</text>
+<rect x="640" y="368" width="150" height="104" rx="12" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="715.0" y="400" font-size="14" fill="var(--ink, #26221d)">子どものころ</text>
+<text x="715.0" y="424" font-size="14" fill="var(--ink, #26221d)">から友だちが</text>
+<text x="715.0" y="448" font-size="14" fill="var(--ink, #26221d)">多い</text>
+</g></svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="学ぶ人のひより（カフェで働く28歳）">
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <!-- うしろ髪 -->
+    <path d="M24 60 C20 30 40 14 60 14 C82 14 100 30 96 62 L96 92 C88 98 32 98 24 92 Z" fill="#5a3b2a"/>
+    <!-- 肩とエプロン -->
+    <path d="M22 120 C24 100 40 92 60 92 C80 92 96 100 98 120 Z" fill="#f6ead0"/>
+    <path d="M44 120 L46 96 Q60 102 74 96 L76 120 Z" fill="#2d7a4a"/>
+    <path d="M46 96 L40 92 M74 96 L80 92" stroke="#2d7a4a" stroke-width="3"/>
+    <!-- 首と顔 -->
+    <rect x="53" y="80" width="14" height="14" rx="5" fill="#f6d2b8"/>
+    <ellipse cx="60" cy="58" rx="27" ry="29" fill="#f8dcc4"/>
+    <!-- 前髪 -->
+    <path d="M33 54 C34 32 50 24 62 26 C76 28 88 38 87 54 C80 44 72 38 64 36 C58 44 46 50 33 54 Z" fill="#5a3b2a"/>
+    <!-- 髪どめ（金） -->
+    <path d="M76 34 l8 -4" stroke="#d9a441" stroke-width="4"/>
+    <!-- 目 -->
+    <ellipse cx="49" cy="60" rx="3.6" ry="4.6" fill="#26221d"/>
+    <ellipse cx="71" cy="60" rx="3.6" ry="4.6" fill="#26221d"/>
+    <circle cx="50.3" cy="58.2" r="1.3" fill="#fff"/>
+    <circle cx="72.3" cy="58.2" r="1.3" fill="#fff"/>
+    <path d="M44 52 q5 -3 9 0 M67 52 q5 -3 9 0" fill="none" stroke="#5a3b2a" stroke-width="2"/>
+    <!-- ほっぺと口 -->
+    <ellipse cx="42" cy="69" rx="4.6" ry="3" fill="#f2a59a" opacity=".7"/>
+    <ellipse cx="78" cy="69" rx="4.6" ry="3" fill="#f2a59a" opacity=".7"/>
+    <path d="M54 72 q6 5 12 0" fill="none" stroke="#a5544a" stroke-width="2.4"/>
+  </g>
+</svg>

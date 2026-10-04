@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="真ん中に「わたし」と書かれた金色の円。まわりの5つの円から、「あなたは何者？」という問いかけでつながっている。夜空のような背景に10個の小さな星がまたたいている">
+<rect width="800" height="320" fill="#2a2438"/>
+<g fill="#f3d68d">
+  <path d="M90 60 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"/>
+  <path d="M700 52 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+  <path d="M640 250 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"/>
+  <path d="M150 250 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+  <circle cx="230" cy="40" r="2.5"/><circle cx="560" cy="36" r="2.5"/><circle cx="760" cy="150" r="2.5"/><circle cx="40" cy="170" r="2.5"/><circle cx="330" cy="292" r="2.5"/><circle cx="480" cy="296" r="2.5"/>
+</g>
+<g stroke-linecap="round" font-family="Zen Old Mincho, serif" font-weight="900" text-anchor="middle">
+  <g stroke="#a99acb" stroke-width="2" stroke-dasharray="3 7" fill="none">
+    <path d="M400 160 L400 54"/><path d="M400 160 L560 108"/><path d="M400 160 L520 262"/><path d="M400 160 L280 262"/><path d="M400 160 L240 108"/>
+  </g>
+  <g font-size="22">
+    <circle cx="400" cy="54" r="30" fill="#3a3350" stroke="#a99acb" stroke-width="2"/><text x="400" y="62" fill="#f1ebe0">仲</text>
+    <circle cx="560" cy="108" r="30" fill="#3a3350" stroke="#a99acb" stroke-width="2"/><text x="560" y="116" fill="#f1ebe0">表</text>
+    <circle cx="520" cy="262" r="30" fill="#3a3350" stroke="#a99acb" stroke-width="2"/><text x="520" y="270" fill="#f1ebe0">財</text>
+    <circle cx="280" cy="262" r="30" fill="#3a3350" stroke="#a99acb" stroke-width="2"/><text x="280" y="270" fill="#f1ebe0">官</text>
+    <circle cx="240" cy="108" r="30" fill="#3a3350" stroke="#a99acb" stroke-width="2"/><text x="240" y="116" fill="#f1ebe0">印</text>
+  </g>
+  <circle cx="400" cy="160" r="54" fill="#d9a441"/>
+  <circle cx="400" cy="160" r="54" fill="none" stroke="#f3d68d" stroke-width="3"/>
+  <text x="400" y="170" font-size="30" fill="#26221d">わたし</text>
+  <text x="650" y="196" font-size="20" fill="#f3d68d" font-family="Zen Maru Gothic, sans-serif" font-weight="700">あなたは何者？</text>
+</g>
+</svg>

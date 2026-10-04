@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" role="img" aria-label="人生の4つの部屋。アプリと同じく右から、年柱は玄関（〜29歳ごろ。第一印象・生まれた家と親・子ども時代）、月柱は仕事部屋（30〜59歳ごろ。仕事・社会・働き方）、日柱は自分の部屋（60〜79歳ごろ。自分自身・パートナー・家庭）、時柱は離れと庭（80歳〜。晩年・子ども・次の世代）。その下に、右の「生まれ」から左の「晩年」へ流れる人生の矢印。いちばん下に、どの部屋にも上の段（天干）＝外に見える顔・ふるまい、下の段（地支）＝内側の本音・暮らしの足場がある、という説明">
+<defs>
+  <marker id="r9a" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 z" fill="var(--ink-soft, #6a6157)"/></marker>
+</defs>
+<rect width="800" height="470" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <text x="400" y="36" font-size="16" font-weight="700" fill="var(--ink, #26221d)">人生の4つの部屋（アプリと同じく、右から 年柱・月柱・日柱・時柱）</text>
+
+  <!-- カード：時柱 -->
+  <g transform="translate(112 0)">
+    <rect x="-90" y="56" width="180" height="230" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <path d="M-90 100 V70 Q-90 56 -76 56 H76 Q90 56 90 70 V100 Z" fill="var(--ink-soft, #6a6157)"/>
+    <text y="86" font-size="21" font-weight="700" fill="#fffdf8" font-family="Zen Old Mincho, serif">時柱</text>
+    <text y="134" font-size="18" font-weight="700" fill="var(--ink, #26221d)">🌳 離れと庭</text>
+    <text y="160" font-size="14" fill="var(--ink-soft, #6a6157)">80歳〜</text>
+    <text y="198" font-size="15" fill="var(--ink, #26221d)">晩年</text>
+    <text y="224" font-size="15" fill="var(--ink, #26221d)">子ども</text>
+    <text y="250" font-size="15" fill="var(--ink, #26221d)">次の世代</text>
+  </g>
+  <!-- カード：日柱 -->
+  <g transform="translate(304 0)">
+    <rect x="-90" y="56" width="180" height="230" rx="14" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="3"/>
+    <path d="M-90 100 V70 Q-90 56 -76 56 H76 Q90 56 90 70 V100 Z" fill="var(--sun, #d9a441)"/>
+    <text y="86" font-size="21" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">日柱</text>
+    <text y="134" font-size="18" font-weight="700" fill="var(--ink, #26221d)">🛏️ 自分の部屋</text>
+    <text y="160" font-size="14" fill="var(--ink-soft, #6a6157)">60〜79歳ごろ</text>
+    <text y="198" font-size="15" fill="var(--ink, #26221d)">自分自身（日干）</text>
+    <text y="224" font-size="15" fill="var(--ink, #26221d)">パートナー</text>
+    <text y="250" font-size="15" fill="var(--ink, #26221d)">家庭</text>
+  </g>
+  <!-- カード：月柱 -->
+  <g transform="translate(496 0)">
+    <rect x="-90" y="56" width="180" height="230" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <path d="M-90 100 V70 Q-90 56 -76 56 H76 Q90 56 90 70 V100 Z" fill="var(--ink-soft, #6a6157)"/>
+    <text y="86" font-size="21" font-weight="700" fill="#fffdf8" font-family="Zen Old Mincho, serif">月柱</text>
+    <text y="134" font-size="18" font-weight="700" fill="var(--ink, #26221d)">💼 仕事部屋</text>
+    <text y="160" font-size="14" fill="var(--ink-soft, #6a6157)">30〜59歳ごろ</text>
+    <text y="198" font-size="15" fill="var(--ink, #26221d)">仕事</text>
+    <text y="224" font-size="15" fill="var(--ink, #26221d)">社会とのかかわり</text>
+    <text y="250" font-size="15" fill="var(--ink, #26221d)">働き方</text>
+  </g>
+  <!-- カード：年柱 -->
+  <g transform="translate(688 0)">
+    <rect x="-90" y="56" width="180" height="230" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <path d="M-90 100 V70 Q-90 56 -76 56 H76 Q90 56 90 70 V100 Z" fill="var(--ink-soft, #6a6157)"/>
+    <text y="86" font-size="21" font-weight="700" fill="#fffdf8" font-family="Zen Old Mincho, serif">年柱</text>
+    <text y="134" font-size="18" font-weight="700" fill="var(--ink, #26221d)">🚪 玄関</text>
+    <text y="160" font-size="14" fill="var(--ink-soft, #6a6157)">〜29歳ごろ</text>
+    <text y="198" font-size="15" fill="var(--ink, #26221d)">第一印象</text>
+    <text y="224" font-size="15" fill="var(--ink, #26221d)">生まれた家・親</text>
+    <text y="250" font-size="15" fill="var(--ink, #26221d)">子ども時代</text>
+  </g>
+
+  <!-- 人生の流れ（右から左へ） -->
+  <path d="M772 312 H36" stroke="var(--ink-soft, #6a6157)" stroke-width="3" fill="none" marker-end="url(#r9a)"/>
+  <text x="772" y="338" font-size="13" text-anchor="end" fill="var(--ink-soft, #6a6157)">生まれ</text>
+  <text x="400" y="338" font-size="13" fill="var(--ink-soft, #6a6157)">人生の流れ（よく使う部屋が、右から左へ移っていく）</text>
+  <text x="30" y="338" font-size="13" text-anchor="start" fill="var(--ink-soft, #6a6157)">晩年</text>
+
+  <!-- 上の段・下の段 -->
+  <rect x="22" y="358" width="756" height="96" rx="14" fill="var(--sunk, #efe8dc)"/>
+  <rect x="56" y="370" width="72" height="36" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+  <rect x="56" y="406" width="72" height="36" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+  <text x="92" y="394" font-size="16" font-weight="700" fill="var(--ink, #26221d)">天干</text>
+  <text x="92" y="430" font-size="16" font-weight="700" fill="var(--ink, #26221d)">地支</text>
+  <g text-anchor="start" font-size="15" fill="var(--ink, #26221d)">
+    <text x="148" y="394"><tspan font-weight="700">上の段（窓）</tspan>＝ 外に見える顔・ふるまい</text>
+    <text x="148" y="430"><tspan font-weight="700">下の段（床）</tspan>＝ 内側の本音・暮らしの足場</text>
+  </g>
+  <text x="640" y="400" font-size="14" fill="var(--ink-soft, #6a6157)">どの部屋にも</text>
+  <text x="640" y="422" font-size="14" fill="var(--ink-soft, #6a6157)">窓と床がある</text>
+</g>
+</svg>

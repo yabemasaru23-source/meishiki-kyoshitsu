@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="左半分は昼の空で太陽と「陽」の文字、右半分は夜の空で三日月と星と「陰」の文字。真ん中に、白と黒がS字で分かれた大きな陰陽マーク（太極図）がある">
+<rect width="400" height="320" fill="var(--sun-soft, #f6ead0)"/>
+<rect x="400" width="400" height="320" fill="#2a2438"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+  <!-- 太陽 -->
+  <g transform="translate(130 96)" stroke="var(--sun, #d9a441)" stroke-width="5">
+    <circle r="34" fill="#f3d68d"/>
+    <path d="M0 -46 V-58 M0 46 V58 M-46 0 H-58 M46 0 H58 M-33 -33 L-41 -41 M33 -33 L41 -41 M-33 33 L-41 41 M33 33 L41 41"/>
+  </g>
+  <!-- 月と星 -->
+  <circle cx="680" cy="96" r="34" fill="#f3d68d"/>
+  <circle cx="697" cy="84" r="30" fill="#2a2438"/>
+  <g fill="#f3d68d">
+    <path d="M590 60 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+    <path d="M740 200 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"/>
+    <circle cx="560" cy="150" r="2.5"/><circle cx="760" cy="40" r="2.5"/><circle cx="700" cy="280" r="2.5"/>
+  </g>
+  <g font-family="Zen Old Mincho, serif" font-weight="900" font-size="64" text-anchor="middle">
+    <text x="170" y="262" fill="var(--warm, #c03430)">陽</text>
+    <text x="630" y="262" fill="#f1ebe0">陰</text>
+  </g>
+  <!-- 太極図（中心 400,160 半径 112） -->
+  <g transform="translate(400 160)">
+    <circle r="116" fill="#f1ebe0"/>
+    <circle r="112" fill="#fbf8f2"/>
+    <path d="M0 -112 A112 112 0 0 1 0 112 A56 56 0 0 1 0 0 A56 56 0 0 0 0 -112 Z" fill="#26221d"/>
+    <circle cy="-56" r="16" fill="#26221d"/>
+    <circle cy="56" r="16" fill="#fbf8f2"/>
+    <circle r="112" fill="none" stroke="#26221d" stroke-width="4"/>
+  </g>
+</g>
+</svg>

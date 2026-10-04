@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="夕暮れから夜へうつる空の下に、12個の光の玉が山の形に並んでいる。左の小さな玉からだんだん大きくなり、まんなかでいちばん大きく光り、右へ行くほど小さく静かになる。人の一生の12の場面と、そのエネルギーをあらわしている">
+<defs>
+  <linearGradient id="ch14sky" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#f3d9a8"/>
+    <stop offset=".55" stop-color="#e9a77a"/>
+    <stop offset="1" stop-color="#2a2438"/>
+  </linearGradient>
+</defs>
+<rect width="800" height="320" fill="url(#ch14sky)"/>
+<path d="M0 290 Q200 262 400 280 T800 276 V320 H0 Z" fill="#5a4a3a" opacity=".55"/>
+<g fill="#f3d68d"><circle cx="720" cy="54" r="2.5"/><circle cx="760" cy="110" r="2"/><circle cx="676" cy="96" r="2"/><circle cx="748" cy="200" r="2.5"/></g>
+<path d="M738 40 a22 22 0 1 0 22 30 a17 17 0 1 1 -22 -30 z" fill="#f3d68d"/>
+<path d="M110.0,208 L162.7,166 L215.5,124 L268.2,152 L320.9,110 L373.6,96 L426.4,82 L479.1,138 L531.8,194 L584.5,222 L637.3,180 L690.0,236" fill="none" stroke="#fffdf8" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round" opacity=".8"/>
+<g fill="#fffdf8" stroke="#d9a441" stroke-width="3" opacity=".95">
+    <circle cx="110.0" cy="208" r="10.8"/>
+    <circle cx="162.7" cy="166" r="15.6"/>
+    <circle cx="215.5" cy="124" r="20.4"/>
+    <circle cx="268.2" cy="152" r="17.2"/>
+    <circle cx="320.9" cy="110" r="22.0"/>
+    <circle cx="373.6" cy="96" r="23.6"/>
+    <circle cx="426.4" cy="82" r="25.2"/>
+    <circle cx="479.1" cy="138" r="18.8"/>
+    <circle cx="531.8" cy="194" r="12.4"/>
+    <circle cx="584.5" cy="222" r="9.2"/>
+    <circle cx="637.3" cy="180" r="14.0"/>
+    <circle cx="690.0" cy="236" r="7.6"/>
+</g>
+</svg>
