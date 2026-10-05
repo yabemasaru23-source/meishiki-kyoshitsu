@@ -29,6 +29,7 @@ meishiki-kyoshitsu/
 | `> 💡` で始まる引用 | ヒント |
 | `> 📱` で始まる引用 | アプリで見てみよう |
 | ` ```work ` の `type: quiz` | 選択式クイズ（`questions:` に `q`・`options`・`answer`・`explain`） |
+| （自動） | 十干・十二支・専門用語に、ふりがなが自動でつく。画面上の「ふりがな」ボタンで消せる。読みの一覧は app.js の KANSHI・TERMS |
 | `<span class="g-moku">木</span>` など | 五行の色（g-moku／g-ka／g-do／g-kin／g-sui） |
 
 そのほかの入力欄の書き方は、兄弟サイト `shikumi-keiei/README.md` と同じです。

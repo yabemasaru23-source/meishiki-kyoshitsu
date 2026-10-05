@@ -252,6 +252,78 @@
     })(t0);
   }
 
+
+  /* ───────── ふりがな（十干・十二支・専門用語に自動でふる） ───────── */
+  const KANSHI = { 甲: 'きのえ', 乙: 'きのと', 丙: 'ひのえ', 丁: 'ひのと', 戊: 'つちのえ', 己: 'つちのと', 庚: 'かのえ', 辛: 'かのと', 壬: 'みずのえ', 癸: 'みずのと',
+    子: 'ね', 丑: 'うし', 寅: 'とら', 卯: 'う', 辰: 'たつ', 巳: 'み', 午: 'うま', 未: 'ひつじ', 申: 'さる', 酉: 'とり', 戌: 'いぬ', 亥: 'い' };
+  // ふつうの言葉にも使われる字（辛い・子ども・申し込み・未だ）は、後ろが助詞のときだけふる
+  const RISKY = new Set(['子', '辛', '申', '未']);
+  const PARTICLE = new Set([...'はがのをにとでもやへか']);
+  const TERMS = {
+    蔵干通変星: 'ぞうかんつうへんせい', 陰陽五行: 'いんようごぎょう', 四柱推命: 'しちゅうすいめい', 十二運星: 'じゅうにうんせい', 六十干支: 'ろくじっかんし',
+    生日中殺: 'せいじつちゅうさつ', 生月中殺: 'せいげつちゅうさつ', 天中殺: 'てんちゅうさつ', 通変星: 'つうへんせい', 算命学: 'さんめいがく', 太極図: 'たいきょくず',
+    十二支: 'じゅうにし', 十干: 'じっかん', 干支: 'えと', 天干: 'てんかん', 地支: 'ちし', 蔵干: 'ぞうかん', 日干: 'にっかん', 命式: 'めいしき',
+    年柱: 'ねんちゅう', 月柱: 'げっちゅう', 日柱: 'にっちゅう', 時柱: 'じちゅう', 四柱: 'しちゅう', 中殺: 'ちゅうさつ', 空亡: 'くうぼう',
+    五行: 'ごぎょう', 陰陽: 'いんよう', 相生: 'そうじょう', 相剋: 'そうこく', 比和: 'ひわ', 節入り: 'せついり', 土用: 'どよう',
+    比肩: 'ひけん', 劫財: 'ごうざい', 食神: 'しょくじん', 傷官: 'しょうかん', 偏財: 'へんざい', 正財: 'せいざい', 偏官: 'へんかん', 正官: 'せいかん', 偏印: 'へんいん', 印綬: 'いんじゅ',
+    長生: 'ちょうせい', 沐浴: 'もくよく', 冠帯: 'かんたい', 建禄: 'けんろく', 帝旺: 'ていおう', 大運: 'たいうん', 年運: 'ねんうん', 鑑定: 'かんてい',
+    立春: 'りっしゅん', 啓蟄: 'けいちつ', 清明: 'せいめい', 立夏: 'りっか', 芒種: 'ぼうしゅ', 小暑: 'しょうしょ', 立秋: 'りっしゅう', 白露: 'はくろ', 寒露: 'かんろ', 立冬: 'りっとう', 大雪: 'たいせつ', 小寒: 'しょうかん',
+  };
+  const TERM_RE = new RegExp(Object.keys(TERMS).sort((a, b) => b.length - a.length).join('|') + `|[${Object.keys(KANSHI).join('')}]+`, 'g');
+  const isKanji = c => !!c && /[\u3400-\u9fff々]/.test(c);
+  const SKIP_TAG = new Set(['SCRIPT', 'STYLE', 'RUBY', 'RT', 'TEXTAREA', 'CODE', 'PRE', 'svg', 'SVG', 'INPUT', 'SELECT', 'OPTION']);
+  function rubyEl(base, rt) { return el('ruby', null, base, el('rp', null, '（'), el('rt', null, rt), el('rp', null, '）')); }
+  // all=true のときは専門用語も毎回ふる（クイズなど）。ふだんは見出し（h2）の区切りごとに最初の1回だけ
+  function addRuby(root, all) {
+    let seen = new Set();
+    const walk = node => {
+      if (node.nodeType === 1) {
+        if (SKIP_TAG.has(node.tagName) || node.closest('svg')) return;
+        if (node.tagName === 'H2' && !all) seen = new Set();
+        [...node.childNodes].forEach(walk);
+        return;
+      }
+      if (node.nodeType !== 3) return;
+      const t = node.nodeValue;
+      TERM_RE.lastIndex = 0;
+      if (!TERM_RE.test(t)) return;
+      TERM_RE.lastIndex = 0;
+      const frag = document.createDocumentFragment();
+      let last = 0, m, changed = false;
+      while ((m = TERM_RE.exec(t))) {
+        const w = m[0], i = m.index, prev = t[i - 1], next = t[i + w.length];
+        const hasYomi = /^[（(][ぁ-ゖー・]+[）)]/.test(t.slice(i + w.length)); // すでに（よみ）が書いてある
+        let out = null;
+        if (TERMS[w]) {
+          if (!hasYomi && (all || !seen.has(w))) { out = rubyEl(w, TERMS[w]); seen.add(w); }
+        } else if (!hasYomi && !isKanji(prev) && !isKanji(next) &&
+                   (w.length > 1 || !RISKY.has(w) || ((!/[\u3041-\u3096]/.test(next || '') || PARTICLE.has(next)) && !'\u3063\u304a\u306e'.includes(prev || '')))) {
+          out = document.createDocumentFragment();
+          [...w].forEach(c => out.append(rubyEl(c, KANSHI[c])));
+        }
+        if (!out) continue;
+        frag.append(t.slice(last, i), out); last = i + w.length; changed = true;
+      }
+      if (!changed) return;
+      frag.append(t.slice(last));
+      node.replaceWith(frag);
+    };
+    walk(root);
+  }
+  let rubyOn = true;
+  try { rubyOn = localStorage.getItem('meishiki-ruby') !== 'off'; } catch (e) {}
+  function applyRubyPref() {
+    document.body.classList.toggle('no-ruby', !rubyOn);
+    const b = document.getElementById('ruby-toggle');
+    if (b) { b.textContent = rubyOn ? 'ふりがな：あり' : 'ふりがな：なし'; b.setAttribute('aria-pressed', String(rubyOn)); }
+  }
+  document.addEventListener('DOMContentLoaded', applyRubyPref);
+  setTimeout(() => {
+    const b = document.getElementById('ruby-toggle');
+    if (b) b.addEventListener('click', () => { rubyOn = !rubyOn; try { localStorage.setItem('meishiki-ruby', rubyOn ? 'on' : 'off'); } catch (e) {} applyRubyPref(); });
+    applyRubyPref();
+  });
+
   const uid = (() => { let n = 0; return p => (p || 'f') + '-' + (++n); })();
 
   /* ───────── ワーク（入力欄） ───────── */
@@ -685,9 +757,10 @@
             fb.append(el('b', null, ok ? '◯ 正解！' : `✕ ざんねん。正解は「${q.answer}」`));
             if (q.explain) fb.append(el('div', null, q.explain));
           }
+          addRuby(chips, true); addRuby(fb, true);
         };
         box.append(el('p', { class: 'quiz-text' }, el('b', null, `問${qi + 1}　`), q.q || ''), chips, fb);
-        draw(); body.append(box);
+        draw(); body.append(box); addRuby(box.querySelector('.quiz-text'), true);
       });
       drawScore(); body.append(result);
       return {};
@@ -912,6 +985,7 @@
       if (/^[✕×]/.test(t)) td.classList.add('ng'); else if (/^[◯○]/.test(t)) td.classList.add('ok');
     });
     doc.append(prose);
+    addRuby(doc.querySelector('.doc-head'), true); addRuby(prose);
 
     // 前後の章
     const avail = manifest.chapters.filter(c => c.file);

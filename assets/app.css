@@ -402,3 +402,10 @@ details.guide h2 { display: none; }
 .quiz-score { margin: var(--s-3) 0 0; font-weight: 700; font-family: var(--f-display); }
 .prose blockquote.say-maa .body > p:first-child > strong:first-child,
 .prose blockquote.say-hiyori .body > p:first-child > strong:first-child { display: block; font-family: var(--f-display); font-size: .85rem; color: var(--ink-soft); }
+
+/* ふりがな */
+ruby rt { font-size: .5em; font-weight: 400; color: var(--ink-soft); letter-spacing: 0; }
+.chip ruby rt { color: inherit; opacity: .8; }
+body.no-ruby rt, body.no-ruby rp { display: none; }
+.ruby-toggle { font: inherit; font-size: .85rem; border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 999px; padding: .2rem .7rem; cursor: pointer; }
+.ruby-toggle[aria-pressed="false"] { color: var(--ink-soft); }
