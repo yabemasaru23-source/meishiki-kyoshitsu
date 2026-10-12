@@ -267,9 +267,13 @@
     五行: 'ごぎょう', 陰陽: 'いんよう', 相生: 'そうじょう', 相剋: 'そうこく', 比和: 'ひわ', 節入り: 'せついり', 土用: 'どよう',
     比肩: 'ひけん', 劫財: 'ごうざい', 食神: 'しょくじん', 傷官: 'しょうかん', 偏財: 'へんざい', 正財: 'せいざい', 偏官: 'へんかん', 正官: 'せいかん', 偏印: 'へんいん', 印綬: 'いんじゅ',
     長生: 'ちょうせい', 沐浴: 'もくよく', 冠帯: 'かんたい', 建禄: 'けんろく', 帝旺: 'ていおう', 大運: 'たいうん', 年運: 'ねんうん', 鑑定: 'かんてい',
+    順行: 'じゅんこう', 逆行: 'ぎゃっこう', 天干五合: 'てんかんごごう', 六合: 'りくごう', 相冲: 'そうちゅう', 三合: 'さんごう', 半合: 'はんごう',
+    身強: 'しんきょう', 身中: 'しんちゅう', 身弱: 'しんじゃく', 守護神: 'しゅごじん', 忌神: 'きじん', 余気: 'よき', 中気: 'ちゅうき',
+    黄経: 'こうけい', 二十四節気: 'にじゅうしせっき', 還暦: 'かんれき', 子午線: 'しごせん',
     立春: 'りっしゅん', 啓蟄: 'けいちつ', 清明: 'せいめい', 立夏: 'りっか', 芒種: 'ぼうしゅ', 小暑: 'しょうしょ', 立秋: 'りっしゅう', 白露: 'はくろ', 寒露: 'かんろ', 立冬: 'りっとう', 大雪: 'たいせつ', 小寒: 'しょうかん',
   };
-  const TERM_RE = new RegExp(Object.keys(TERMS).sort((a, b) => b.length - a.length).join('|') + `|[${Object.keys(KANSHI).join('')}]+`, 'g');
+  const SOLO = { 衰: 'すい', 病: 'びょう', 死: 'し', 墓: 'ぼ', 絶: 'ぜつ', 胎: 'たい', 養: 'よう', 冲: 'ちゅう' }; // 1文字の星など。ふつうの言葉（病気・死ぬ）にはふらない
+  const TERM_RE = new RegExp(Object.keys(TERMS).sort((a, b) => b.length - a.length).join('|') + `|[${Object.keys(KANSHI).join('')}]+|[${Object.keys(SOLO).join('')}]`, 'g');
   const isKanji = c => !!c && /[\u3400-\u9fff々]/.test(c);
   const SKIP_TAG = new Set(['SCRIPT', 'STYLE', 'RUBY', 'RT', 'TEXTAREA', 'CODE', 'PRE', 'svg', 'SVG', 'INPUT', 'SELECT', 'OPTION']);
   function rubyEl(base, rt) { return el('ruby', null, base, el('rp', null, '（'), el('rt', null, rt), el('rp', null, '）')); }
@@ -294,7 +298,9 @@
         const w = m[0], i = m.index, prev = t[i - 1], next = t[i + w.length];
         const hasYomi = /^[（(][ぁ-ゖー・]+[）)]/.test(t.slice(i + w.length)); // すでに（よみ）が書いてある
         let out = null;
-        if (TERMS[w]) {
+        if (SOLO[w]) {
+          if (!hasYomi && prev !== 'お' && !isKanji(prev) && !isKanji(next) && (!/[ぁ-ゖ]/.test(next || '') || PARTICLE.has(next))) out = rubyEl(w, SOLO[w]);
+        } else if (TERMS[w]) {
           if (!hasYomi && (all || !seen.has(w))) { out = rubyEl(w, TERMS[w]); seen.add(w); }
         } else if (!hasYomi && !isKanji(prev) && !isKanji(next) &&
                    (w.length > 1 || !RISKY.has(w) || ((!/[\u3041-\u3096]/.test(next || '') || PARTICLE.has(next)) && !'\u3063\u304a\u306e'.includes(prev || '')))) {

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="なだらかな丘のあいだを、1本の道が手前から奥へ続いている。空には、左から右へ8つの色の帯が並び、太陽・雲・雨・雪のしるしが、帯ごとにちがう天気を表している。生まれ持った地図の上を、10年ごと・1年ごとにちがう天気がめぐっていくイメージ">
+<rect width="800" height="320" fill="var(--sunk, #efe8dc)"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+  <!-- 空の帯（大運） -->
+  <g opacity=".85">
+    <rect x="40" y="36" width="82" height="26" rx="6" fill="var(--ka, #c03430)"/>
+    <rect x="130" y="36" width="82" height="26" rx="6" fill="var(--moku, #2d7a4a)"/>
+    <rect x="220" y="36" width="82" height="26" rx="6" fill="var(--moku, #2d7a4a)"/>
+    <rect x="310" y="36" width="82" height="26" rx="6" fill="var(--sui, #2854a0)"/>
+    <rect x="400" y="36" width="82" height="26" rx="6" fill="var(--sui, #2854a0)"/>
+    <rect x="490" y="36" width="82" height="26" rx="6" fill="var(--kin, #6b7584)"/>
+    <rect x="580" y="36" width="82" height="26" rx="6" fill="var(--kin, #6b7584)"/>
+    <rect x="670" y="36" width="82" height="26" rx="6" fill="var(--do, #a87018)"/>
+  </g>
+  <rect x="216" y="32" width="90" height="34" rx="8" fill="none" stroke="var(--sun, #d9a441)" stroke-width="4"/>
+  <!-- 天気のしるし -->
+  <circle cx="261" cy="110" r="22" fill="var(--sun, #d9a441)"/>
+  <path d="M261 78 V72 M229 110 H223 M293 110 H299 M238 87 L234 83 M284 87 L288 83" stroke="var(--sun, #d9a441)" stroke-width="3"/>
+  <path d="M400 128 Q392 108 414 106 Q422 90 442 98 Q460 94 462 112 Q478 116 470 128 Z" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2.5"/>
+  <path d="M418 140 L414 152 M440 140 L436 152 M462 140 L458 152" stroke="var(--sui, #2854a0)" stroke-width="2.5"/>
+  <path d="M100 100 Q92 82 112 80 Q120 66 138 72 Q154 70 156 86 Q170 90 162 100 Z" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+  <g stroke="var(--kin, #6b7584)" stroke-width="2.5">
+    <path d="M620 92 V116 M608 98 L632 110 M608 110 L632 98"/>
+    <path d="M664 112 V130 M655 116 L673 126 M655 126 L673 116"/>
+  </g>
+  <!-- 丘 -->
+  <path d="M0 230 Q160 180 330 214 T640 196 T800 206 V320 H0Z" fill="var(--sun-soft, #f6ead0)"/>
+  <path d="M0 262 Q200 232 420 256 T800 244 V320 H0Z" fill="var(--surface, #fffdf8)"/>
+  <!-- 道（地図） -->
+  <path d="M330 320 Q360 286 430 270 Q520 250 500 228 Q482 212 560 202" fill="none" stroke="var(--do, #a87018)" stroke-width="14" opacity=".55"/>
+  <path d="M330 320 Q360 286 430 270 Q520 250 500 228 Q482 212 560 202" fill="none" stroke="var(--surface, #fffdf8)" stroke-width="2" stroke-dasharray="8 10"/>
+  <!-- 木 -->
+  <path d="M150 230 V206" stroke="var(--do, #a87018)" stroke-width="4"/>
+  <circle cx="150" cy="196" r="16" fill="var(--moku, #2d7a4a)"/>
+  <path d="M680 222 V202" stroke="var(--do, #a87018)" stroke-width="4"/>
+  <circle cx="680" cy="192" r="13" fill="var(--moku, #2d7a4a)"/>
+</g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-label="ひよりさんとみさき店長の日干の関係図。左の丸はひよりさんの日干 辛（陰の金）、右の丸はみさきさんの日干 壬（陽の水）。まんなかに、金は水を生む（相生）という左から右への矢印。左下の箱：ひよりさんから見ると、みさきさんは傷官（わたしが生む、陰陽ちがう）。右下の箱：みさきさんから見ると、ひよりさんは印綬（わたしを生む、陰陽ちがう）。いちばん下に、日柱の酉と辰は六合、月柱の巳と亥は冲、五行は水と金を補い合う、の3つのしるし">
+<defs><marker id="t20a" viewBox="0 0 10 10" markerWidth="4" markerHeight="4" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--sun, #d9a441)"/></marker></defs>
+<rect width="800" height="400" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <text x="400" y="36" font-size="20" font-weight="700" fill="var(--ink, #26221d)">ひよりさんと みさき店長の「日干の関係」</text>
+  <!-- 2人の丸 -->
+  <circle cx="150" cy="128" r="60" fill="var(--sunk, #efe8dc)" stroke="var(--kin, #6b7584)" stroke-width="4"/>
+  <circle cx="650" cy="128" r="60" fill="var(--sunk, #efe8dc)" stroke="var(--sui, #2854a0)" stroke-width="4"/>
+  <text x="150" y="140" font-family="Zen Old Mincho, serif" font-size="46" font-weight="900" fill="var(--kin, #6b7584)">辛</text>
+  <text x="150" y="170" font-size="13" fill="var(--ink-soft, #6a6157)">陰の金</text>
+  <text x="650" y="140" font-family="Zen Old Mincho, serif" font-size="46" font-weight="900" fill="var(--sui, #2854a0)">壬</text>
+  <text x="650" y="170" font-size="13" fill="var(--ink-soft, #6a6157)">陽の水</text>
+  <text x="150" y="214" font-size="16" font-weight="700" fill="var(--ink, #26221d)">ひよりさん</text>
+  <text x="650" y="214" font-size="16" font-weight="700" fill="var(--ink, #26221d)">みさき店長</text>
+  <!-- 相生の矢印 -->
+  <path d="M222 128 H570" stroke="var(--sun, #d9a441)" stroke-width="5" fill="none" marker-end="url(#t20a)"/>
+  <text x="400" y="110" font-size="17" font-weight="700" fill="var(--ink, #26221d)">金は水を生む（相生）</text>
+  <text x="400" y="156" font-size="13" fill="var(--ink-soft, #6a6157)">ひより → みさき の向きに、気が流れる</text>
+  <!-- 見え方の箱 -->
+  <rect x="30" y="236" width="340" height="96" rx="12" fill="var(--sun-soft, #f6ead0)" stroke="var(--kin, #6b7584)" stroke-width="2"/>
+  <text x="200" y="262" font-size="14" fill="var(--ink-soft, #6a6157)">ひよりさんから見ると</text>
+  <text x="200" y="292" font-size="19" font-weight="700" fill="var(--ink, #26221d)">みさきさんは 傷官</text>
+  <text x="200" y="318" font-size="13" fill="var(--ink-soft, #6a6157)">わたしが生む × 陰陽ちがう</text>
+  <rect x="430" y="236" width="340" height="96" rx="12" fill="var(--sun-soft, #f6ead0)" stroke="var(--sui, #2854a0)" stroke-width="2"/>
+  <text x="600" y="262" font-size="14" fill="var(--ink-soft, #6a6157)">みさきさんから見ると</text>
+  <text x="600" y="292" font-size="19" font-weight="700" fill="var(--ink, #26221d)">ひよりさんは 印綬</text>
+  <text x="600" y="318" font-size="13" fill="var(--ink-soft, #6a6157)">わたしを生む × 陰陽ちがう</text>
+  <!-- 下のしるし -->
+  <rect x="40" y="350" width="230" height="34" rx="17" fill="none" stroke="var(--moku, #2d7a4a)" stroke-width="2"/>
+  <text x="155" y="372" font-size="14" fill="var(--ink, #26221d)">日柱 酉 × 辰：六合</text>
+  <rect x="285" y="350" width="230" height="34" rx="17" fill="none" stroke="var(--ka, #c03430)" stroke-width="2"/>
+  <text x="400" y="372" font-size="14" fill="var(--ink, #26221d)">月柱 巳 × 亥：冲</text>
+  <rect x="530" y="350" width="230" height="34" rx="17" fill="none" stroke="var(--do, #a87018)" stroke-width="2"/>
+  <text x="645" y="372" font-size="14" fill="var(--ink, #26221d)">補い合い：水 ⇄ 金</text>
+</g>
+</svg>

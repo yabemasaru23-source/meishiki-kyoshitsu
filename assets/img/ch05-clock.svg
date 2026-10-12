@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="十二支の時計。円の真上が子で、時計回りに丑・寅・卯・辰・巳・午・未・申・酉・戌・亥と並ぶ。それぞれのマスに、読みと動物、時刻、月が書いてある。子は23〜1時・12月、丑は1〜3時・1月、寅は3〜5時・2月、卯は5〜7時・3月、辰は7〜9時・4月、巳は9〜11時・5月、午は11〜13時・6月、未は13〜15時・7月、申は15〜17時・8月、酉は17〜19時・9月、戌は19〜21時・10月、亥は21〜23時・11月。マスの色は五行で、亥・子が水、寅・卯が木、巳・午が火、申・酉が金、丑・辰・未・戌が土。円の外に方角があり、子が北、卯が東、午が南、酉が西。円の内側は、上が冬（水）、右が春（木）、下が夏（火）、左が秋（金）、真ん中に「土は季節の変わり目」。漢字の右上の＋と−は、アプリと同じ陰陽（子から交互に＋・−）">
+<rect width="800" height="800" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <path d="M315.9 86.1 A325 325 0 0 1 484.1 86.1 L433.6 274.4 A130 130 0 0 0 366.4 274.4 Z" fill="var(--sui, #2854a0)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M484.1 86.1 A325 325 0 0 1 629.8 170.2 L491.9 308.1 A130 130 0 0 0 433.6 274.4 Z" fill="var(--do, #a87018)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M629.8 170.2 A325 325 0 0 1 713.9 315.9 L525.6 366.4 A130 130 0 0 0 491.9 308.1 Z" fill="var(--moku, #2d7a4a)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M713.9 315.9 A325 325 0 0 1 713.9 484.1 L525.6 433.6 A130 130 0 0 0 525.6 366.4 Z" fill="var(--moku, #2d7a4a)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M713.9 484.1 A325 325 0 0 1 629.8 629.8 L491.9 491.9 A130 130 0 0 0 525.6 433.6 Z" fill="var(--do, #a87018)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M629.8 629.8 A325 325 0 0 1 484.1 713.9 L433.6 525.6 A130 130 0 0 0 491.9 491.9 Z" fill="var(--ka, #c03430)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M484.1 713.9 A325 325 0 0 1 315.9 713.9 L366.4 525.6 A130 130 0 0 0 433.6 525.6 Z" fill="var(--ka, #c03430)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M315.9 713.9 A325 325 0 0 1 170.2 629.8 L308.1 491.9 A130 130 0 0 0 366.4 525.6 Z" fill="var(--do, #a87018)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M170.2 629.8 A325 325 0 0 1 86.1 484.1 L274.4 433.6 A130 130 0 0 0 308.1 491.9 Z" fill="var(--kin, #6b7584)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M86.1 484.1 A325 325 0 0 1 86.1 315.9 L274.4 366.4 A130 130 0 0 0 274.4 433.6 Z" fill="var(--kin, #6b7584)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M86.1 315.9 A325 325 0 0 1 170.2 170.2 L308.1 308.1 A130 130 0 0 0 274.4 366.4 Z" fill="var(--do, #a87018)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M170.2 170.2 A325 325 0 0 1 315.9 86.1 L366.4 274.4 A130 130 0 0 0 308.1 308.1 Z" fill="var(--sui, #2854a0)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <circle cx="400" cy="400" r="130" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <text x="400.0" y="156.0" font-size="36" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--sui, #2854a0)">子</text>
+  <text x="427.0" y="136.0" font-size="14" font-weight="700" fill="var(--ink-soft, #6a6157)">＋</text>
+  <text x="400.0" y="176.0" font-size="13" fill="var(--ink, #26221d)">ね・ねずみ</text>
+  <text x="400.0" y="193.0" font-size="13" fill="var(--ink, #26221d)">23〜1時</text>
+  <text x="400.0" y="210.0" font-size="13" font-weight="700" fill="var(--ink-soft, #6a6157)">12月</text>
+  <text x="516.0" y="187.1" font-size="36" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--do, #a87018)">丑</text>
+  <text x="543.0" y="167.1" font-size="14" font-weight="700" fill="var(--ink-soft, #6a6157)">−</text>
+  <text x="516.0" y="207.1" font-size="13" fill="var(--ink, #26221d)">うし</text>
+  <text x="516.0" y="224.1" font-size="13" fill="var(--ink, #26221d)">1〜3時</text>
+  <text x="516.0" y="241.1" font-size="13" font-weight="700" fill="var(--ink-soft, #6a6157)">1月</text>
+  <text x="600.9" y="272.0" font-size="36" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--moku, #2d7a4a)">寅</text>
+  <text x="627.9" y="252.0" font-size="14" font-weight="700" fill="var(--ink-soft, #6a6157)">＋</text>
+  <text x="600.9" y="292.0" font-size="13" fill="var(--ink, #26221d)">とら</text>
+  <text x="600.9" y="309.0" font-size="13" fill="var(--ink, #26221d)">3〜5時</text>
+  <text x="600.9" y="326.0" font-size="13" font-weight="700" fill="var(--ink-soft, #6a6157)">2月</text>
+  <text x="632.0" y="388.0" font-size="36" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--moku, #2d7a4a)">卯</text>
+  <text x="659.0" y="368.0" font-size="14" font-weight="700" fill="var(--ink-soft, #6a6157)">−</text>
+  <text x="632.0" y="408.0" font-size="13" fill="var(--ink, #26221d)">う・うさぎ</text>
+  <text x="632.0" y="425.0" font-size="13" fill="var(--ink, #26221d)">5〜7時</text>
+  <text x="632.0" y="442.0" font-size="13" font-weight="700" fill="var(--ink-soft, #6a6157)">3月</text>
+  <text x="600.9" y="504.0" font-size="36" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--do, #a87018)">辰</text>
+  <text x="627.9" y="484.0" font-size="14" font-weight="700" fill="var(--ink-soft, #6a6157)">＋</text>
+  <text x="600.9" y="524.0" font-size="13" fill="var(--ink, #26221d)">たつ・りゅう</text>
+  <text x="600.9" y="541.0" font-size="13" fill="var(--ink, #26221d)">7〜9時</text>
+  <text x="600.9" y="558.0" font-size="13" font-weight="700" fill="var(--ink-soft, #6a6157)">4月</text>
+  <text x="516.0" y="588.9" font-size="36" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--ka, #c03430)">巳</text>
+  <text x="489.0" y="568.9" font-size="14" font-weight="700" fill="var(--ink-soft, #6a6157)">−</text>
+  <text x="516.0" y="608.9" font-size="13" fill="var(--ink, #26221d)">み・へび</text>
+  <text x="516.0" y="625.9" font-size="13" fill="var(--ink, #26221d)">9〜11時</text>
+  <text x="516.0" y="642.9" font-size="13" font-weight="700" fill="var(--ink-soft, #6a6157)">5月</text>
+  <text x="400.0" y="620.0" font-size="36" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--ka, #c03430)">午</text>
+  <text x="427.0" y="600.0" font-size="14" font-weight="700" fill="var(--ink-soft, #6a6157)">＋</text>
+  <text x="400.0" y="640.0" font-size="13" fill="var(--ink, #26221d)">うま</text>
+  <text x="400.0" y="657.0" font-size="13" fill="var(--ink, #26221d)">11〜13時</text>
+  <text x="400.0" y="674.0" font-size="13" font-weight="700" fill="var(--ink-soft, #6a6157)">6月</text>
+  <text x="284.0" y="588.9" font-size="36" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--do, #a87018)">未</text>
+  <text x="311.0" y="568.9" font-size="14" font-weight="700" fill="var(--ink-soft, #6a6157)">−</text>
+  <text x="284.0" y="608.9" font-size="13" fill="var(--ink, #26221d)">ひつじ</text>
+  <text x="284.0" y="625.9" font-size="13" fill="var(--ink, #26221d)">13〜15時</text>
+  <text x="284.0" y="642.9" font-size="13" font-weight="700" fill="var(--ink-soft, #6a6157)">7月</text>
+  <text x="199.1" y="504.0" font-size="36" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--kin, #6b7584)">申</text>
+  <text x="226.1" y="484.0" font-size="14" font-weight="700" fill="var(--ink-soft, #6a6157)">＋</text>
+  <text x="199.1" y="524.0" font-size="13" fill="var(--ink, #26221d)">さる</text>
+  <text x="199.1" y="541.0" font-size="13" fill="var(--ink, #26221d)">15〜17時</text>
+  <text x="199.1" y="558.0" font-size="13" font-weight="700" fill="var(--ink-soft, #6a6157)">8月</text>
+  <text x="168.0" y="388.0" font-size="36" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--kin, #6b7584)">酉</text>
+  <text x="195.0" y="368.0" font-size="14" font-weight="700" fill="var(--ink-soft, #6a6157)">−</text>
+  <text x="168.0" y="408.0" font-size="13" fill="var(--ink, #26221d)">とり</text>
+  <text x="168.0" y="425.0" font-size="13" fill="var(--ink, #26221d)">17〜19時</text>
+  <text x="168.0" y="442.0" font-size="13" font-weight="700" fill="var(--ink-soft, #6a6157)">9月</text>
+  <text x="199.1" y="272.0" font-size="36" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--do, #a87018)">戌</text>
+  <text x="172.1" y="252.0" font-size="14" font-weight="700" fill="var(--ink-soft, #6a6157)">＋</text>
+  <text x="199.1" y="292.0" font-size="13" fill="var(--ink, #26221d)">いぬ</text>
+  <text x="199.1" y="309.0" font-size="13" fill="var(--ink, #26221d)">19〜21時</text>
+  <text x="199.1" y="326.0" font-size="13" font-weight="700" fill="var(--ink-soft, #6a6157)">10月</text>
+  <text x="284.0" y="187.1" font-size="36" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--sui, #2854a0)">亥</text>
+  <text x="311.0" y="167.1" font-size="14" font-weight="700" fill="var(--ink-soft, #6a6157)">−</text>
+  <text x="284.0" y="207.1" font-size="13" fill="var(--ink, #26221d)">い・いのしし</text>
+  <text x="284.0" y="224.1" font-size="13" fill="var(--ink, #26221d)">21〜23時</text>
+  <text x="284.0" y="241.1" font-size="13" font-weight="700" fill="var(--ink-soft, #6a6157)">11月</text>
+  <text x="400.0" y="323.0" font-size="20" font-weight="700" fill="var(--sui, #2854a0)">冬・水</text>
+  <text x="484.0" y="407.0" font-size="20" font-weight="700" fill="var(--moku, #2d7a4a)">春・木</text>
+  <text x="400.0" y="491.0" font-size="20" font-weight="700" fill="var(--ka, #c03430)">夏・火</text>
+  <text x="316.0" y="407.0" font-size="20" font-weight="700" fill="var(--kin, #6b7584)">秋・金</text>
+  <text x="400.0" y="397.0" font-size="14" font-weight="700" fill="var(--do, #a87018)">土は</text>
+  <text x="400.0" y="416.0" font-size="14" font-weight="700" fill="var(--do, #a87018)">季節の変わり目</text>
+  <text x="400.0" y="56.0" font-size="17" font-weight="700" fill="var(--ink-soft, #6a6157)">北</text>
+  <text x="656.0" y="150.0" font-size="17" font-weight="700" fill="var(--ink-soft, #6a6157)">北東</text>
+  <text x="750.0" y="406.0" font-size="17" font-weight="700" fill="var(--ink-soft, #6a6157)">東</text>
+  <text x="656.0" y="662.0" font-size="17" font-weight="700" fill="var(--ink-soft, #6a6157)">南東</text>
+  <text x="400.0" y="758.0" font-size="17" font-weight="700" fill="var(--ink-soft, #6a6157)">南</text>
+  <text x="144.0" y="662.0" font-size="17" font-weight="700" fill="var(--ink-soft, #6a6157)">南西</text>
+  <text x="50.0" y="406.0" font-size="17" font-weight="700" fill="var(--ink-soft, #6a6157)">西</text>
+  <text x="144.0" y="150.0" font-size="17" font-weight="700" fill="var(--ink-soft, #6a6157)">北西</text>
+</g>
+</svg>

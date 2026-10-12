@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 680" role="img" aria-label="上の段：十干10文字の下に、十二支を子から順に組み合わせると、甲子から癸酉までの10組ができ、戌と亥の2つは組む相手の天干がなくてあまる。これが戌亥天中殺。下の表：六十干支を10組ずつ6つに分けると、No.1〜10（甲子から）は戌亥、No.11〜20（甲戌から）は申酉、No.21〜30（甲申から）は午未、No.31〜40（甲午から）は辰巳、No.41〜50（甲辰から）は寅卯、No.51〜60（甲寅から）は子丑の天中殺になる">
+<rect width="800" height="680" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+<text x="400" y="36" font-size="20" font-weight="700" fill="var(--ink, #26221d)">十干は10、十二支は12。10組ごとに、2つの支があまる</text>
+<text x="40" y="94" font-size="13" fill="var(--ink-soft, #6a6157)" text-anchor="end">天干</text>
+<text x="40" y="160" font-size="13" fill="var(--ink-soft, #6a6157)" text-anchor="end">地支</text>
+<rect x="60" y="64" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="86" y="96" font-size="24" font-weight="700" fill="var(--moku, #2d7a4a)" font-family="Zen Old Mincho, serif">甲</text>
+<rect x="60" y="130" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="86" y="162" font-size="24" font-weight="700" fill="var(--sui, #2854a0)" font-family="Zen Old Mincho, serif">子</text>
+<rect x="118" y="64" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="144" y="96" font-size="24" font-weight="700" fill="var(--moku, #2d7a4a)" font-family="Zen Old Mincho, serif">乙</text>
+<rect x="118" y="130" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="144" y="162" font-size="24" font-weight="700" fill="var(--do, #a87018)" font-family="Zen Old Mincho, serif">丑</text>
+<rect x="176" y="64" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="202" y="96" font-size="24" font-weight="700" fill="var(--ka, #c03430)" font-family="Zen Old Mincho, serif">丙</text>
+<rect x="176" y="130" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="202" y="162" font-size="24" font-weight="700" fill="var(--moku, #2d7a4a)" font-family="Zen Old Mincho, serif">寅</text>
+<rect x="234" y="64" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="260" y="96" font-size="24" font-weight="700" fill="var(--ka, #c03430)" font-family="Zen Old Mincho, serif">丁</text>
+<rect x="234" y="130" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="260" y="162" font-size="24" font-weight="700" fill="var(--moku, #2d7a4a)" font-family="Zen Old Mincho, serif">卯</text>
+<rect x="292" y="64" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="318" y="96" font-size="24" font-weight="700" fill="var(--do, #a87018)" font-family="Zen Old Mincho, serif">戊</text>
+<rect x="292" y="130" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="318" y="162" font-size="24" font-weight="700" fill="var(--do, #a87018)" font-family="Zen Old Mincho, serif">辰</text>
+<rect x="350" y="64" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="376" y="96" font-size="24" font-weight="700" fill="var(--do, #a87018)" font-family="Zen Old Mincho, serif">己</text>
+<rect x="350" y="130" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="376" y="162" font-size="24" font-weight="700" fill="var(--ka, #c03430)" font-family="Zen Old Mincho, serif">巳</text>
+<rect x="408" y="64" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="434" y="96" font-size="24" font-weight="700" fill="var(--kin, #6b7584)" font-family="Zen Old Mincho, serif">庚</text>
+<rect x="408" y="130" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="434" y="162" font-size="24" font-weight="700" fill="var(--ka, #c03430)" font-family="Zen Old Mincho, serif">午</text>
+<rect x="466" y="64" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="492" y="96" font-size="24" font-weight="700" fill="var(--kin, #6b7584)" font-family="Zen Old Mincho, serif">辛</text>
+<rect x="466" y="130" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="492" y="162" font-size="24" font-weight="700" fill="var(--do, #a87018)" font-family="Zen Old Mincho, serif">未</text>
+<rect x="524" y="64" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="550" y="96" font-size="24" font-weight="700" fill="var(--sui, #2854a0)" font-family="Zen Old Mincho, serif">壬</text>
+<rect x="524" y="130" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="550" y="162" font-size="24" font-weight="700" fill="var(--kin, #6b7584)" font-family="Zen Old Mincho, serif">申</text>
+<rect x="582" y="64" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="608" y="96" font-size="24" font-weight="700" fill="var(--sui, #2854a0)" font-family="Zen Old Mincho, serif">癸</text>
+<rect x="582" y="130" width="52" height="46" rx="8" fill="var(--sunk, #efe8dc)"/>
+<text x="608" y="162" font-size="24" font-weight="700" fill="var(--kin, #6b7584)" font-family="Zen Old Mincho, serif">酉</text>
+<rect x="640" y="64" width="52" height="46" rx="8" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="666" y="93" font-size="18" fill="var(--ink-soft, #6a6157)">？</text>
+<rect x="640" y="130" width="52" height="46" rx="8" fill="var(--sui, #2854a0)"/>
+<text x="666" y="162" font-size="24" font-weight="700" fill="#ffffff" font-family="Zen Old Mincho, serif">戌</text>
+<rect x="698" y="64" width="52" height="46" rx="8" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5" stroke-dasharray="5 4"/>
+<text x="724" y="93" font-size="18" fill="var(--ink-soft, #6a6157)">？</text>
+<rect x="698" y="130" width="52" height="46" rx="8" fill="var(--sui, #2854a0)"/>
+<text x="724" y="162" font-size="24" font-weight="700" fill="#ffffff" font-family="Zen Old Mincho, serif">亥</text>
+<text x="347" y="204" font-size="14" fill="var(--ink, #26221d)">甲子 〜 癸酉 の10組（No.1〜10）</text>
+<text x="695" y="204" font-size="14" font-weight="700" fill="var(--sui, #2854a0)">あまる2つ</text>
+<rect x="40" y="236" width="720" height="40" rx="8" fill="var(--sun-soft, #f6ead0)"/>
+<text x="140" y="262" font-size="15" font-weight="700" fill="var(--ink, #26221d)">六十干支のNo.</text>
+<text x="330" y="262" font-size="15" font-weight="700" fill="var(--ink, #26221d)">はじまりの干支</text>
+<text x="520" y="262" font-size="15" font-weight="700" fill="var(--ink, #26221d)">天中殺（あまる2つ）</text>
+<text x="690" y="262" font-size="15" font-weight="700" fill="var(--ink, #26221d)">季節</text>
+<text x="140" y="312" font-size="17" fill="var(--ink, #26221d)">No.1〜10</text>
+<text x="330" y="313" font-size="20" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">甲子</text>
+<text x="520" y="314" font-size="24" font-weight="700" fill="var(--sui, #2854a0)" font-family="Zen Old Mincho, serif">戌亥</text>
+<text x="690" y="312" font-size="16" fill="var(--ink, #26221d)">秋から冬</text>
+<rect x="40" y="334" width="720" height="58" fill="var(--sunk, #efe8dc)" fill-opacity="0.5"/>
+<text x="140" y="370" font-size="17" fill="var(--ink, #26221d)">No.11〜20</text>
+<text x="330" y="371" font-size="20" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">甲戌</text>
+<text x="520" y="372" font-size="24" font-weight="700" fill="var(--sui, #2854a0)" font-family="Zen Old Mincho, serif">申酉</text>
+<text x="690" y="370" font-size="16" fill="var(--ink, #26221d)">秋</text>
+<text x="140" y="428" font-size="17" fill="var(--ink, #26221d)">No.21〜30</text>
+<text x="330" y="429" font-size="20" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">甲申</text>
+<text x="520" y="430" font-size="24" font-weight="700" fill="var(--sui, #2854a0)" font-family="Zen Old Mincho, serif">午未</text>
+<text x="690" y="428" font-size="16" fill="var(--ink, #26221d)">夏</text>
+<rect x="40" y="450" width="720" height="58" fill="var(--sunk, #efe8dc)" fill-opacity="0.5"/>
+<text x="140" y="486" font-size="17" fill="var(--ink, #26221d)">No.31〜40</text>
+<text x="330" y="487" font-size="20" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">甲午</text>
+<text x="520" y="488" font-size="24" font-weight="700" fill="var(--sui, #2854a0)" font-family="Zen Old Mincho, serif">辰巳</text>
+<text x="690" y="486" font-size="16" fill="var(--ink, #26221d)">晩春〜初夏</text>
+<text x="140" y="544" font-size="17" fill="var(--ink, #26221d)">No.41〜50</text>
+<text x="330" y="545" font-size="20" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">甲辰</text>
+<text x="520" y="546" font-size="24" font-weight="700" fill="var(--sui, #2854a0)" font-family="Zen Old Mincho, serif">寅卯</text>
+<text x="690" y="544" font-size="16" fill="var(--ink, #26221d)">春</text>
+<rect x="40" y="566" width="720" height="58" fill="var(--sunk, #efe8dc)" fill-opacity="0.5"/>
+<text x="140" y="602" font-size="17" fill="var(--ink, #26221d)">No.51〜60</text>
+<text x="330" y="603" font-size="20" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">甲寅</text>
+<text x="520" y="604" font-size="24" font-weight="700" fill="var(--sui, #2854a0)" font-family="Zen Old Mincho, serif">子丑</text>
+<text x="690" y="602" font-size="16" fill="var(--ink, #26221d)">冬</text>
+<text x="400" y="650" font-size="13" fill="var(--ink-soft, #6a6157)">日柱（または年柱）の干支のNo.を見れば、どのグループかがわかる</text>
+</g></svg>

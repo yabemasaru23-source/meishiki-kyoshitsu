@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="左に「1月1日」のカレンダー、右に梅の花と朝日。朝日の中に「立春」の文字と「2月4日ごろ」。カレンダーから朝日へ点線の矢印がのびていて、命式の1年はお正月ではなく立春からはじまることをあらわしている">
+<rect width="800" height="320" fill="var(--sunk, #efe8dc)"/>
+<path d="M0 262 Q200 236 400 256 T800 246 V320 H0Z" fill="var(--sun-soft, #f6ead0)"/>
+<g stroke-linecap="round" stroke-linejoin="round" text-anchor="middle">
+  <!-- カレンダー -->
+  <rect x="96" y="70" width="160" height="170" rx="10" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="3"/>
+  <path d="M96 80 Q96 70 106 70 H246 Q256 70 256 80 V112 H96 Z" fill="var(--warm, #c03430)"/>
+  <circle cx="136" cy="70" r="6" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2"/>
+  <circle cx="216" cy="70" r="6" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2"/>
+  <text x="176" y="100" font-size="22" font-family="Zen Maru Gothic, sans-serif" font-weight="700" fill="#fffdf8">1月</text>
+  <text x="176" y="190" font-size="68" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--ink, #26221d)">1</text>
+  <text x="176" y="225" font-size="16" font-family="Zen Maru Gothic, sans-serif" fill="var(--ink-soft, #6a6157)">お正月</text>
+  <!-- 矢印 -->
+  <defs><marker id="c6a" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 z" fill="var(--ink-soft, #6a6157)"/></marker></defs>
+  <path d="M282 160 Q370 118 450 146" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="3" stroke-dasharray="3 9" marker-end="url(#c6a)"/>
+  <!-- 朝日 -->
+  <g stroke="var(--sun, #d9a441)" stroke-width="5">
+    <path d="M560 52 V30"/><path d="M630 80 L646 64"/><path d="M490 80 L474 64"/>
+  </g>
+  <circle cx="560" cy="150" r="78" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="5"/>
+  <text x="560" y="166" font-size="50" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--warm, #c03430)">立春</text>
+  <text x="560" y="262" font-size="18" font-family="Zen Maru Gothic, sans-serif" font-weight="700" fill="var(--ink, #26221d)">2月4日ごろ</text>
+  <!-- 梅 -->
+  <path d="M700 250 Q712 196 748 150 M722 206 Q744 196 760 200" fill="none" stroke="#8a6446" stroke-width="5"/>
+  <g fill="#f4c6d6" stroke="#b24d77" stroke-width="2">
+    <circle cx="744" cy="148" r="11"/><circle cx="760" cy="198" r="10"/><circle cx="716" cy="190" r="9"/>
+  </g>
+  <g fill="var(--sun, #d9a441)"><circle cx="744" cy="148" r="3"/><circle cx="760" cy="198" r="3"/><circle cx="716" cy="190" r="2.5"/></g>
+</g>
+</svg>

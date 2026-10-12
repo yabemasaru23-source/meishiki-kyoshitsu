@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="子・丑・寅・卯・辰・巳・午・未・申・酉・戌・亥の12のメダルが、大きな弧をえがいて並んでいる。メダルの色は五行の色。弧の真ん中には、針のある時計がある">
+<rect width="800" height="320" fill="var(--sunk, #efe8dc)"/>
+<path d="M0 270 Q200 246 400 266 T800 258 V320 H0Z" fill="var(--sun-soft, #f6ead0)"/>
+<g stroke-linecap="round" stroke-linejoin="round" text-anchor="middle">
+  <path d="M132.2 268.1 A280 280 0 0 1 667.8 268.1" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="2" stroke-dasharray="2 8"/>
+  <circle cx="132.2" cy="268.1" r="27" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="4"/>
+  <text x="132.2" y="278.1" font-size="28" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--sui, #2854a0)">子</text>
+  <circle cx="158.2" cy="208.8" r="27" fill="var(--surface, #fffdf8)" stroke="var(--do, #a87018)" stroke-width="4"/>
+  <text x="158.2" y="218.8" font-size="28" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--do, #a87018)">丑</text>
+  <circle cx="197.0" cy="157.1" r="27" fill="var(--surface, #fffdf8)" stroke="var(--moku, #2d7a4a)" stroke-width="4"/>
+  <text x="197.0" y="167.1" font-size="28" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--moku, #2d7a4a)">寅</text>
+  <circle cx="246.8" cy="115.7" r="27" fill="var(--surface, #fffdf8)" stroke="var(--moku, #2d7a4a)" stroke-width="4"/>
+  <text x="246.8" y="125.7" font-size="28" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--moku, #2d7a4a)">卯</text>
+  <circle cx="304.7" cy="86.7" r="27" fill="var(--surface, #fffdf8)" stroke="var(--do, #a87018)" stroke-width="4"/>
+  <text x="304.7" y="96.7" font-size="28" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--do, #a87018)">辰</text>
+  <circle cx="367.6" cy="71.9" r="27" fill="var(--surface, #fffdf8)" stroke="var(--ka, #c03430)" stroke-width="4"/>
+  <text x="367.6" y="81.9" font-size="28" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--ka, #c03430)">巳</text>
+  <circle cx="432.4" cy="71.9" r="27" fill="var(--surface, #fffdf8)" stroke="var(--ka, #c03430)" stroke-width="4"/>
+  <text x="432.4" y="81.9" font-size="28" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--ka, #c03430)">午</text>
+  <circle cx="495.3" cy="86.7" r="27" fill="var(--surface, #fffdf8)" stroke="var(--do, #a87018)" stroke-width="4"/>
+  <text x="495.3" y="96.7" font-size="28" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--do, #a87018)">未</text>
+  <circle cx="553.2" cy="115.7" r="27" fill="var(--surface, #fffdf8)" stroke="var(--kin, #6b7584)" stroke-width="4"/>
+  <text x="553.2" y="125.7" font-size="28" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--kin, #6b7584)">申</text>
+  <circle cx="603.0" cy="157.1" r="27" fill="var(--surface, #fffdf8)" stroke="var(--kin, #6b7584)" stroke-width="4"/>
+  <text x="603.0" y="167.1" font-size="28" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--kin, #6b7584)">酉</text>
+  <circle cx="641.8" cy="208.8" r="27" fill="var(--surface, #fffdf8)" stroke="var(--do, #a87018)" stroke-width="4"/>
+  <text x="641.8" y="218.8" font-size="28" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--do, #a87018)">戌</text>
+  <circle cx="667.8" cy="268.1" r="27" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="4"/>
+  <text x="667.8" y="278.1" font-size="28" font-family="Zen Old Mincho, serif" font-weight="900" fill="var(--sui, #2854a0)">亥</text>
+  <circle cx="400" cy="200" r="62" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="5"/>
+  <path d="M400.0 150.0 L400.0 144.0" stroke="var(--sui, #2854a0)" stroke-width="5"/>
+  <path d="M425.0 156.7 L428.0 151.5" stroke="var(--do, #a87018)" stroke-width="3"/>
+  <path d="M443.3 175.0 L448.5 172.0" stroke="var(--moku, #2d7a4a)" stroke-width="3"/>
+  <path d="M450.0 200.0 L456.0 200.0" stroke="var(--moku, #2d7a4a)" stroke-width="5"/>
+  <path d="M443.3 225.0 L448.5 228.0" stroke="var(--do, #a87018)" stroke-width="3"/>
+  <path d="M425.0 243.3 L428.0 248.5" stroke="var(--ka, #c03430)" stroke-width="3"/>
+  <path d="M400.0 250.0 L400.0 256.0" stroke="var(--ka, #c03430)" stroke-width="5"/>
+  <path d="M375.0 243.3 L372.0 248.5" stroke="var(--do, #a87018)" stroke-width="3"/>
+  <path d="M356.7 225.0 L351.5 228.0" stroke="var(--kin, #6b7584)" stroke-width="3"/>
+  <path d="M350.0 200.0 L344.0 200.0" stroke="var(--kin, #6b7584)" stroke-width="5"/>
+  <path d="M356.7 175.0 L351.5 172.0" stroke="var(--do, #a87018)" stroke-width="3"/>
+  <path d="M375.0 156.7 L372.0 151.5" stroke="var(--sui, #2854a0)" stroke-width="3"/>
+  <path d="M400 200 L400 162" stroke="var(--ink, #26221d)" stroke-width="5"/>
+  <path d="M400 200 L426 215" stroke="var(--ink, #26221d)" stroke-width="4"/>
+  <circle cx="400" cy="200" r="5" fill="var(--ink, #26221d)"/>
+</g>
+</svg>

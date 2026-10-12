@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="左に金の色の丸、右に水の色の丸があり、2つの丸のあいだを、行きと帰りの2本の矢印がつないでいる。まんなかには開いた取扱説明書があり、ページには歯車と行の線が描かれている。2人のちがいを、取扱説明書のように読んで、つきあい方を知るイメージ">
+<defs>
+  <marker id="c20a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink-soft, #6a6157)"/></marker>
+</defs>
+<rect width="800" height="320" fill="var(--sunk, #efe8dc)"/>
+<path d="M0 268 Q200 246 400 262 T800 252 V320 H0Z" fill="var(--sun-soft, #f6ead0)"/>
+<g stroke-linecap="round" stroke-linejoin="round">
+  <!-- 2人の丸 -->
+  <circle cx="140" cy="150" r="78" fill="var(--surface, #fffdf8)" stroke="var(--kin, #6b7584)" stroke-width="6"/>
+  <circle cx="660" cy="150" r="78" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="6"/>
+  <!-- 顔（簡単な） -->
+  <circle cx="118" cy="140" r="6" fill="var(--ink, #26221d)"/><circle cx="162" cy="140" r="6" fill="var(--ink, #26221d)"/>
+  <path d="M120 172 Q140 186 160 172" stroke="var(--ink, #26221d)" stroke-width="4" fill="none"/>
+  <circle cx="638" cy="140" r="6" fill="var(--ink, #26221d)"/><circle cx="682" cy="140" r="6" fill="var(--ink, #26221d)"/>
+  <path d="M640 172 Q660 186 680 172" stroke="var(--ink, #26221d)" stroke-width="4" fill="none"/>
+  <!-- 行き帰りの矢印 -->
+  <path d="M232 106 Q400 40 568 106" stroke="var(--ink-soft, #6a6157)" stroke-width="3" fill="none" marker-end="url(#c20a)"/>
+  <path d="M568 216 Q400 282 232 216" stroke="var(--ink-soft, #6a6157)" stroke-width="3" fill="none" marker-end="url(#c20a)"/>
+  <!-- 取扱説明書 -->
+  <path d="M400 108 Q360 96 316 104 V214 Q360 206 400 218 Z" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="4"/>
+  <path d="M400 108 Q440 96 484 104 V214 Q440 206 400 218 Z" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="4"/>
+  <circle cx="356" cy="146" r="16" fill="none" stroke="var(--do, #a87018)" stroke-width="5" stroke-dasharray="6 4"/>
+  <circle cx="356" cy="146" r="5" fill="var(--do, #a87018)"/>
+  <g stroke="var(--ink-soft, #6a6157)" stroke-width="4" opacity=".5">
+    <path d="M334 180 H382 M334 196 H372"/>
+    <path d="M418 132 H466 M418 150 H460 M418 168 H466 M418 186 H452"/>
+  </g>
+</g>
+</svg>

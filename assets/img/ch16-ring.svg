@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" role="img" aria-label="12年でひと回りする十二支の輪。いちばん上の子から時計回りに、子2032年、丑2033年、寅2034年、卯2035年、辰2024年、巳2025年、午2026年、未2027年、申2028年、酉2029年、戌2030年、亥2031年。ひよりさんは子丑天中殺なので、子と丑の2つ（2032年と2033年）だけが青くぬられ、充電の2年と書かれている。いちばん下の午の年（2026年）に、いまの印がある。12年のうち10年はふだんの季節">
+<rect width="800" height="580" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+<text x="400" y="36" font-size="20" font-weight="700" fill="var(--ink, #26221d)">12年でひと回り。そのうち2年が「充電の季節」</text>
+<circle cx="400" cy="280" r="170" fill="none" stroke="var(--sunk, #efe8dc)" stroke-width="10"/>
+<path d="M400.0 110.0 A170 170 0 0 1 485.0 132.8" fill="none" stroke="var(--sui, #2854a0)" stroke-width="10" stroke-opacity="0.45"/>
+<circle cx="400.0" cy="110.0" r="40" fill="var(--sui, #2854a0)" stroke="var(--sui, #2854a0)" stroke-width="2.5"/>
+<text x="400.0" y="112.0" font-size="24" font-weight="700" fill="#ffffff" font-family="Zen Old Mincho, serif">子</text>
+<text x="400.0" y="132.0" font-size="12" fill="#ffffff">2032年</text>
+<circle cx="485.0" cy="132.8" r="40" fill="var(--sui, #2854a0)" stroke="var(--sui, #2854a0)" stroke-width="2.5"/>
+<text x="485.0" y="134.8" font-size="24" font-weight="700" fill="#ffffff" font-family="Zen Old Mincho, serif">丑</text>
+<text x="485.0" y="154.8" font-size="12" fill="#ffffff">2033年</text>
+<circle cx="547.2" cy="195.0" r="40" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="547.2" y="197.0" font-size="24" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">寅</text>
+<text x="547.2" y="217.0" font-size="12" fill="var(--ink-soft, #6a6157)">2034年</text>
+<circle cx="570.0" cy="280.0" r="40" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="570.0" y="282.0" font-size="24" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">卯</text>
+<text x="570.0" y="302.0" font-size="12" fill="var(--ink-soft, #6a6157)">2035年</text>
+<circle cx="547.2" cy="365.0" r="40" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="547.2" y="367.0" font-size="24" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">辰</text>
+<text x="547.2" y="387.0" font-size="12" fill="var(--ink-soft, #6a6157)">2024年</text>
+<circle cx="485.0" cy="427.2" r="40" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="485.0" y="429.2" font-size="24" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">巳</text>
+<text x="485.0" y="449.2" font-size="12" fill="var(--ink-soft, #6a6157)">2025年</text>
+<circle cx="400.0" cy="450.0" r="40" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="400.0" y="452.0" font-size="24" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">午</text>
+<text x="400.0" y="472.0" font-size="12" fill="var(--ink-soft, #6a6157)">2026年</text>
+<circle cx="315.0" cy="427.2" r="40" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="315.0" y="429.2" font-size="24" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">未</text>
+<text x="315.0" y="449.2" font-size="12" fill="var(--ink-soft, #6a6157)">2027年</text>
+<circle cx="252.8" cy="365.0" r="40" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="252.8" y="367.0" font-size="24" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">申</text>
+<text x="252.8" y="387.0" font-size="12" fill="var(--ink-soft, #6a6157)">2028年</text>
+<circle cx="230.0" cy="280.0" r="40" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="230.0" y="282.0" font-size="24" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">酉</text>
+<text x="230.0" y="302.0" font-size="12" fill="var(--ink-soft, #6a6157)">2029年</text>
+<circle cx="252.8" cy="195.0" r="40" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="252.8" y="197.0" font-size="24" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">戌</text>
+<text x="252.8" y="217.0" font-size="12" fill="var(--ink-soft, #6a6157)">2030年</text>
+<circle cx="315.0" cy="132.8" r="40" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+<text x="315.0" y="134.8" font-size="24" font-weight="700" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif">亥</text>
+<text x="315.0" y="154.8" font-size="12" fill="var(--ink-soft, #6a6157)">2031年</text>
+<text x="400" y="246" font-size="16" fill="var(--ink-soft, #6a6157)">ひよりさん</text>
+<text x="400" y="282" font-size="26" font-weight="700" fill="var(--sui, #2854a0)">子丑天中殺</text>
+<text x="400" y="312" font-size="14" fill="var(--ink, #26221d)">子と丑の年が、充電の2年</text>
+<text x="640" y="96" font-size="15" font-weight="700" fill="var(--sui, #2854a0)" text-anchor="start">充電の2年</text>
+<text x="640" y="118" font-size="13" fill="var(--ink, #26221d)" text-anchor="start">2032年（壬子）</text>
+<text x="640" y="138" font-size="13" fill="var(--ink, #26221d)" text-anchor="start">2033年（癸丑）</text>
+<path d="M632 104 L531.0 126.8" fill="none" stroke="var(--sui, #2854a0)" stroke-width="2"/>
+<text x="400" y="514.0" font-size="14" font-weight="700" fill="var(--warm, #c03430)">▲ いま（2026年）</text>
+<text x="400" y="562" font-size="14" fill="var(--ink-soft, #6a6157)">のこりの10年は、ふだんの季節。2034年からまた次のひと回りが始まる</text>
+</g></svg>

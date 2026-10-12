@@ -57,14 +57,14 @@
       "stage": "1",
       "title": "十二支 ― 時と季節のものさし",
       "required": false,
-      "file": null
+      "file": "05_十二支.md"
     },
     {
       "id": "06",
       "stage": "1",
       "title": "干支とこよみ ― 1年は立春から",
       "required": false,
-      "file": null
+      "file": "06_干支とこよみ.md"
     },
     {
       "id": "07",
@@ -92,7 +92,7 @@
       "stage": "2",
       "title": "蔵干 ― 地支にかくれた本音",
       "required": false,
-      "file": null
+      "file": "10_蔵干.md"
     },
     {
       "id": "11",
@@ -134,14 +134,14 @@
       "stage": "2",
       "title": "天中殺 ― 6つのグループと充電期間",
       "required": false,
-      "file": null
+      "file": "16_天中殺.md"
     },
     {
       "id": "17",
       "stage": "2",
       "title": "時の流れ ― 大運と年運",
       "required": false,
-      "file": null
+      "file": "17_大運と年運.md"
     },
     {
       "id": "18",
@@ -162,7 +162,7 @@
       "stage": "3",
       "title": "相性の読み方",
       "required": false,
-      "file": null
+      "file": "20_相性の読み方.md"
     },
     {
       "id": "21",

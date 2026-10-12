@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="1年の節入りの輪。真上の立春（2月4日ごろ）から1年がはじまり、時計回りに、啓蟄（3月5〜6日ごろ）・清明（4月4〜5日ごろ）・立夏（5月5〜6日ごろ）・芒種（6月5〜6日ごろ）・小暑（7月7日ごろ）・立秋（8月7〜8日ごろ）・白露（9月7〜8日ごろ）・寒露（10月8〜9日ごろ）・立冬（11月7〜8日ごろ）・大雪（12月7日ごろ）・小寒（1月5〜6日ごろ）と、12の節が並ぶ。それぞれの節から、寅・卯・辰・巳・午・未・申・酉・戌・亥・子・丑の月がはじまる。お正月の1月1日は、大雪からはじまる子の月の中にあり、まだ前の年。マスの色は、その月の十二支の五行">
+<defs><marker id="s6a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink-soft, #6a6157)"/></marker></defs>
+<rect width="800" height="800" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <path d="M321.1 115.4 A305 305 0 0 1 478.9 115.4 L438.8 265.1 A150 150 0 0 0 361.2 265.1 Z" fill="var(--moku, #2d7a4a)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M478.9 115.4 A305 305 0 0 1 615.7 194.3 L506.1 303.9 A150 150 0 0 0 438.8 265.1 Z" fill="var(--moku, #2d7a4a)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M615.7 194.3 A305 305 0 0 1 694.6 331.1 L544.9 371.2 A150 150 0 0 0 506.1 303.9 Z" fill="var(--do, #a87018)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M694.6 331.1 A305 305 0 0 1 694.6 488.9 L544.9 448.8 A150 150 0 0 0 544.9 371.2 Z" fill="var(--ka, #c03430)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M694.6 488.9 A305 305 0 0 1 615.7 625.7 L506.1 516.1 A150 150 0 0 0 544.9 448.8 Z" fill="var(--ka, #c03430)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M615.7 625.7 A305 305 0 0 1 478.9 704.6 L438.8 554.9 A150 150 0 0 0 506.1 516.1 Z" fill="var(--do, #a87018)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M478.9 704.6 A305 305 0 0 1 321.1 704.6 L361.2 554.9 A150 150 0 0 0 438.8 554.9 Z" fill="var(--kin, #6b7584)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M321.1 704.6 A305 305 0 0 1 184.3 625.7 L293.9 516.1 A150 150 0 0 0 361.2 554.9 Z" fill="var(--kin, #6b7584)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M184.3 625.7 A305 305 0 0 1 105.4 488.9 L255.1 448.8 A150 150 0 0 0 293.9 516.1 Z" fill="var(--do, #a87018)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M105.4 488.9 A305 305 0 0 1 105.4 331.1 L255.1 371.2 A150 150 0 0 0 255.1 448.8 Z" fill="var(--sui, #2854a0)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M105.4 331.1 A305 305 0 0 1 184.3 194.3 L293.9 303.9 A150 150 0 0 0 255.1 371.2 Z" fill="var(--sui, #2854a0)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M184.3 194.3 A305 305 0 0 1 321.1 115.4 L361.2 265.1 A150 150 0 0 0 293.9 303.9 Z" fill="var(--do, #a87018)" fill-opacity="0.13" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <path d="M361.2 265.1 L316.9 99.9" stroke="var(--warm, #c03430)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="400" cy="410" r="150" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-opacity="0.5" stroke-width="1.5"/>
+  <text x="400.0" y="168.0" font-size="18" font-weight="700" fill="var(--ink, #26221d)">立春</text>
+  <text x="400.0" y="188.0" font-size="14" fill="var(--ink-soft, #6a6157)">2/4ごろ</text>
+  <text x="400.0" y="212.0" font-size="18" font-weight="700" fill="var(--moku, #2d7a4a)">寅の月</text>
+  <text x="514.0" y="198.5" font-size="18" font-weight="700" fill="var(--ink, #26221d)">啓蟄</text>
+  <text x="514.0" y="218.5" font-size="14" fill="var(--ink-soft, #6a6157)">3/5〜6</text>
+  <text x="514.0" y="242.5" font-size="18" font-weight="700" fill="var(--moku, #2d7a4a)">卯の月</text>
+  <text x="597.5" y="282.0" font-size="18" font-weight="700" fill="var(--ink, #26221d)">清明</text>
+  <text x="597.5" y="302.0" font-size="14" fill="var(--ink-soft, #6a6157)">4/4〜5</text>
+  <text x="597.5" y="326.0" font-size="18" font-weight="700" fill="var(--do, #a87018)">辰の月</text>
+  <text x="628.0" y="396.0" font-size="18" font-weight="700" fill="var(--ink, #26221d)">立夏</text>
+  <text x="628.0" y="416.0" font-size="14" fill="var(--ink-soft, #6a6157)">5/5〜6</text>
+  <text x="628.0" y="440.0" font-size="18" font-weight="700" fill="var(--ka, #c03430)">巳の月</text>
+  <text x="597.5" y="510.0" font-size="18" font-weight="700" fill="var(--ink, #26221d)">芒種</text>
+  <text x="597.5" y="530.0" font-size="14" fill="var(--ink-soft, #6a6157)">6/5〜6</text>
+  <text x="597.5" y="554.0" font-size="18" font-weight="700" fill="var(--ka, #c03430)">午の月</text>
+  <text x="514.0" y="593.5" font-size="18" font-weight="700" fill="var(--ink, #26221d)">小暑</text>
+  <text x="514.0" y="613.5" font-size="14" fill="var(--ink-soft, #6a6157)">7/7ごろ</text>
+  <text x="514.0" y="637.5" font-size="18" font-weight="700" fill="var(--do, #a87018)">未の月</text>
+  <text x="400.0" y="624.0" font-size="18" font-weight="700" fill="var(--ink, #26221d)">立秋</text>
+  <text x="400.0" y="644.0" font-size="14" fill="var(--ink-soft, #6a6157)">8/7〜8</text>
+  <text x="400.0" y="668.0" font-size="18" font-weight="700" fill="var(--kin, #6b7584)">申の月</text>
+  <text x="286.0" y="593.5" font-size="18" font-weight="700" fill="var(--ink, #26221d)">白露</text>
+  <text x="286.0" y="613.5" font-size="14" fill="var(--ink-soft, #6a6157)">9/7〜8</text>
+  <text x="286.0" y="637.5" font-size="18" font-weight="700" fill="var(--kin, #6b7584)">酉の月</text>
+  <text x="202.5" y="510.0" font-size="18" font-weight="700" fill="var(--ink, #26221d)">寒露</text>
+  <text x="202.5" y="530.0" font-size="14" fill="var(--ink-soft, #6a6157)">10/8〜9</text>
+  <text x="202.5" y="554.0" font-size="18" font-weight="700" fill="var(--do, #a87018)">戌の月</text>
+  <text x="172.0" y="396.0" font-size="18" font-weight="700" fill="var(--ink, #26221d)">立冬</text>
+  <text x="172.0" y="416.0" font-size="14" fill="var(--ink-soft, #6a6157)">11/7〜8</text>
+  <text x="172.0" y="440.0" font-size="18" font-weight="700" fill="var(--sui, #2854a0)">亥の月</text>
+  <text x="202.5" y="282.0" font-size="18" font-weight="700" fill="var(--ink, #26221d)">大雪</text>
+  <text x="202.5" y="302.0" font-size="14" fill="var(--ink-soft, #6a6157)">12/7ごろ</text>
+  <text x="202.5" y="326.0" font-size="18" font-weight="700" fill="var(--sui, #2854a0)">子の月</text>
+  <text x="286.0" y="198.5" font-size="18" font-weight="700" fill="var(--ink, #26221d)">小寒</text>
+  <text x="286.0" y="218.5" font-size="14" fill="var(--ink-soft, #6a6157)">1/5〜6</text>
+  <text x="286.0" y="242.5" font-size="18" font-weight="700" fill="var(--do, #a87018)">丑の月</text>
+  <text x="400.0" y="64.0" font-size="18" font-weight="700" fill="var(--warm, #c03430)">ここから1年がはじまる</text>
+  <circle cx="166.4" cy="213.9" r="6" fill="var(--warm, #c03430)"/>
+  <path d="M166.4 213.9 L149.5 199.8" stroke="var(--warm, #c03430)" stroke-width="2"/>
+  <text x="147.5" y="191.8" font-size="15" text-anchor="end" font-weight="700" fill="var(--warm, #c03430)">お正月（1/1）</text>
+  <text x="147.5" y="209.8" font-size="13" text-anchor="end" fill="var(--ink-soft, #6a6157)">まだ子の月・前の年</text>
+  <text x="400.0" y="388.0" font-size="17" font-weight="700" fill="var(--ink, #26221d)">1年＝12の月</text>
+  <text x="400.0" y="414.0" font-size="15" font-weight="400" fill="var(--ink, #26221d)">月は「節入り」で</text>
+  <text x="400.0" y="436.0" font-size="15" font-weight="400" fill="var(--ink, #26221d)">切りかわる</text>
+  <path d="M455.8 290.4 A132 132 0 0 1 519.6 354.2" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="3" marker-end="url(#s6a)"/>
+</g>
+</svg>

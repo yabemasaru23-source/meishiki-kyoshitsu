@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img" aria-label="ひよりさんの大運の帯。出発点は月柱の丁巳で、そこから六十干支を1つずつもどる逆行。3歳から丙辰（正官、2001年から）、13歳から乙卯（偏財、2011年から）、23歳から甲寅（正財、2021年から2030年。2026年のいまはこの大運）、33歳から癸丑（食神、2031年から）、43歳から壬子（傷官、2041年から）、53歳から辛亥（比肩、2051年から）、63歳から庚戌（劫財、2061年から）、73歳から己酉（偏印、2071年から）が、10年ずつ左から右へ並ぶ">
+<defs><marker id="d17a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink-soft, #6a6157)"/></marker></defs>
+<rect width="800" height="300" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <text x="400" y="36" font-size="20" font-weight="700" fill="var(--ink, #26221d)">ひよりさんの大運（逆行・3歳から）</text>
+  <text x="400" y="66" font-size="14" fill="var(--ink-soft, #6a6157)">出発点は月柱の丁巳。そこから六十干支を1つずつもどる</text>
+  <path d="M40 88 H756" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5" fill="none" marker-end="url(#d17a)"/>
+  <!-- 帯：x = 20 + i*94, 幅88 -->
+  <g stroke-width="2.5">
+    <rect x="20"  y="106" width="88" height="116" rx="10" fill="var(--sunk, #efe8dc)" stroke="var(--ka, #c03430)"/>
+    <rect x="114" y="106" width="88" height="116" rx="10" fill="var(--sunk, #efe8dc)" stroke="var(--moku, #2d7a4a)"/>
+    <rect x="208" y="106" width="88" height="116" rx="10" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="4"/>
+    <rect x="302" y="106" width="88" height="116" rx="10" fill="var(--sunk, #efe8dc)" stroke="var(--sui, #2854a0)"/>
+    <rect x="396" y="106" width="88" height="116" rx="10" fill="var(--sunk, #efe8dc)" stroke="var(--sui, #2854a0)"/>
+    <rect x="490" y="106" width="88" height="116" rx="10" fill="var(--sunk, #efe8dc)" stroke="var(--kin, #6b7584)"/>
+    <rect x="584" y="106" width="88" height="116" rx="10" fill="var(--sunk, #efe8dc)" stroke="var(--kin, #6b7584)"/>
+    <rect x="678" y="106" width="88" height="116" rx="10" fill="var(--sunk, #efe8dc)" stroke="var(--do, #a87018)"/>
+  </g>
+  <!-- 年齢 -->
+  <g font-size="14" fill="var(--ink-soft, #6a6157)">
+    <text x="64" y="130">3歳〜</text><text x="158" y="130">13歳〜</text><text x="252" y="130">23歳〜</text><text x="346" y="130">33歳〜</text>
+    <text x="440" y="130">43歳〜</text><text x="534" y="130">53歳〜</text><text x="628" y="130">63歳〜</text><text x="722" y="130">73歳〜</text>
+  </g>
+  <!-- 干支 -->
+  <g font-family="Zen Old Mincho, serif" font-size="28" font-weight="900">
+    <text x="64" y="172" fill="var(--ka, #c03430)">丙辰</text>
+    <text x="158" y="172" fill="var(--moku, #2d7a4a)">乙卯</text>
+    <text x="252" y="172" fill="var(--moku, #2d7a4a)">甲寅</text>
+    <text x="346" y="172" fill="var(--sui, #2854a0)">癸丑</text>
+    <text x="440" y="172" fill="var(--sui, #2854a0)">壬子</text>
+    <text x="534" y="172" fill="var(--kin, #6b7584)">辛亥</text>
+    <text x="628" y="172" fill="var(--kin, #6b7584)">庚戌</text>
+    <text x="722" y="172" fill="var(--do, #a87018)">己酉</text>
+  </g>
+  <!-- 通変星 -->
+  <g font-size="15" font-weight="700" fill="var(--ink, #26221d)">
+    <text x="64" y="204">正官</text><text x="158" y="204">偏財</text><text x="252" y="204">正財</text><text x="346" y="204">食神</text>
+    <text x="440" y="204">傷官</text><text x="534" y="204">比肩</text><text x="628" y="204">劫財</text><text x="722" y="204">偏印</text>
+  </g>
+  <!-- 年 -->
+  <g font-size="12" fill="var(--ink-soft, #6a6157)">
+    <text x="64" y="242">2001〜</text><text x="158" y="242">2011〜</text><text x="252" y="242">2021〜2030</text><text x="346" y="242">2031〜</text>
+    <text x="440" y="242">2041〜</text><text x="534" y="242">2051〜</text><text x="628" y="242">2061〜</text><text x="722" y="242">2071〜</text>
+  </g>
+  <!-- いまの印 -->
+  <rect x="198" y="256" width="108" height="28" rx="14" fill="var(--sun, #d9a441)"/>
+  <text x="252" y="275" font-size="14" font-weight="700" fill="#fffdf8">いま（2026年）</text>
+  <text x="560" y="275" font-size="13" fill="var(--ink-soft, #6a6157)">下の星は、天干を日干の辛から見た通変星</text>
+</g>
+</svg>

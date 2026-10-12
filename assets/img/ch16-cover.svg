@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="冬の夜空のような紺色の背景。12個の丸が横に並び、そのうち2つだけが青く光っている。下には、充電中の電池の絵と、雪をかぶった小さな芽。上に「天中殺は、充電の季節」と書かれている">
+<rect width="800" height="320" fill="#1f2b47"/>
+<g fill="#dfe7f5"><circle cx="70" cy="70" r="2.5"/><circle cx="730" cy="60" r="2.5"/><circle cx="110" cy="270" r="2"/><circle cx="700" cy="280" r="2.5"/><circle cx="640" cy="230" r="2"/><circle cx="160" cy="210" r="2"/></g>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <text x="400" y="50" font-size="26" font-weight="700" fill="#f3d68d">天中殺は、充電の季節</text>
+  <text x="400" y="80" font-size="15" fill="#c9d3e6">12のうち2つは、休んで・整えて・ためる時間</text>
+  <!-- 12個の丸 -->
+  <g stroke="#8fa3c8" stroke-width="2" fill="#2c3a5c">
+    <circle cx="125" cy="128" r="17"/><circle cx="175" cy="128" r="17"/><circle cx="225" cy="128" r="17"/><circle cx="275" cy="128" r="17"/>
+    <circle cx="325" cy="128" r="17"/><circle cx="375" cy="128" r="17"/><circle cx="425" cy="128" r="17"/><circle cx="475" cy="128" r="17"/>
+    <circle cx="525" cy="128" r="17"/><circle cx="575" cy="128" r="17"/>
+  </g>
+  <circle cx="625" cy="128" r="17" fill="#6f9be0" stroke="#dfe7f5" stroke-width="2"/>
+  <circle cx="675" cy="128" r="17" fill="#6f9be0" stroke="#dfe7f5" stroke-width="2"/>
+  <!-- 電池 -->
+  <rect x="320" y="186" width="140" height="70" rx="12" fill="none" stroke="#dfe7f5" stroke-width="4"/>
+  <rect x="460" y="208" width="12" height="26" rx="3" fill="#dfe7f5"/>
+  <rect x="330" y="196" width="36" height="50" rx="6" fill="#6f9be0"/>
+  <rect x="372" y="196" width="36" height="50" rx="6" fill="#6f9be0"/>
+  <rect x="414" y="196" width="36" height="50" rx="6" fill="#3d5280"/>
+  <path d="M396 200 L384 224 L396 224 L388 244 L410 216 L398 216 L406 200 Z" fill="#f3d68d"/>
+  <!-- 雪の中の芽 -->
+  <ellipse cx="600" cy="262" rx="70" ry="14" fill="#e9eef7"/>
+  <path d="M600 258 C600 240 600 232 600 226" stroke="#7fbf8f" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M600 236 C588 230 584 222 586 214 C596 216 602 224 600 236 Z" fill="#7fbf8f"/>
+  <path d="M600 232 C612 226 616 218 614 210 C604 212 598 220 600 232 Z" fill="#7fbf8f"/>
+  <text x="600" y="300" font-size="14" fill="#c9d3e6">春にそなえる</text>
+</g>
+</svg>
