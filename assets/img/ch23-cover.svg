@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="あたたかい色の背景に、ひよりさんの命式の8文字（右から年柱 戊寅・月柱 丁巳・日柱 辛酉・時柱 乙未）が並んだ表。日柱の上の辛と、年柱の下の寅のマスの角に、小さな金色の星の印がついている。右には「天乙貴人［年柱］」「天徳貴人［日柱（天干）］」の札。上に「特殊星は、命式にひそむ小さな印」と書かれている">
+<rect width="800" height="320" fill="var(--sun-soft, #f6ead0)"/>
+<path d="M0 262 Q200 244 400 258 T800 250 V320 H0Z" fill="var(--sunk, #efe8dc)"/>
+<g font-family="Zen Maru Gothic, sans-serif">
+<text x="400" y="52" font-size="28" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">特殊星は、命式にひそむ小さな印</text>
+<text x="400" y="84" font-size="16" text-anchor="middle" fill="var(--ink-soft, #6a6157)">主役の星を読んだあとに、そっと添える彩り</text>
+<text x="280" y="112" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)" font-family="Zen Maru Gothic, sans-serif">時柱</text>
+<rect x="245" y="120" width="70" height="56" rx="8" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/><text x="280" y="160" font-size="32" text-anchor="middle" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif" font-weight="700">乙</text>
+<rect x="245" y="184" width="70" height="56" rx="8" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/><text x="280" y="224" font-size="32" text-anchor="middle" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif" font-weight="700">未</text>
+<text x="360" y="112" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)" font-family="Zen Maru Gothic, sans-serif">日柱</text>
+<rect x="325" y="120" width="70" height="56" rx="8" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/><text x="360" y="160" font-size="32" text-anchor="middle" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif" font-weight="700">辛</text>
+<rect x="325" y="184" width="70" height="56" rx="8" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/><text x="360" y="224" font-size="32" text-anchor="middle" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif" font-weight="700">酉</text>
+<text x="440" y="112" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)" font-family="Zen Maru Gothic, sans-serif">月柱</text>
+<rect x="405" y="120" width="70" height="56" rx="8" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/><text x="440" y="160" font-size="32" text-anchor="middle" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif" font-weight="700">丁</text>
+<rect x="405" y="184" width="70" height="56" rx="8" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/><text x="440" y="224" font-size="32" text-anchor="middle" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif" font-weight="700">巳</text>
+<text x="520" y="112" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)" font-family="Zen Maru Gothic, sans-serif">年柱</text>
+<rect x="485" y="120" width="70" height="56" rx="8" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/><text x="520" y="160" font-size="32" text-anchor="middle" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif" font-weight="700">戊</text>
+<rect x="485" y="184" width="70" height="56" rx="8" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/><text x="520" y="224" font-size="32" text-anchor="middle" fill="var(--ink, #26221d)" font-family="Zen Old Mincho, serif" font-weight="700">寅</text>
+<path d="M391.0 113.0 L393.9 120.0 L401.5 120.6 L395.7 125.5 L397.5 132.9 L391.0 128.9 L384.5 132.9 L386.3 125.5 L380.5 120.6 L388.1 120.0 Z" fill="var(--sun, #d9a441)"/>
+<path d="M551.0 177.0 L553.9 184.0 L561.5 184.6 L555.7 189.5 L557.5 196.9 L551.0 192.9 L544.5 196.9 L546.3 189.5 L540.5 184.6 L548.1 184.0 Z" fill="var(--sun, #d9a441)"/>
+
+<path d="M586.0 137.0 L588.1 142.1 L593.6 142.5 L589.4 146.1 L590.7 151.5 L586.0 148.6 L581.3 151.5 L582.6 146.1 L578.4 142.5 L583.9 142.1 Z" fill="var(--sun, #d9a441)"/><text x="600" y="150" font-size="13" fill="var(--ink, #26221d)">天乙貴人［年柱］</text>
+<path d="M586.0 167.0 L588.1 172.1 L593.6 172.5 L589.4 176.1 L590.7 181.5 L586.0 178.6 L581.3 181.5 L582.6 176.1 L578.4 172.5 L583.9 172.1 Z" fill="var(--sun, #d9a441)"/><text x="600" y="180" font-size="13" fill="var(--ink, #26221d)">天徳貴人［日柱（天干）］</text>
+<path d="M90.0 134.0 L91.6 137.8 L95.7 138.1 L92.6 140.8 L93.5 144.9 L90.0 142.7 L86.5 144.9 L87.4 140.8 L84.3 138.1 L88.4 137.8 Z" fill="var(--sun, #d9a441)"/><path d="M150.0 196.0 L151.1 198.5 L153.8 198.8 L151.7 200.6 L152.4 203.2 L150.0 201.8 L147.6 203.2 L148.3 200.6 L146.2 198.8 L148.9 198.5 Z" fill="var(--sun, #d9a441)"/><path d="M120.0 235.0 L121.3 238.2 L124.8 238.5 L122.1 240.7 L122.9 244.0 L120.0 242.3 L117.1 244.0 L117.9 240.7 L115.2 238.5 L118.7 238.2 Z" fill="var(--sun, #d9a441)"/><path d="M700.0 225.0 L701.3 228.2 L704.8 228.5 L702.1 230.7 L702.9 234.0 L700.0 232.3 L697.1 234.0 L697.9 230.7 L695.2 228.5 L698.7 228.2 Z" fill="var(--sun, #d9a441)"/><path d="M740.0 106.0 L741.1 108.5 L743.8 108.8 L741.7 110.6 L742.4 113.2 L740.0 111.8 L737.6 113.2 L738.3 110.6 L736.2 108.8 L738.9 108.5 Z" fill="var(--sun, #d9a441)"/>
+<text x="400" y="292" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">見つけ方は4つ ― 日干から・月支から・年支と日支から・日柱そのもの</text>
+</g>
+</svg>

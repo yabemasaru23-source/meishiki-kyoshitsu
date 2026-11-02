@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 616" role="img" aria-label="特殊星の4つの見つけ方を、命式の表（右から年柱・月柱・日柱・時柱、上が天干・下が地支）で示した図。① 日干を出発点に、4本の柱の地支をさがす。天乙貴人・文昌貴人・金輿禄・暗禄・羊刃。② 月支を出発点に、天干と地支をさがす。天徳貴人（天干か地支）と月徳貴人（天干だけ）。天干で見つかると札に（天干）がつく。③ 年支と日支を出発点に、ほかの柱の地支をさがす。駅馬・咸池（桃花）・華蓋。札は「月柱・年支基準」のようになる。④ 日柱の干支そのものが庚辰・庚戌・壬辰・戊戌のどれかなら魁罡。">
+<rect width="800" height="616" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif">
+<text x="400" y="38" font-size="20" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">特殊星の4つの見つけ方 ― どこから見て、どこをさがす？</text>
+<rect x="220" y="56" width="22" height="18" rx="4" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/><text x="250" y="70" font-size="13" fill="var(--ink, #26221d)">見る字（出発点）</text>
+<rect x="430" y="56" width="22" height="18" rx="4" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="460" y="70" font-size="13" fill="var(--ink, #26221d)">さがす場所</text>
+<rect x="20" y="96" width="370" height="246" rx="14" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="38" y="126" font-size="16" font-weight="700" fill="var(--ink, #26221d)">① 日干 から、4本の地支を見る</text>
+<text x="38" y="183" font-size="12" fill="var(--ink-soft, #6a6157)">天干</text><text x="38" y="221" font-size="12" fill="var(--ink-soft, #6a6157)">地支</text>
+<text x="110" y="152" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">時柱</text>
+<rect x="84" y="160" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<rect x="84" y="198" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="110" y="219" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<text x="168" y="152" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">日柱</text>
+<rect x="142" y="160" width="52" height="32" rx="6" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/><text x="168" y="181" font-size="12" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">日干</text>
+<rect x="142" y="198" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="168" y="219" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<text x="226" y="152" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">月柱</text>
+<rect x="200" y="160" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<rect x="200" y="198" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="226" y="219" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<text x="284" y="152" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">年柱</text>
+<rect x="258" y="160" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<rect x="258" y="198" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="284" y="219" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<text x="38" y="260" font-size="14" font-weight="700" fill="var(--do, #a87018)">天乙貴人・文昌貴人・金輿禄</text>
+<text x="38" y="282" font-size="14" font-weight="700" fill="var(--do, #a87018)">暗禄・羊刃</text>
+<text x="38" y="308" font-size="12" fill="var(--ink-soft, #6a6157)">日柱の地支も、さがす場所に入る</text>
+<text x="38" y="328" font-size="12" fill="var(--ink-soft, #6a6157)">札：［年柱］のように、見つかった柱</text>
+<rect x="410" y="96" width="370" height="246" rx="14" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="428" y="126" font-size="16" font-weight="700" fill="var(--ink, #26221d)">② 月支 から、干と支を見る</text>
+<text x="428" y="183" font-size="12" fill="var(--ink-soft, #6a6157)">天干</text><text x="428" y="221" font-size="12" fill="var(--ink-soft, #6a6157)">地支</text>
+<text x="500" y="152" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">時柱</text>
+<rect x="474" y="160" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="500" y="181" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<rect x="474" y="198" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="500" y="219" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<text x="558" y="152" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">日柱</text>
+<rect x="532" y="160" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="558" y="181" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<rect x="532" y="198" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="558" y="219" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<text x="616" y="152" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">月柱</text>
+<rect x="590" y="160" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="616" y="181" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<rect x="590" y="198" width="52" height="32" rx="6" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/><text x="616" y="219" font-size="12" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">月支</text>
+<text x="674" y="152" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">年柱</text>
+<rect x="648" y="160" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="674" y="181" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<rect x="648" y="198" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="674" y="219" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<text x="428" y="260" font-size="14" font-weight="700" fill="var(--do, #a87018)">天徳貴人（天干か地支）</text>
+<text x="428" y="282" font-size="14" font-weight="700" fill="var(--do, #a87018)">月徳貴人（天干だけ）</text>
+<text x="428" y="308" font-size="12" fill="var(--ink-soft, #6a6157)">天干で見つかると、札に（天干）がつく</text>
+<text x="428" y="328" font-size="12" fill="var(--ink-soft, #6a6157)">札：［日柱（天干）］［日柱］</text>
+<rect x="20" y="356" width="370" height="246" rx="14" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="38" y="386" font-size="16" font-weight="700" fill="var(--ink, #26221d)">③ 年支・日支 から、ほかの地支を見る</text>
+<text x="38" y="443" font-size="12" fill="var(--ink-soft, #6a6157)">天干</text><text x="38" y="481" font-size="12" fill="var(--ink-soft, #6a6157)">地支</text>
+<text x="110" y="412" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">時柱</text>
+<rect x="84" y="420" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<rect x="84" y="458" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="110" y="479" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<text x="168" y="412" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">日柱</text>
+<rect x="142" y="420" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<rect x="142" y="458" width="52" height="32" rx="6" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/><text x="168" y="479" font-size="12" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">日支</text>
+<text x="226" y="412" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">月柱</text>
+<rect x="200" y="420" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<rect x="200" y="458" width="52" height="32" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2" stroke-dasharray="5 4"/><text x="226" y="479" font-size="12" text-anchor="middle" fill="var(--sui, #2854a0)">？</text>
+<text x="284" y="412" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">年柱</text>
+<rect x="258" y="420" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<rect x="258" y="458" width="52" height="32" rx="6" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/><text x="284" y="479" font-size="12" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">年支</text>
+<text x="38" y="520" font-size="14" font-weight="700" fill="var(--do, #a87018)">駅馬・咸池（桃花）・華蓋</text>
+<text x="38" y="568" font-size="12" fill="var(--ink-soft, #6a6157)">年支から見たら日支も、日支から見たら年支もさがす</text>
+<text x="38" y="588" font-size="12" fill="var(--ink-soft, #6a6157)">札：［月柱・年支基準］［時柱・日支基準］</text>
+<rect x="410" y="356" width="370" height="246" rx="14" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+<text x="428" y="386" font-size="16" font-weight="700" fill="var(--ink, #26221d)">④ 日柱の干支そのものを見る</text>
+<text x="428" y="443" font-size="12" fill="var(--ink-soft, #6a6157)">天干</text><text x="428" y="481" font-size="12" fill="var(--ink-soft, #6a6157)">地支</text>
+<text x="500" y="412" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">時柱</text>
+<rect x="474" y="420" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<rect x="474" y="458" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<text x="558" y="412" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">日柱</text>
+<rect x="532" y="420" width="52" height="32" rx="6" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/><text x="558" y="441" font-size="12" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">日干</text>
+<rect x="532" y="458" width="52" height="32" rx="6" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/><text x="558" y="479" font-size="12" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">日支</text>
+<text x="616" y="412" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">月柱</text>
+<rect x="590" y="420" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<rect x="590" y="458" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<text x="674" y="412" font-size="12" text-anchor="middle" fill="var(--ink-soft, #6a6157)">年柱</text>
+<rect x="648" y="420" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<rect x="648" y="458" width="52" height="32" rx="6" fill="var(--sunk, #efe8dc)"/>
+<text x="428" y="520" font-size="14" font-weight="700" fill="var(--do, #a87018)">魁罡</text>
+<text x="428" y="568" font-size="12" fill="var(--ink-soft, #6a6157)">日柱が 庚辰・庚戌・壬辰・戊戌 のどれかなら出る</text>
+<text x="428" y="588" font-size="12" fill="var(--ink-soft, #6a6157)">札：［日柱］</text>
+</g>
+</svg>

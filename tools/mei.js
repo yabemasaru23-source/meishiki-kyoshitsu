@@ -24,6 +24,8 @@ function show(y, m, d, h, sex) {
   console.log(`\n${y}-${m}-${d} ${h ?? '時刻なし'}  照合:${ok ? '一致' : '★不一致'}  節:${A.setsu.name}${A.setsu.days}日目（次の節まで${A.nextSetsuDays}日）  年柱の基準年:${A.setsuYear}  日干:${A.nikkan}  天中殺 日${A.tcsDay}/年${A.tcsYear} 生日中殺:${!!A.seijitsu} 生月中殺:${!!A.seigetsu}`);
   for (const c of A.cols) console.log(`  ${c.name} ${c.ganshi}(${c.kanG}/${c.shiG}) No.${c.no} 蔵干${c.zokan} 通変${c.tsuhen ?? '—'} 蔵通${c.zoTsu} ${c.unsei}(${c.energy})`);
   console.log('  五行', JSON.stringify(A.count));
+  // 特殊星（神殺）：本体の calcTokushu の結果（検証エンジンには特殊星がないので照合はできない）
+  if (ctx.calcTokushu) { const t = ctx.calcTokushu(A); console.log('  特殊星', t.length ? t.map(x => x.n + '［' + x.at.join('・') + '］').join(' ／ ') : 'なし'); }
   if (!sex) return;
   // 大運：本体 drawKantei の計算をそのまま写したもの（検証エンジンには大運がないので照合はできない）
   const nenKanYin = KAN_Y[(A.setsuYear - 4 + 1000) % 10];
