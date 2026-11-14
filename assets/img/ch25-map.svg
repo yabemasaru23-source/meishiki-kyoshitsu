@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" role="img" aria-label="占いの地図。左の大きな「命」の区画には、生まれたときで読む占いとして、四柱推命（この教室）・算命学・紫微斗数・西洋占星術・九星気学・数秘術・動物占い。得意なのは生まれ持った器と一生・10年の流れで、たとえは地図。右上の「卜」の区画には、偶然に出た形で読む占いとして、易・タロット・おみくじ・ルーン・禅カード（アプリ）。得意なのはいまの迷いへのヒントで、たとえは道しるべ。右下の「相」の区画には、かたちを見て読む占いとして、手相・人相・家相・風水・印相。得意なのはいまの状態とととのえ方で、たとえは鏡。姓名判断は命と相の境目にまたがっていて、命に入れる考え方もある。いちばん下に、五術は山・医・命・卜・相の5つで、この教室で扱うのは命・卜・相、と書いてある">
+<rect width="800" height="460" rx="18" fill="var(--sunk, #efe8dc)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <text x="400" y="36" font-size="18" font-weight="700" fill="var(--ink, #26221d)">占いの地図 ― 何を見て読むかで3つに分ける</text>
+  <!-- 命 -->
+  <rect x="30" y="56" width="360" height="344" rx="16" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="4"/>
+  <text x="210" y="94" font-size="20" font-weight="700" fill="var(--ink, #26221d)"><tspan font-family="Zen Old Mincho, serif" font-size="28">命</tspan> ― 生まれたときで読む</text>
+  <g font-size="16" fill="var(--ink, #26221d)">
+    <text x="125" y="140" font-weight="700">四柱推命（この教室）</text>
+    <text x="305" y="140">算命学</text>
+    <text x="125" y="176">紫微斗数</text>
+    <text x="305" y="176">西洋占星術</text>
+    <text x="125" y="212">九星気学</text>
+    <text x="305" y="212">数秘術</text>
+    <text x="125" y="248">動物占い</text>
+  </g>
+  <text x="210" y="292" font-size="14" fill="var(--ink-soft, #6a6157)">得意：生まれ持った器・一生と10年の流れ</text>
+  <text x="210" y="318" font-size="15" font-weight="700" fill="var(--do, #a87018)">たとえ：地図</text>
+  <!-- 卜 -->
+  <rect x="410" y="56" width="360" height="164" rx="16" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2.5"/>
+  <text x="590" y="94" font-size="20" font-weight="700" fill="var(--ink, #26221d)"><tspan font-family="Zen Old Mincho, serif" font-size="28">卜</tspan> ― 偶然に出た形で読む</text>
+  <g font-size="16" fill="var(--ink, #26221d)">
+    <text x="470" y="130">易</text>
+    <text x="560" y="130">タロット</text>
+    <text x="670" y="130">おみくじ</text>
+    <text x="490" y="160">ルーン</text>
+    <text x="640" y="160">禅カード（アプリ）</text>
+  </g>
+  <text x="590" y="200" font-size="13" fill="var(--ink-soft, #6a6157)">得意：いまの迷いへのヒント ／ たとえ：道しるべ</text>
+  <!-- 相 -->
+  <rect x="410" y="236" width="360" height="164" rx="16" fill="var(--surface, #fffdf8)" stroke="var(--moku, #2d7a4a)" stroke-width="2.5"/>
+  <text x="590" y="274" font-size="20" font-weight="700" fill="var(--ink, #26221d)"><tspan font-family="Zen Old Mincho, serif" font-size="28">相</tspan> ― かたちを見て読む</text>
+  <g font-size="16" fill="var(--ink, #26221d)">
+    <text x="455" y="306">手相</text>
+    <text x="520" y="306">人相</text>
+    <text x="585" y="306">家相</text>
+    <text x="650" y="306">風水</text>
+    <text x="720" y="306">印相</text>
+  </g>
+  <text x="590" y="332" font-size="13" fill="var(--ink-soft, #6a6157)">得意：いまの状態とととのえ方 ／ たとえ：鏡</text>
+  <!-- 姓名判断（境目） -->
+  <rect x="320" y="346" width="150" height="34" rx="17" fill="var(--sun-soft, #f6ead0)" stroke="var(--warm, #c03430)" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="395" y="369" font-size="16" font-weight="700" fill="var(--warm, #c03430)">姓名判断</text>
+  <text x="610" y="370" font-size="12" fill="var(--ink-soft, #6a6157)">← 相にも、命にも入れる考え方がある</text>
+  <!-- 五術 -->
+  <text x="400" y="432" font-size="13" fill="var(--ink-soft, #6a6157)">五術＝山・医・命・卜・相（山は心身の修養、医は漢方など）。この教室で扱うのは命・卜・相</text>
+</g>
+</svg>

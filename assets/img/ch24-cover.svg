@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="あたたかい色の背景に、たて書きの名札。小川日和の4文字と、それぞれの画数3・3・4・8が書かれている。右には五格の札が5枚、天格6・人格7・地格12・外格11・総格18。上に「名前の画数を読む」、その下に「命式は生まれ持った器、名前は呼ばれるたびに育っていく運」と書かれている">
+<rect width="800" height="320" fill="var(--sun-soft, #f6ead0)"/>
+<path d="M0 262 Q200 244 400 258 T800 250 V320 H0Z" fill="var(--sunk, #efe8dc)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <text x="400" y="50" font-size="28" font-weight="700" fill="var(--ink, #26221d)">名前の画数を読む</text>
+  <text x="400" y="80" font-size="16" fill="var(--ink-soft, #6a6157)">命式は生まれ持った器、名前は呼ばれるたびに育っていく運</text>
+  <!-- たて書きの名札 -->
+  <rect x="150" y="96" width="100" height="186" rx="8" fill="var(--surface, #fffdf8)" stroke="var(--do, #a87018)" stroke-width="3"/>
+  <g font-family="Zen Old Mincho, serif" font-size="34" font-weight="700" fill="var(--ink, #26221d)">
+    <text x="196" y="134">小</text>
+    <text x="196" y="174">川</text>
+    <text x="196" y="226">日</text>
+    <text x="196" y="266">和</text>
+  </g>
+  <g font-size="12" fill="var(--ink-soft, #6a6157)">
+    <text x="236" y="130">3</text>
+    <text x="236" y="170">3</text>
+    <text x="236" y="222">4</text>
+    <text x="236" y="262">8</text>
+  </g>
+  <path d="M168 190 H226" stroke="var(--sunk, #efe8dc)" stroke-width="2"/>
+  <!-- 五格の札 -->
+  <g font-size="18" font-weight="700">
+    <rect x="320" y="112" width="130" height="44" rx="22" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2.5"/>
+    <text x="385" y="141" fill="var(--sui, #2854a0)">天格 6</text>
+    <rect x="470" y="112" width="130" height="44" rx="22" fill="var(--surface, #fffdf8)" stroke="var(--warm, #c03430)" stroke-width="2.5"/>
+    <text x="535" y="141" fill="var(--warm, #c03430)">人格 7</text>
+    <rect x="620" y="112" width="130" height="44" rx="22" fill="var(--surface, #fffdf8)" stroke="var(--moku, #2d7a4a)" stroke-width="2.5"/>
+    <text x="685" y="141" fill="var(--moku, #2d7a4a)">地格 12</text>
+    <rect x="395" y="176" width="130" height="44" rx="22" fill="var(--surface, #fffdf8)" stroke="var(--do, #a87018)" stroke-width="2.5"/>
+    <text x="460" y="205" fill="var(--do, #a87018)">外格 11</text>
+    <rect x="545" y="176" width="130" height="44" rx="22" fill="var(--surface, #fffdf8)" stroke="var(--kin, #6b7584)" stroke-width="2.5"/>
+    <text x="610" y="205" fill="var(--kin, #6b7584)">総格 18</text>
+  </g>
+  <text x="535" y="300" font-size="14" fill="var(--ink-soft, #6a6157)">五格 ― 天格・人格・地格・外格・総格を、自分の指で数えよう</text>
+</g>
+</svg>

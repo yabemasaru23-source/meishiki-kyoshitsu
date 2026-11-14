@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="あたたかい色の背景に、3つの丸が並んでいる。左から「命」生まれたときで読む・地図、「卜」偶然に出た形で読む・道しるべ、「相」かたちを見て読む・鏡。上に「占いの地図」、その下に「何を見て読むかで、占いは3つに分かれる」、いちばん下に「軸は命（四柱推命）、卜と相は別の角度」と書かれている">
+<rect width="800" height="320" fill="var(--sun-soft, #f6ead0)"/>
+<path d="M0 262 Q200 244 400 258 T800 250 V320 H0Z" fill="var(--sunk, #efe8dc)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <text x="400" y="50" font-size="28" font-weight="700" fill="var(--ink, #26221d)">占いの地図</text>
+  <text x="400" y="80" font-size="16" fill="var(--ink-soft, #6a6157)">何を見て読むかで、占いは3つに分かれる</text>
+  <circle cx="220" cy="168" r="58" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="4"/>
+  <text x="220" y="184" font-size="46" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">命</text>
+  <text x="220" y="250" font-size="14" fill="var(--ink, #26221d)">生まれたとき・地図</text>
+  <circle cx="400" cy="168" r="58" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2.5"/>
+  <text x="400" y="184" font-size="46" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">卜</text>
+  <text x="400" y="250" font-size="14" fill="var(--ink, #26221d)">偶然に出た形・道しるべ</text>
+  <circle cx="580" cy="168" r="58" fill="var(--surface, #fffdf8)" stroke="var(--moku, #2d7a4a)" stroke-width="2.5"/>
+  <text x="580" y="184" font-size="46" font-weight="700" font-family="Zen Old Mincho, serif" fill="var(--ink, #26221d)">相</text>
+  <text x="580" y="250" font-size="14" fill="var(--ink, #26221d)">かたち・鏡</text>
+  <text x="400" y="298" font-size="14" fill="var(--ink-soft, #6a6157)">軸は命（四柱推命）。卜と相は「別の角度」として重ねる</text>
+</g>
+</svg>

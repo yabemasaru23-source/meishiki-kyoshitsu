@@ -189,6 +189,20 @@
       "title": "特殊星（神殺）― 命式にひそむ小さな印",
       "required": false,
       "file": "23_特殊星.md"
+    },
+    {
+      "id": "24",
+      "stage": "4",
+      "title": "姓名判断 ― 名前の画数を読む",
+      "required": false,
+      "file": "24_姓名判断.md"
+    },
+    {
+      "id": "25",
+      "stage": "4",
+      "title": "占いの地図 ― 命・卜・相",
+      "required": false,
+      "file": "25_命卜相.md"
     }
   ]
 }
