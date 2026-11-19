@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="信頼が少しずつ広がる輪の図。まん中の円に「わたし」と「なぜ占いをするのか」。そのまわりに内側から順に、身近な人（家族・友だち）、モニター鑑定の人、紹介された人、いちばん外側の点線の輪に発信で知った人。中心から外へ向かう矢印に「感想・紹介」と書いてある。右側には、1 身近な人に練習の鑑定をする、2 モニター鑑定で感想をもらう、3 感想と紹介で知り合いの知り合いへ、4 発信は輪の外の人へのお知らせ、とあり、いちばん下に、内側の輪が育つほど外側へ広がる、と書いてある">
+<defs>
+  <marker id="f30a" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" refX="11" refY="6" orient="auto"><path d="M0 0 L12 6 L0 12 z" fill="var(--warm, #c03430)"/></marker>
+</defs>
+<rect width="800" height="520" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <!-- 輪（中心 260,260） -->
+  <circle cx="260" cy="260" r="240" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2" stroke-dasharray="8 7"/>
+  <circle cx="260" cy="260" r="200" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="2"/>
+  <circle cx="260" cy="260" r="150" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="2"/>
+  <circle cx="260" cy="260" r="100" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="2"/>
+  <circle cx="260" cy="260" r="50" fill="var(--sun, #d9a441)"/>
+  <!-- 中心 -->
+  <text x="260" y="256" font-size="18" font-weight="700" fill="var(--ink, #26221d)">わたし</text>
+  <text x="260" y="278" font-size="13" fill="var(--ink, #26221d)">の「なぜ」</text>
+  <!-- 輪のラベル（上側の帯の中） -->
+  <text x="260" y="198" font-size="15" font-weight="700" fill="var(--ink, #26221d)">① 身近な人</text>
+  <text x="260" y="152" font-size="15" font-weight="700" fill="var(--ink, #26221d)">② モニター鑑定の人</text>
+  <text x="260" y="100" font-size="15" font-weight="700" fill="var(--ink, #26221d)">③ 紹介された人</text>
+  <text x="260" y="52" font-size="15" font-weight="700" fill="var(--ink-soft, #6a6157)">④ 発信で知った人</text>
+  <!-- 外へ広がる矢印（右下45度） -->
+  <path d="M300 300 L420 420" stroke="var(--warm, #c03430)" stroke-width="4" fill="none" marker-end="url(#f30a)"/>
+  <rect x="268" y="388" width="100" height="26" rx="13" fill="var(--surface, #fffdf8)" stroke="var(--warm, #c03430)" stroke-width="1.5"/>
+  <text x="318" y="406" font-size="14" font-weight="700" fill="var(--warm, #c03430)">感想・紹介</text>
+  <!-- 右の説明（x 530〜780） -->
+  <g text-anchor="start" fill="var(--ink, #26221d)">
+    <text x="530" y="60" font-size="17" font-weight="700">信頼の広がり方</text>
+    <text x="530" y="110" font-size="15" font-weight="700">① 身近な人に</text>
+    <text x="552" y="134" font-size="14" fill="var(--ink-soft, #6a6157)">練習の鑑定（第22章）</text>
+    <text x="530" y="180" font-size="15" font-weight="700">② モニター鑑定で</text>
+    <text x="552" y="204" font-size="14" fill="var(--ink-soft, #6a6157)">感想をもらう（第26章）</text>
+    <text x="530" y="250" font-size="15" font-weight="700">③ 感想と紹介で</text>
+    <text x="552" y="274" font-size="14" fill="var(--ink-soft, #6a6157)">知り合いの知り合いへ</text>
+    <text x="530" y="320" font-size="15" font-weight="700">④ 発信は</text>
+    <text x="552" y="344" font-size="14" fill="var(--ink-soft, #6a6157)">輪の外の人への「お知らせ」</text>
+  </g>
+  <rect x="524" y="400" width="252" height="64" rx="12" fill="var(--sunk, #efe8dc)"/>
+  <text x="650" y="428" font-size="15" font-weight="700" fill="var(--ink, #26221d)">内側の輪が育つほど</text>
+  <text x="650" y="452" font-size="15" font-weight="700" fill="var(--ink, #26221d)">外側へ広がる</text>
+</g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" aria-label="鑑定メニューと料金の組み立て図。左の箱は1 形をえらぶで、対面・オンライン・メール・鑑定書PDF・相性・年運の6つの札があり、まずは2〜3個から、とある。まん中の箱は2 中身を決めるで、当日の時間、＋準備、＋記録・お礼の連絡、＝合計の時間、そして、すること・しないこと。右の箱は3 料金を出すで、時間単価、×合計の時間、＋実費、＝料金のもと、そして、経験に合わせて見直す。3つの箱は左から右へ矢印でつながる。下の帯は4 ルールを先に書くで、キャンセル・遅刻・延長・返金・記録の保管と削除、とある">
+<defs>
+  <marker id="f29a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink, #26221d)"/></marker>
+</defs>
+<rect width="800" height="380" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <!-- 矢印 -->
+  <g fill="none" stroke="var(--ink, #26221d)" stroke-width="3">
+    <path d="M256 160 H282" marker-end="url(#f29a)"/>
+    <path d="M516 160 H542" marker-end="url(#f29a)"/>
+  </g>
+
+  <!-- 1 形をえらぶ -->
+  <rect x="30" y="30" width="220" height="250" rx="14" fill="var(--sunk, #efe8dc)"/>
+  <circle cx="62" cy="62" r="16" fill="var(--sun, #d9a441)"/>
+  <text x="62" y="68" font-size="16" font-weight="700" fill="var(--ink, #26221d)">1</text>
+  <text x="152" y="69" font-size="19" font-weight="700" fill="var(--ink, #26221d)">形をえらぶ</text>
+  <g fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="2">
+    <rect x="44" y="96" width="92" height="32" rx="16"/><rect x="144" y="96" width="92" height="32" rx="16"/>
+    <rect x="44" y="140" width="92" height="32" rx="16"/><rect x="144" y="140" width="92" height="32" rx="16"/>
+    <rect x="44" y="184" width="92" height="32" rx="16"/><rect x="144" y="184" width="92" height="32" rx="16"/>
+  </g>
+  <g font-size="14" fill="var(--ink, #26221d)">
+    <text x="90" y="117">対面</text><text x="190" y="117">オンライン</text>
+    <text x="90" y="161">メール</text><text x="190" y="161">鑑定書PDF</text>
+    <text x="90" y="205">相性</text><text x="190" y="205">年運</text>
+  </g>
+  <text x="140" y="252" font-size="14" fill="var(--ink-soft, #6a6157)">まずは2〜3個から</text>
+
+  <!-- 2 中身を決める -->
+  <rect x="290" y="30" width="220" height="250" rx="14" fill="var(--sunk, #efe8dc)"/>
+  <circle cx="322" cy="62" r="16" fill="var(--sun, #d9a441)"/>
+  <text x="322" y="68" font-size="16" font-weight="700" fill="var(--ink, #26221d)">2</text>
+  <text x="412" y="69" font-size="19" font-weight="700" fill="var(--ink, #26221d)">中身を決める</text>
+  <g font-size="15" fill="var(--ink, #26221d)">
+    <text x="400" y="112">当日の時間</text>
+    <text x="400" y="138">＋ 準備</text>
+    <text x="400" y="164">＋ 記録・お礼の連絡</text>
+  </g>
+  <path d="M320 178 H480" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+  <text x="400" y="200" font-size="16" font-weight="700" fill="var(--ink, #26221d)">＝ 合計の時間</text>
+  <rect x="310" y="226" width="180" height="34" rx="17" fill="var(--surface, #fffdf8)" stroke="var(--moku, #2d7a4a)" stroke-width="2"/>
+  <text x="400" y="248" font-size="14" fill="var(--moku, #2d7a4a)">すること・しないこと</text>
+
+  <!-- 3 料金を出す -->
+  <rect x="550" y="30" width="220" height="250" rx="14" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="3"/>
+  <circle cx="582" cy="62" r="16" fill="var(--sun, #d9a441)"/>
+  <text x="582" y="68" font-size="16" font-weight="700" fill="var(--ink, #26221d)">3</text>
+  <text x="672" y="69" font-size="19" font-weight="700" fill="var(--ink, #26221d)">料金を出す</text>
+  <g font-size="15" fill="var(--ink, #26221d)">
+    <text x="660" y="112">時間単価</text>
+    <text x="660" y="138">× 合計の時間</text>
+    <text x="660" y="164">＋ 実費</text>
+  </g>
+  <path d="M580 178 H740" stroke="var(--ink-soft, #6a6157)" stroke-width="1.5"/>
+  <text x="660" y="200" font-size="16" font-weight="700" fill="var(--ink, #26221d)">＝ 料金のもと</text>
+  <rect x="570" y="226" width="180" height="34" rx="17" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="2"/>
+  <text x="660" y="248" font-size="14" fill="var(--sui, #2854a0)">経験に合わせて見直す</text>
+
+  <!-- 4 ルール -->
+  <rect x="30" y="300" width="740" height="62" rx="16" fill="var(--warm, #c03430)" fill-opacity=".12"/>
+  <circle cx="62" cy="331" r="16" fill="var(--sun, #d9a441)"/>
+  <text x="62" y="337" font-size="16" font-weight="700" fill="var(--ink, #26221d)">4</text>
+  <text x="416" y="337" font-size="16" font-weight="700" fill="var(--warm, #c03430)">ルールを先に書く ― キャンセル・遅刻・延長・返金・記録の保管と削除</text>
+</g>
+</svg>

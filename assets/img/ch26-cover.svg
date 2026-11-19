@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="左に、点検表をはさんだクリップボード。性別・時刻・節入り・流派の4行に、チェックの印がついている。右には、30個の小さな丸が5行6列に並び、はじめの12個に色がついていて、モニター鑑定を1人ずつ重ねていくようすを表している。まん中のふきだしには「練習させてね」と書いてある">
+<rect width="800" height="320" fill="var(--sun-soft, #f6ead0)"/>
+<path d="M0 280 H800 V320 H0Z" fill="var(--sunk, #efe8dc)"/>
+<g font-family="Zen Maru Gothic, sans-serif" stroke-linecap="round" stroke-linejoin="round">
+  <!-- クリップボード -->
+  <rect x="90" y="40" width="220" height="250" rx="14" fill="var(--do, #a87018)"/>
+  <rect x="106" y="62" width="188" height="214" rx="8" fill="var(--surface, #fffdf8)"/>
+  <rect x="160" y="30" width="80" height="26" rx="8" fill="var(--kin, #6b7584)"/>
+  <text x="200" y="96" font-size="18" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">鑑定前の点検</text>
+  <g font-size="16" fill="var(--ink, #26221d)">
+    <rect x="124" y="114" width="22" height="22" rx="4" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="2"/>
+    <path d="M128 125 L134 131 L144 118" fill="none" stroke="var(--moku, #2d7a4a)" stroke-width="3"/>
+    <text x="158" y="131">性別</text>
+    <rect x="124" y="152" width="22" height="22" rx="4" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="2"/>
+    <path d="M128 163 L134 169 L144 156" fill="none" stroke="var(--moku, #2d7a4a)" stroke-width="3"/>
+    <text x="158" y="169">時刻と場所</text>
+    <rect x="124" y="190" width="22" height="22" rx="4" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="2"/>
+    <path d="M128 201 L134 207 L144 194" fill="none" stroke="var(--moku, #2d7a4a)" stroke-width="3"/>
+    <text x="158" y="207">節入り</text>
+    <rect x="124" y="228" width="22" height="22" rx="4" fill="none" stroke="var(--ink-soft, #6a6157)" stroke-width="2"/>
+    <path d="M128 239 L134 245 L144 232" fill="none" stroke="var(--moku, #2d7a4a)" stroke-width="3"/>
+    <text x="158" y="245">流派の所</text>
+  </g>
+  <!-- ふきだし -->
+  <path d="M350 92 H450 Q466 92 466 108 V128 Q466 144 450 144 H404 L392 162 L386 144 H350 Q334 144 334 128 V108 Q334 92 350 92Z" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+  <text x="400" y="124" font-size="17" text-anchor="middle" fill="var(--ink, #26221d)">練習させてね</text>
+  <!-- 30の丸（5行×6列） -->
+  <g>
+    <circle cx="520" cy="80" r="15" fill="var(--moku, #2d7a4a)"/><circle cx="560" cy="80" r="15" fill="var(--ka, #c03430)"/><circle cx="600" cy="80" r="15" fill="var(--do, #a87018)"/><circle cx="640" cy="80" r="15" fill="var(--kin, #6b7584)"/><circle cx="680" cy="80" r="15" fill="var(--sui, #2854a0)"/><circle cx="720" cy="80" r="15" fill="var(--moku, #2d7a4a)"/>
+    <circle cx="520" cy="122" r="15" fill="var(--ka, #c03430)"/><circle cx="560" cy="122" r="15" fill="var(--do, #a87018)"/><circle cx="600" cy="122" r="15" fill="var(--kin, #6b7584)"/><circle cx="640" cy="122" r="15" fill="var(--sui, #2854a0)"/><circle cx="680" cy="122" r="15" fill="var(--moku, #2d7a4a)"/><circle cx="720" cy="122" r="15" fill="var(--ka, #c03430)"/>
+  </g>
+  <g fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2" stroke-dasharray="4 4">
+    <circle cx="520" cy="164" r="15"/><circle cx="560" cy="164" r="15"/><circle cx="600" cy="164" r="15"/><circle cx="640" cy="164" r="15"/><circle cx="680" cy="164" r="15"/><circle cx="720" cy="164" r="15"/>
+    <circle cx="520" cy="206" r="15"/><circle cx="560" cy="206" r="15"/><circle cx="600" cy="206" r="15"/><circle cx="640" cy="206" r="15"/><circle cx="680" cy="206" r="15"/><circle cx="720" cy="206" r="15"/>
+    <circle cx="520" cy="248" r="15"/><circle cx="560" cy="248" r="15"/><circle cx="600" cy="248" r="15"/><circle cx="640" cy="248" r="15"/><circle cx="680" cy="248" r="15"/><circle cx="720" cy="248" r="15"/>
+  </g>
+  <text x="620" y="40" font-size="15" text-anchor="middle" fill="var(--ink-soft, #6a6157)">1人ずつ、30人まで</text>
+</g>
+</svg>

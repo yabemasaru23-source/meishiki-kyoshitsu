@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="モニター鑑定の流れ。上の段を左から右へ、1 募集する（知人とその紹介から、練習だと伝える）、2 案内と同意（時間・料金・記録を伝え、文でOKをもらう）、3 鑑定前の点検（性別・時刻・節入り、流派で分かれる所）。右はしで下の段へおりて、右から左へ、4 当日の鑑定（第21章の5ステップ、時間を計る）、5 感想をもらう（当日と翌日に、公開は別に聞く）、6 ふり返る（当たった・外れた、次に直すこと）。6から1へもどる矢印に、次の人へ、とある。まん中に、10人ごとにふり返りシートを見くらべる、とある">
+<defs>
+  <marker id="f26a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink, #26221d)"/></marker>
+</defs>
+<rect width="800" height="360" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif">
+  <text x="20" y="30" font-size="15" fill="var(--ink-soft, #6a6157)">モニター鑑定の流れ（10〜30人、くり返す）</text>
+  <!-- 矢印 -->
+  <g fill="none" stroke="var(--ink, #26221d)" stroke-width="3">
+    <path d="M246 100 H292" marker-end="url(#f26a)"/>
+    <path d="M506 100 H552" marker-end="url(#f26a)"/>
+    <path d="M660 154 V204" marker-end="url(#f26a)"/>
+    <path d="M554 260 H508" marker-end="url(#f26a)"/>
+    <path d="M294 260 H248" marker-end="url(#f26a)"/>
+    <path d="M140 206 V156" marker-end="url(#f26a)"/>
+  </g>
+  <text x="154" y="186" font-size="14" font-weight="700" fill="var(--warm, #c03430)">次の人へ</text>
+  <text x="400" y="186" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">10人ごとに、ふり返りシートを見くらべる</text>
+
+  <!-- 上の段 y 50〜150 -->
+  <g>
+    <rect x="40" y="50" width="200" height="100" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cx="70" cy="80" r="16" fill="var(--sun, #d9a441)"/>
+    <text x="70" y="86" font-size="16" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">1</text>
+    <text x="96" y="87" font-size="18" font-weight="700" fill="var(--ink, #26221d)">募集する</text>
+    <text x="140" y="116" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">知人と、その紹介から</text>
+    <text x="140" y="138" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">練習だと伝える</text>
+  </g>
+  <g>
+    <rect x="300" y="50" width="200" height="100" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cx="330" cy="80" r="16" fill="var(--sun, #d9a441)"/>
+    <text x="330" y="86" font-size="16" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">2</text>
+    <text x="356" y="87" font-size="18" font-weight="700" fill="var(--ink, #26221d)">案内と同意</text>
+    <text x="400" y="116" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">時間・料金・記録</text>
+    <text x="400" y="138" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">文で「OK」をもらう</text>
+  </g>
+  <g>
+    <rect x="560" y="50" width="200" height="100" rx="14" fill="var(--sun-soft, #f6ead0)" stroke="var(--sun, #d9a441)" stroke-width="3"/>
+    <circle cx="590" cy="80" r="16" fill="var(--sun, #d9a441)"/>
+    <text x="590" y="86" font-size="16" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">3</text>
+    <text x="616" y="87" font-size="18" font-weight="700" fill="var(--ink, #26221d)">鑑定前の点検</text>
+    <text x="660" y="116" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">性別・時刻・節入り</text>
+    <text x="660" y="138" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">流派で分かれる所</text>
+  </g>
+
+  <!-- 下の段 y 210〜310（右から左） -->
+  <g>
+    <rect x="560" y="210" width="200" height="100" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cx="590" cy="240" r="16" fill="var(--sun, #d9a441)"/>
+    <text x="590" y="246" font-size="16" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">4</text>
+    <text x="616" y="247" font-size="18" font-weight="700" fill="var(--ink, #26221d)">当日の鑑定</text>
+    <text x="660" y="276" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">第21章の5ステップ</text>
+    <text x="660" y="298" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">時間を計る</text>
+  </g>
+  <g>
+    <rect x="300" y="210" width="200" height="100" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cx="330" cy="240" r="16" fill="var(--sun, #d9a441)"/>
+    <text x="330" y="246" font-size="16" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">5</text>
+    <text x="356" y="247" font-size="18" font-weight="700" fill="var(--ink, #26221d)">感想をもらう</text>
+    <text x="400" y="276" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">当日と、次の日に</text>
+    <text x="400" y="298" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">公開は別に聞く</text>
+  </g>
+  <g>
+    <rect x="40" y="210" width="200" height="100" rx="14" fill="var(--sunk, #efe8dc)"/>
+    <circle cx="70" cy="240" r="16" fill="var(--sun, #d9a441)"/>
+    <text x="70" y="246" font-size="16" font-weight="700" text-anchor="middle" fill="var(--ink, #26221d)">6</text>
+    <text x="96" y="247" font-size="18" font-weight="700" fill="var(--ink, #26221d)">ふり返る</text>
+    <text x="140" y="276" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">当たった・外れた</text>
+    <text x="140" y="298" font-size="14" text-anchor="middle" fill="var(--ink-soft, #6a6157)">次に直すこと</text>
+  </g>
+
+  <!-- 約束の帯 -->
+  <rect x="40" y="322" width="720" height="28" rx="14" fill="var(--warm, #c03430)" fill-opacity=".12"/>
+  <text x="400" y="341" font-size="14" font-weight="700" text-anchor="middle" fill="var(--warm, #c03430)">いつも ― 練習だと正直に・相手が選べる・記録は決めた期間で消す</text>
+</g>
+</svg>

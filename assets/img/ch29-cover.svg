@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="カフェの黒板のようなメニュー表。見出しは「鑑定メニュー」。対面鑑定、オンライン鑑定、相性鑑定、鑑定書の4行があり、それぞれの右に時間と、まだ空いている料金の欄がある。黒板の下には「ルール：キャンセル・延長・返金・記録」と書いた札がさがっている。右には砂時計と、計算の式「時間単価 × 時間 ＋ 実費」が書かれたメモがある">
+<rect width="800" height="320" fill="var(--sun-soft, #f6ead0)"/>
+<path d="M0 286 H800 V320 H0Z" fill="var(--sunk, #efe8dc)"/>
+<g font-family="Zen Maru Gothic, sans-serif" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 黒板 -->
+  <rect x="60" y="26" width="440" height="226" rx="12" fill="var(--do, #a87018)"/>
+  <rect x="74" y="40" width="412" height="198" rx="6" fill="var(--ink, #26221d)"/>
+  <text x="280" y="76" font-size="22" font-weight="700" text-anchor="middle" fill="var(--surface, #fffdf8)">鑑定メニュー</text>
+  <path d="M110 90 H450" stroke="var(--surface, #fffdf8)" stroke-width="1.5" stroke-dasharray="2 6" opacity=".7"/>
+  <g font-size="17" fill="var(--surface, #fffdf8)">
+    <text x="100" y="122">対面鑑定</text><text x="330" y="122" text-anchor="end" opacity=".8">60分</text>
+    <text x="100" y="156">オンライン鑑定</text><text x="330" y="156" text-anchor="end" opacity=".8">45分</text>
+    <text x="100" y="190">相性鑑定</text><text x="330" y="190" text-anchor="end" opacity=".8">60分</text>
+    <text x="100" y="224">鑑定書</text><text x="330" y="224" text-anchor="end" opacity=".8">PDF</text>
+  </g>
+  <g fill="none" stroke="var(--surface, #fffdf8)" stroke-width="2" opacity=".85">
+    <rect x="354" y="104" width="104" height="24" rx="5"/>
+    <rect x="354" y="138" width="104" height="24" rx="5"/>
+    <rect x="354" y="172" width="104" height="24" rx="5"/>
+    <rect x="354" y="206" width="104" height="24" rx="5"/>
+  </g>
+  <g font-size="14" fill="var(--surface, #fffdf8)" text-anchor="end">
+    <text x="450" y="121">円</text><text x="450" y="155">円</text><text x="450" y="189">円</text><text x="450" y="223">円</text>
+  </g>
+  <!-- ルールの札 -->
+  <path d="M200 252 L210 264 M360 252 L350 264" stroke="var(--ink-soft, #6a6157)" stroke-width="2"/>
+  <rect x="125" y="262" width="310" height="34" rx="8" fill="var(--surface, #fffdf8)" stroke="var(--warm, #c03430)" stroke-width="2.5"/>
+  <text x="280" y="285" font-size="15" font-weight="700" text-anchor="middle" fill="var(--warm, #c03430)">ルール：キャンセル・延長・返金・記録</text>
+  <!-- 砂時計 -->
+  <g transform="translate(590 70)">
+    <rect x="-40" y="0" width="80" height="12" rx="4" fill="var(--do, #a87018)"/>
+    <rect x="-40" y="128" width="80" height="12" rx="4" fill="var(--do, #a87018)"/>
+    <path d="M-30 12 H30 Q30 52 4 70 Q30 88 30 128 H-30 Q-30 88 -4 70 Q-30 52 -30 12Z" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+    <path d="M-20 30 H20 Q16 50 0 62 Q-16 50 -20 30Z" fill="var(--sun, #d9a441)"/>
+    <path d="M-22 126 Q0 98 22 126Z" fill="var(--sun, #d9a441)"/>
+  </g>
+  <!-- 計算のメモ -->
+  <rect x="530" y="226" width="230" height="52" rx="8" fill="var(--surface, #fffdf8)" stroke="var(--sun, #d9a441)" stroke-width="2.5"/>
+  <text x="645" y="258" font-size="15" text-anchor="middle" fill="var(--ink, #26221d)">時間単価 × 時間 ＋ 実費</text>
+</g>
+</svg>

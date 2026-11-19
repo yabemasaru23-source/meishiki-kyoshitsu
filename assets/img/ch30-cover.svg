@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="地面から小さな芽がひとつ出ていて、そのまわりに水の輪のような輪が3重に広がっている。輪の外の左側に立つ人のふきだしには「ありがとう、楽になった」、右側に立つ人のふきだしには「友だちにも教えたいな」と書いてある。ひとりの感想から、信頼が少しずつ外へ広がっていくようす">
+<rect width="800" height="320" fill="var(--sun-soft, #f6ead0)"/>
+<path d="M0 250 H800 V320 H0Z" fill="var(--sunk, #efe8dc)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 広がる輪（中心 400,270） -->
+  <g fill="none" stroke="var(--sun, #d9a441)" stroke-width="3">
+    <ellipse cx="400" cy="270" rx="70" ry="16"/>
+    <ellipse cx="400" cy="270" rx="140" ry="30" opacity=".7"/>
+    <ellipse cx="400" cy="270" rx="210" ry="44" opacity=".45"/>
+  </g>
+  <!-- 芽 -->
+  <path d="M400 270 V214" stroke="var(--moku, #2d7a4a)" stroke-width="5" fill="none"/>
+  <path d="M400 232 Q372 228 362 204 Q392 202 400 232Z" fill="var(--moku, #2d7a4a)"/>
+  <path d="M400 222 Q428 216 440 190 Q408 190 400 222Z" fill="var(--moku, #2d7a4a)"/>
+  <!-- 左の人（x=110） -->
+  <circle cx="110" cy="196" r="15" fill="var(--ka, #c03430)"/>
+  <path d="M88 252 Q88 216 110 216 Q132 216 132 252Z" fill="var(--ka, #c03430)"/>
+  <!-- 右の人（x=690） -->
+  <circle cx="690" cy="196" r="15" fill="var(--sui, #2854a0)"/>
+  <path d="M668 252 Q668 216 690 216 Q712 216 712 252Z" fill="var(--sui, #2854a0)"/>
+  <!-- 左のふきだし（x 40〜260, y 40〜120） -->
+  <path d="M60 40 H240 Q260 40 260 60 V100 Q260 120 240 120 H136 L118 160 L112 120 H60 Q40 120 40 100 V60 Q40 40 60 40Z" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+  <text x="150" y="74" font-size="20" fill="var(--ink, #26221d)">ありがとう、</text>
+  <text x="150" y="104" font-size="20" fill="var(--ink, #26221d)">楽になった</text>
+  <!-- 右のふきだし（x 540〜760, y 40〜120） -->
+  <path d="M560 40 H740 Q760 40 760 60 V100 Q760 120 740 120 H688 L682 160 L664 120 H560 Q540 120 540 100 V60 Q540 40 560 40Z" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+  <text x="650" y="74" font-size="20" fill="var(--ink, #26221d)">友だちにも</text>
+  <text x="650" y="104" font-size="20" fill="var(--ink, #26221d)">教えたいな</text>
+</g>
+</svg>

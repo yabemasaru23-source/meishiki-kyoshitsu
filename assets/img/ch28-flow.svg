@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="むずかしい相談への対応の流れ。1 受けとめる：話をさえぎらず、つらさをくり返す。2 確かめる：命の危険はある？。命の危険がさしせまっているときは、すぐに110番・119番、一緒に連絡する。いますぐではないときは、3 つなぐ：窓口を一緒に調べる、4 続けない：命式の話にもどさない、へ進む。いちばん下に、どの場面でも 5 自分を守る：時間・役目・回数の境界線をひく、ひとりでかかえない、休む、とある">
+<defs>
+  <marker id="f28a" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="10" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="var(--ink, #26221d)"/></marker>
+</defs>
+<rect width="800" height="360" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle">
+  <g fill="none" stroke="var(--ink, #26221d)" stroke-width="3">
+    <path d="M194 105 H222" marker-end="url(#f28a)"/>
+    <path d="M404 78 L440 60" marker-end="url(#f28a)"/>
+    <path d="M404 150 L440 166" marker-end="url(#f28a)"/>
+    <path d="M604 182 H622" marker-end="url(#f28a)"/>
+  </g>
+  <!-- 1 受けとめる -->
+  <rect x="20" y="40" width="170" height="130" rx="14" fill="var(--sunk, #efe8dc)"/>
+  <circle cx="105" cy="66" r="16" fill="var(--sun, #d9a441)"/><text x="105" y="72" font-size="17" font-weight="700" fill="var(--ink, #26221d)">1</text>
+  <text x="105" y="108" font-size="18" font-weight="700" fill="var(--ink, #26221d)">受けとめる</text>
+  <text x="105" y="134" font-size="14" fill="var(--ink-soft, #6a6157)">話をさえぎらず</text>
+  <text x="105" y="154" font-size="14" fill="var(--ink-soft, #6a6157)">つらさをくり返す</text>
+  <!-- 2 確かめる -->
+  <rect x="230" y="40" width="170" height="130" rx="14" fill="var(--sunk, #efe8dc)"/>
+  <circle cx="315" cy="66" r="16" fill="var(--sun, #d9a441)"/><text x="315" y="72" font-size="17" font-weight="700" fill="var(--ink, #26221d)">2</text>
+  <text x="315" y="108" font-size="18" font-weight="700" fill="var(--ink, #26221d)">確かめる</text>
+  <text x="315" y="134" font-size="14" fill="var(--ink-soft, #6a6157)">命の危険は</text>
+  <text x="315" y="154" font-size="14" fill="var(--ink-soft, #6a6157)">ある？</text>
+  <!-- 緊急 -->
+  <rect x="450" y="20" width="330" height="72" rx="14" fill="var(--sun-soft, #f6ead0)" stroke="var(--warm, #c03430)" stroke-width="3"/>
+  <text x="615" y="48" font-size="14" fill="var(--ink, #26221d)">命の危険がさしせまっているとき</text>
+  <text x="615" y="76" font-size="16" font-weight="700" fill="var(--warm, #c03430)">すぐに110番・119番。一緒に連絡</text>
+  <!-- 分かれ道のことば -->
+  <text x="362" y="198" font-size="13" fill="var(--ink-soft, #6a6157)">いますぐではないとき</text>
+  <!-- 3 つなぐ -->
+  <rect x="450" y="120" width="150" height="125" rx="14" fill="var(--sunk, #efe8dc)"/>
+  <circle cx="525" cy="146" r="16" fill="var(--sun, #d9a441)"/><text x="525" y="152" font-size="17" font-weight="700" fill="var(--ink, #26221d)">3</text>
+  <text x="525" y="186" font-size="18" font-weight="700" fill="var(--ink, #26221d)">つなぐ</text>
+  <text x="525" y="210" font-size="14" fill="var(--ink-soft, #6a6157)">窓口を一緒に</text>
+  <text x="525" y="230" font-size="14" fill="var(--ink-soft, #6a6157)">調べる</text>
+  <!-- 4 続けない -->
+  <rect x="630" y="120" width="150" height="125" rx="14" fill="var(--sunk, #efe8dc)"/>
+  <circle cx="705" cy="146" r="16" fill="var(--sun, #d9a441)"/><text x="705" y="152" font-size="17" font-weight="700" fill="var(--ink, #26221d)">4</text>
+  <text x="705" y="186" font-size="18" font-weight="700" fill="var(--ink, #26221d)">続けない</text>
+  <text x="705" y="210" font-size="14" fill="var(--ink-soft, #6a6157)">命式の話に</text>
+  <text x="705" y="230" font-size="14" fill="var(--ink-soft, #6a6157)">もどさない</text>
+  <!-- 5 自分を守る -->
+  <text x="400" y="272" font-size="14" fill="var(--ink-soft, #6a6157)">どの場面でも</text>
+  <rect x="20" y="284" width="760" height="56" rx="14" fill="var(--sun-soft, #f6ead0)"/>
+  <circle cx="58" cy="312" r="16" fill="var(--moku, #2d7a4a)"/><text x="58" y="318" font-size="17" font-weight="700" fill="var(--surface, #fffdf8)">5</text>
+  <text x="88" y="318" font-size="16" text-anchor="start" fill="var(--ink, #26221d)">自分を守る：時間・役目・回数の境界線をひく／ひとりでかかえない／休む</text>
+</g>
+</svg>

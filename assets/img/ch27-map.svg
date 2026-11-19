@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-label="仕事として受けとるときの決まりの地図。まん中に有料の鑑定。左上はお金（税）：開業届・確定申告、住民税の申告、帳簿と領収書の保管。右上は売り方（表示・広告）：特定商取引法の表示、料金・支払い・キャンセルを書く、「必ず当たる」と言わない（景品表示法）。左下は契約：消費者契約法で不安をあおらない、追加料金・キャンセルの約束、未成年は保護者の同意。右下は情報：個人情報保護法と守秘、目的を伝える・集めすぎない、しまう・消す・SNSに出さない。いちばん下に、迷ったら税務署・税理士・弁護士・消費生活センター（188）に相談、とある">
+<rect width="800" height="420" rx="18" fill="var(--surface, #fffdf8)"/>
+<g font-family="Zen Maru Gothic, sans-serif">
+  <!-- 線 -->
+  <g stroke="var(--ink-soft, #6a6157)" stroke-width="3" fill="none">
+    <path d="M350 172 L290 120"/><path d="M450 172 L510 120"/>
+    <path d="M350 228 L290 290"/><path d="M450 228 L510 290"/>
+  </g>
+  <!-- まん中 -->
+  <circle cx="400" cy="200" r="62" fill="var(--sun, #d9a441)"/>
+  <g text-anchor="middle" font-size="20" font-weight="700" fill="var(--ink, #26221d)">
+    <text x="400" y="194">有料の</text><text x="400" y="222">鑑定</text>
+  </g>
+  <!-- 左上 お金 -->
+  <rect x="20" y="20" width="270" height="130" rx="14" fill="var(--sunk, #efe8dc)" stroke="var(--do, #a87018)" stroke-width="3"/>
+  <text x="36" y="52" font-size="18" font-weight="700" fill="var(--do, #a87018)">お金（税）</text>
+  <g font-size="14" fill="var(--ink, #26221d)">
+    <text x="36" y="82">開業届・確定申告</text>
+    <text x="36" y="106">住民税の申告</text>
+    <text x="36" y="130">帳簿と領収書の保管</text>
+  </g>
+  <!-- 右上 売り方 -->
+  <rect x="510" y="20" width="270" height="130" rx="14" fill="var(--sunk, #efe8dc)" stroke="var(--sui, #2854a0)" stroke-width="3"/>
+  <text x="526" y="52" font-size="18" font-weight="700" fill="var(--sui, #2854a0)">売り方（表示・広告）</text>
+  <g font-size="14" fill="var(--ink, #26221d)">
+    <text x="526" y="82">特定商取引法の表示</text>
+    <text x="526" y="106">料金・支払い・キャンセル</text>
+    <text x="526" y="130">「必ず当たる」と言わない</text>
+  </g>
+  <!-- 左下 契約 -->
+  <rect x="20" y="250" width="270" height="130" rx="14" fill="var(--sunk, #efe8dc)" stroke="var(--warm, #c03430)" stroke-width="3"/>
+  <text x="36" y="282" font-size="18" font-weight="700" fill="var(--warm, #c03430)">契約</text>
+  <g font-size="14" fill="var(--ink, #26221d)">
+    <text x="36" y="312">消費者契約法：不安をあおらない</text>
+    <text x="36" y="336">追加料金・キャンセルの約束</text>
+    <text x="36" y="360">未成年は保護者の同意</text>
+  </g>
+  <!-- 右下 情報 -->
+  <rect x="510" y="250" width="270" height="130" rx="14" fill="var(--sunk, #efe8dc)" stroke="var(--moku, #2d7a4a)" stroke-width="3"/>
+  <text x="526" y="282" font-size="18" font-weight="700" fill="var(--moku, #2d7a4a)">情報</text>
+  <g font-size="14" fill="var(--ink, #26221d)">
+    <text x="526" y="312">個人情報保護法と守秘</text>
+    <text x="526" y="336">目的を伝える・集めすぎない</text>
+    <text x="526" y="360">しまう・消す・SNSに出さない</text>
+  </g>
+  <text x="400" y="406" text-anchor="middle" font-size="15" fill="var(--ink-soft, #6a6157)">迷ったら：税務署・税理士・弁護士・消費生活センター（188）に相談</text>
+</g>
+</svg>

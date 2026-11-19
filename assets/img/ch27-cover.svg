@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="週末だけの小さなお店の屋台。赤いひさしに「週末だけの小さなお店」と書いてある。カウンターの上には、帳簿のノート、領収書、料金の札、鍵穴のついた盾が並び、その下にそれぞれ「帳簿」「領収書」「表示」「守る」と書いてある">
+<rect width="800" height="320" fill="var(--sun-soft, #f6ead0)"/>
+<path d="M0 270 H800 V320 H0Z" fill="var(--sunk, #efe8dc)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 柱 -->
+  <rect x="232" y="100" width="10" height="112" fill="var(--do, #a87018)"/>
+  <rect x="558" y="100" width="10" height="112" fill="var(--do, #a87018)"/>
+  <!-- ひさし -->
+  <g fill="var(--warm, #c03430)">
+    <rect x="220" y="56" width="360" height="44" rx="6"/>
+    <circle cx="240" cy="100" r="20"/><circle cx="280" cy="100" r="20"/><circle cx="320" cy="100" r="20"/>
+    <circle cx="360" cy="100" r="20"/><circle cx="400" cy="100" r="20"/><circle cx="440" cy="100" r="20"/>
+    <circle cx="480" cy="100" r="20"/><circle cx="520" cy="100" r="20"/><circle cx="560" cy="100" r="20"/>
+  </g>
+  <text x="400" y="86" font-size="20" font-weight="700" fill="var(--surface, #fffdf8)">週末だけの小さなお店</text>
+  <!-- 帳簿 -->
+  <rect x="250" y="140" width="70" height="60" rx="4" fill="var(--surface, #fffdf8)" stroke="var(--moku, #2d7a4a)" stroke-width="3"/>
+  <path d="M262 156 H308 M262 170 H308 M262 184 H296" stroke="var(--moku, #2d7a4a)" stroke-width="2.5"/>
+  <!-- 領収書 -->
+  <path d="M342 134 H388 V196 L380 190 L372 196 L365 190 L358 196 L350 190 L342 196Z" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+  <path d="M350 150 H380 M350 162 H380 M350 174 H370" stroke="var(--ink-soft, #6a6157)" stroke-width="2"/>
+  <!-- 料金の札 -->
+  <path d="M432 178 V200 M458 178 V200" stroke="var(--sui, #2854a0)" stroke-width="3"/>
+  <rect x="418" y="138" width="54" height="40" rx="6" fill="var(--surface, #fffdf8)" stroke="var(--sui, #2854a0)" stroke-width="3"/>
+  <text x="445" y="166" font-size="22" font-weight="700" fill="var(--sui, #2854a0)">¥</text>
+  <!-- 盾 -->
+  <path d="M525 136 L552 146 V170 Q552 190 525 200 Q498 190 498 170 V146Z" fill="var(--kin, #6b7584)"/>
+  <circle cx="525" cy="162" r="6" fill="var(--surface, #fffdf8)"/>
+  <rect x="522" y="165" width="6" height="14" rx="2" fill="var(--surface, #fffdf8)"/>
+  <!-- カウンター -->
+  <rect x="200" y="200" width="400" height="14" rx="5" fill="var(--sun, #d9a441)"/>
+  <rect x="210" y="214" width="380" height="56" rx="6" fill="var(--do, #a87018)"/>
+  <g font-size="16" fill="var(--surface, #fffdf8)">
+    <text x="285" y="248">帳簿</text>
+    <text x="365" y="248">領収書</text>
+    <text x="445" y="248">表示</text>
+    <text x="525" y="248">守る</text>
+  </g>
+</g>
+</svg>

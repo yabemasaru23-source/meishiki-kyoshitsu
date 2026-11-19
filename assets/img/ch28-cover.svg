@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" role="img" aria-label="山のあいだの小道の先に、窓にあかりのともった山小屋がある。小屋の右には「つなぎ先」と書いた道しるべが立っている">
+<rect width="800" height="320" fill="var(--sun-soft, #f6ead0)"/>
+<path d="M0 260 L150 110 L300 260Z" fill="var(--moku, #2d7a4a)" opacity=".35"/>
+<path d="M470 260 L650 90 L800 220 V260Z" fill="var(--sui, #2854a0)" opacity=".3"/>
+<path d="M0 260 H800 V320 H0Z" fill="var(--sunk, #efe8dc)"/>
+<g font-family="Zen Maru Gothic, sans-serif" text-anchor="middle" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 小道 -->
+  <path d="M120 320 Q260 290 330 286 T425 262" fill="none" stroke="var(--surface, #fffdf8)" stroke-width="14"/>
+  <!-- あかりの光 -->
+  <circle cx="375" cy="209" r="34" fill="var(--sun, #d9a441)" opacity=".35"/>
+  <!-- 小屋 -->
+  <rect x="340" y="170" width="120" height="90" fill="var(--do, #a87018)"/>
+  <path d="M322 176 L400 118 L478 176Z" fill="var(--warm, #c03430)"/>
+  <rect x="360" y="195" width="30" height="28" rx="3" fill="var(--sun, #d9a441)"/>
+  <path d="M375 195 V223 M360 209 H390" stroke="var(--do, #a87018)" stroke-width="2"/>
+  <rect x="410" y="205" width="30" height="55" rx="3" fill="var(--ink-soft, #6a6157)"/>
+  <!-- 道しるべ -->
+  <rect x="566" y="196" width="8" height="66" fill="var(--do, #a87018)"/>
+  <path d="M520 176 H612 L626 190 L612 204 H520Z" fill="var(--surface, #fffdf8)" stroke="var(--ink-soft, #6a6157)" stroke-width="2.5"/>
+  <text x="568" y="196" font-size="16" font-weight="700" fill="var(--ink, #26221d)">つなぎ先</text>
+</g>
+</svg>

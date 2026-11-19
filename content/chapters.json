@@ -19,6 +19,11 @@
       "key": "4",
       "name": "発展",
       "lead": "もっと深く読みたい人へ"
+    },
+    {
+      "key": "5",
+      "name": "占い師として活動する",
+      "lead": "学びを仕事にする"
     }
   ],
   "chapters": [
@@ -203,6 +208,41 @@
       "title": "占いの地図 ― 命・卜・相",
       "required": false,
       "file": "25_命卜相.md"
+    },
+    {
+      "id": "26",
+      "stage": "5",
+      "title": "モニター鑑定で経験を積む ― 鑑定前の点検つき",
+      "required": false,
+      "file": "26_モニター鑑定.md"
+    },
+    {
+      "id": "27",
+      "stage": "5",
+      "title": "お金と法律の基本",
+      "required": false,
+      "file": "27_お金と法律.md"
+    },
+    {
+      "id": "28",
+      "stage": "5",
+      "title": "むずかしい相談と、つなぎ先",
+      "required": false,
+      "file": "28_むずかしい相談.md"
+    },
+    {
+      "id": "29",
+      "stage": "5",
+      "title": "鑑定メニューと料金の決め方",
+      "required": false,
+      "file": "29_メニューと料金.md"
+    },
+    {
+      "id": "30",
+      "stage": "5",
+      "title": "集客の第一歩 ― 信頼から始める",
+      "required": false,
+      "file": "30_集客の第一歩.md"
     }
   ]
 }
